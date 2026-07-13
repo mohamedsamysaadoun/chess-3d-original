@@ -1,0 +1,362 @@
+[
+  {
+    "path_id": 56,
+    "script_path_id": 289,
+    "gameobject_path_id": 1,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 289
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 58,
+    "script_path_id": 286,
+    "gameobject_path_id": 3,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 3
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 286
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 3741,
+    "script_path_id": 269,
+    "gameobject_path_id": 58,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 58
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 269
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 3822,
+    "script_path_id": 269,
+    "gameobject_path_id": 156,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 156
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 269
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 3886,
+    "script_path_id": 131,
+    "gameobject_path_id": 226,
+    "enabled": 0,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 226
+      },
+      "m_Enabled": 0,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 131
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4131,
+    "script_path_id": 269,
+    "gameobject_path_id": 472,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 472
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 269
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4188,
+    "script_path_id": 332,
+    "gameobject_path_id": 533,
+    "enabled": 0,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 533
+      },
+      "m_Enabled": 0,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 332
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4192,
+    "script_path_id": 269,
+    "gameobject_path_id": 535,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 535
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 269
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4351,
+    "script_path_id": 269,
+    "gameobject_path_id": 692,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 692
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 269
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4396,
+    "script_path_id": 269,
+    "gameobject_path_id": 745,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 745
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 269
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4435,
+    "script_path_id": 332,
+    "gameobject_path_id": 785,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 785
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 332
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4459,
+    "script_path_id": 391,
+    "gameobject_path_id": 807,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 807
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 391
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4579,
+    "script_path_id": 368,
+    "gameobject_path_id": 921,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 921
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 368
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4595,
+    "script_path_id": 315,
+    "gameobject_path_id": 937,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 937
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 315
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4598,
+    "script_path_id": 269,
+    "gameobject_path_id": 941,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 941
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 269
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4617,
+    "script_path_id": 269,
+    "gameobject_path_id": 964,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 964
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 269
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4706,
+    "script_path_id": 332,
+    "gameobject_path_id": 1063,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1063
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 332
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4839,
+    "script_path_id": 269,
+    "gameobject_path_id": 1202,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1202
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 269
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4850,
+    "script_path_id": 269,
+    "gameobject_path_id": 1213,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1213
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 269
+      },
+      "m_Name": ""
+    }
+  },
+  {
+    "path_id": 4854,
+    "script_path_id": 44,
+    "gameobject_path_id": 1217,
+    "enabled": 1,
+    "typetree": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 1217
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 44
+      },
+      "m_Name": ""
+    }
+  }
+]

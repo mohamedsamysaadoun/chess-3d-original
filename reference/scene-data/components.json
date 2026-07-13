@@ -1,0 +1,6626 @@
+{
+  "22": {
+    "type": "Camera",
+    "path_id": 22,
+    "gameobject_path_id": 1,
+    "field_of_view": null
+  },
+  "23": {
+    "type": "AudioListener",
+    "path_id": 23,
+    "gameobject_path_id": 1
+  },
+  "56": {
+    "type": "MonoBehaviour",
+    "path_id": 56,
+    "script_path_id": 289
+  },
+  "1636": {
+    "type": "Camera",
+    "path_id": 1636,
+    "gameobject_path_id": 1,
+    "field_of_view": null
+  },
+  "2045": {
+    "type": "AudioListener",
+    "path_id": 2045,
+    "gameobject_path_id": 1
+  },
+  "28": {
+    "type": "ParticleSystem",
+    "path_id": 28,
+    "gameobject_path_id": 9
+  },
+  "30": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 30,
+    "gameobject_path_id": 9
+  },
+  "2125": {
+    "type": "CanvasRenderer",
+    "path_id": 2125,
+    "gameobject_path_id": 9
+  },
+  "29": {
+    "type": "ParticleSystem",
+    "path_id": 29,
+    "gameobject_path_id": 10
+  },
+  "31": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 31,
+    "gameobject_path_id": 10
+  },
+  "2126": {
+    "type": "CanvasRenderer",
+    "path_id": 2126,
+    "gameobject_path_id": 10
+  },
+  "32": {
+    "type": "CanvasRenderer",
+    "path_id": 32,
+    "gameobject_path_id": 2
+  },
+  "33": {
+    "type": "CanvasRenderer",
+    "path_id": 33,
+    "gameobject_path_id": 4
+  },
+  "2122": {
+    "type": "CanvasRenderer",
+    "path_id": 2122,
+    "gameobject_path_id": 4
+  },
+  "34": {
+    "type": "CanvasRenderer",
+    "path_id": 34,
+    "gameobject_path_id": 5
+  },
+  "35": {
+    "type": "CanvasRenderer",
+    "path_id": 35,
+    "gameobject_path_id": 8
+  },
+  "39": {
+    "type": "Canvas",
+    "path_id": 39,
+    "gameobject_path_id": 8
+  },
+  "2124": {
+    "type": "CanvasRenderer",
+    "path_id": 2124,
+    "gameobject_path_id": 8
+  },
+  "36": {
+    "type": "CanvasRenderer",
+    "path_id": 36,
+    "gameobject_path_id": 11
+  },
+  "37": {
+    "type": "CanvasRenderer",
+    "path_id": 37,
+    "gameobject_path_id": 12
+  },
+  "2127": {
+    "type": "CanvasRenderer",
+    "path_id": 2127,
+    "gameobject_path_id": 12
+  },
+  "38": {
+    "type": "CanvasRenderer",
+    "path_id": 38,
+    "gameobject_path_id": 14
+  },
+  "40": {
+    "type": "Canvas",
+    "path_id": 40,
+    "gameobject_path_id": 13
+  },
+  "58": {
+    "type": "MonoBehaviour",
+    "path_id": 58,
+    "script_path_id": 286
+  },
+  "2049": {
+    "type": "Light",
+    "path_id": 2049,
+    "gameobject_path_id": 3
+  },
+  "1637": {
+    "type": "Camera",
+    "path_id": 1637,
+    "gameobject_path_id": 78,
+    "field_of_view": null
+  },
+  "1638": {
+    "type": "Camera",
+    "path_id": 1638,
+    "gameobject_path_id": 337,
+    "field_of_view": null
+  },
+  "1639": {
+    "type": "Camera",
+    "path_id": 1639,
+    "gameobject_path_id": 407,
+    "field_of_view": null
+  },
+  "1640": {
+    "type": "Camera",
+    "path_id": 1640,
+    "gameobject_path_id": 1027,
+    "field_of_view": null
+  },
+  "1641": {
+    "type": "MeshRenderer",
+    "path_id": 1641,
+    "gameobject_path_id": 22,
+    "materials": [
+      3
+    ]
+  },
+  "1811": {
+    "type": "MeshFilter",
+    "path_id": 1811,
+    "gameobject_path_id": 22,
+    "mesh_path_id": 10202
+  },
+  "1981": {
+    "type": "BoxCollider",
+    "path_id": 1981,
+    "gameobject_path_id": 22
+  },
+  "1642": {
+    "type": "MeshRenderer",
+    "path_id": 1642,
+    "gameobject_path_id": 17,
+    "materials": [
+      75
+    ]
+  },
+  "1812": {
+    "type": "MeshFilter",
+    "path_id": 1812,
+    "gameobject_path_id": 17,
+    "mesh_path_id": 283
+  },
+  "1643": {
+    "type": "MeshRenderer",
+    "path_id": 1643,
+    "gameobject_path_id": 18,
+    "materials": [
+      67
+    ]
+  },
+  "1813": {
+    "type": "MeshFilter",
+    "path_id": 1813,
+    "gameobject_path_id": 18,
+    "mesh_path_id": 285
+  },
+  "1644": {
+    "type": "MeshRenderer",
+    "path_id": 1644,
+    "gameobject_path_id": 19,
+    "materials": [
+      74
+    ]
+  },
+  "1814": {
+    "type": "MeshFilter",
+    "path_id": 1814,
+    "gameobject_path_id": 19,
+    "mesh_path_id": 272
+  },
+  "1645": {
+    "type": "MeshRenderer",
+    "path_id": 1645,
+    "gameobject_path_id": 29,
+    "materials": [
+      23
+    ]
+  },
+  "1815": {
+    "type": "MeshFilter",
+    "path_id": 1815,
+    "gameobject_path_id": 29,
+    "mesh_path_id": 271
+  },
+  "1646": {
+    "type": "MeshRenderer",
+    "path_id": 1646,
+    "gameobject_path_id": 30,
+    "materials": [
+      55
+    ]
+  },
+  "1816": {
+    "type": "MeshFilter",
+    "path_id": 1816,
+    "gameobject_path_id": 30,
+    "mesh_path_id": 261
+  },
+  "1647": {
+    "type": "MeshRenderer",
+    "path_id": 1647,
+    "gameobject_path_id": 31,
+    "materials": [
+      54
+    ]
+  },
+  "1817": {
+    "type": "MeshFilter",
+    "path_id": 1817,
+    "gameobject_path_id": 31,
+    "mesh_path_id": 260
+  },
+  "1648": {
+    "type": "MeshRenderer",
+    "path_id": 1648,
+    "gameobject_path_id": 32,
+    "materials": [
+      84
+    ]
+  },
+  "1818": {
+    "type": "MeshFilter",
+    "path_id": 1818,
+    "gameobject_path_id": 32,
+    "mesh_path_id": 10210
+  },
+  "1649": {
+    "type": "MeshRenderer",
+    "path_id": 1649,
+    "gameobject_path_id": 36,
+    "materials": [
+      61
+    ]
+  },
+  "1819": {
+    "type": "MeshFilter",
+    "path_id": 1819,
+    "gameobject_path_id": 36,
+    "mesh_path_id": 266
+  },
+  "1650": {
+    "type": "MeshRenderer",
+    "path_id": 1650,
+    "gameobject_path_id": 35,
+    "materials": [
+      3
+    ]
+  },
+  "1820": {
+    "type": "MeshFilter",
+    "path_id": 1820,
+    "gameobject_path_id": 35,
+    "mesh_path_id": 10202
+  },
+  "1982": {
+    "type": "BoxCollider",
+    "path_id": 1982,
+    "gameobject_path_id": 35
+  },
+  "1651": {
+    "type": "MeshRenderer",
+    "path_id": 1651,
+    "gameobject_path_id": 54,
+    "materials": [
+      64
+    ]
+  },
+  "1821": {
+    "type": "MeshFilter",
+    "path_id": 1821,
+    "gameobject_path_id": 54,
+    "mesh_path_id": 262
+  },
+  "1652": {
+    "type": "MeshRenderer",
+    "path_id": 1652,
+    "gameobject_path_id": 64,
+    "materials": [
+      53
+    ]
+  },
+  "1822": {
+    "type": "MeshFilter",
+    "path_id": 1822,
+    "gameobject_path_id": 64,
+    "mesh_path_id": 277
+  },
+  "1653": {
+    "type": "MeshRenderer",
+    "path_id": 1653,
+    "gameobject_path_id": 73,
+    "materials": [
+      62
+    ]
+  },
+  "1823": {
+    "type": "MeshFilter",
+    "path_id": 1823,
+    "gameobject_path_id": 73,
+    "mesh_path_id": 266
+  },
+  "1654": {
+    "type": "MeshRenderer",
+    "path_id": 1654,
+    "gameobject_path_id": 96,
+    "materials": [
+      3
+    ]
+  },
+  "1824": {
+    "type": "MeshFilter",
+    "path_id": 1824,
+    "gameobject_path_id": 96,
+    "mesh_path_id": 10202
+  },
+  "1983": {
+    "type": "BoxCollider",
+    "path_id": 1983,
+    "gameobject_path_id": 96
+  },
+  "1655": {
+    "type": "MeshRenderer",
+    "path_id": 1655,
+    "gameobject_path_id": 103,
+    "materials": [
+      3
+    ]
+  },
+  "1825": {
+    "type": "MeshFilter",
+    "path_id": 1825,
+    "gameobject_path_id": 103,
+    "mesh_path_id": 10202
+  },
+  "1984": {
+    "type": "BoxCollider",
+    "path_id": 1984,
+    "gameobject_path_id": 103
+  },
+  "1656": {
+    "type": "MeshRenderer",
+    "path_id": 1656,
+    "gameobject_path_id": 104,
+    "materials": [
+      50
+    ]
+  },
+  "1826": {
+    "type": "MeshFilter",
+    "path_id": 1826,
+    "gameobject_path_id": 104,
+    "mesh_path_id": 257
+  },
+  "1657": {
+    "type": "MeshRenderer",
+    "path_id": 1657,
+    "gameobject_path_id": 110,
+    "materials": [
+      36
+    ]
+  },
+  "1827": {
+    "type": "MeshFilter",
+    "path_id": 1827,
+    "gameobject_path_id": 110,
+    "mesh_path_id": 278
+  },
+  "1658": {
+    "type": "MeshRenderer",
+    "path_id": 1658,
+    "gameobject_path_id": 113,
+    "materials": [
+      3
+    ]
+  },
+  "1828": {
+    "type": "MeshFilter",
+    "path_id": 1828,
+    "gameobject_path_id": 113,
+    "mesh_path_id": 10202
+  },
+  "1985": {
+    "type": "BoxCollider",
+    "path_id": 1985,
+    "gameobject_path_id": 113
+  },
+  "1659": {
+    "type": "MeshRenderer",
+    "path_id": 1659,
+    "gameobject_path_id": 116,
+    "materials": [
+      65
+    ]
+  },
+  "1829": {
+    "type": "MeshFilter",
+    "path_id": 1829,
+    "gameobject_path_id": 116,
+    "mesh_path_id": 266
+  },
+  "1660": {
+    "type": "MeshRenderer",
+    "path_id": 1660,
+    "gameobject_path_id": 123,
+    "materials": [
+      61
+    ]
+  },
+  "1830": {
+    "type": "MeshFilter",
+    "path_id": 1830,
+    "gameobject_path_id": 123,
+    "mesh_path_id": 266
+  },
+  "1661": {
+    "type": "MeshRenderer",
+    "path_id": 1661,
+    "gameobject_path_id": 125,
+    "materials": [
+      3
+    ]
+  },
+  "1831": {
+    "type": "MeshFilter",
+    "path_id": 1831,
+    "gameobject_path_id": 125,
+    "mesh_path_id": 10202
+  },
+  "1986": {
+    "type": "BoxCollider",
+    "path_id": 1986,
+    "gameobject_path_id": 125
+  },
+  "1662": {
+    "type": "MeshRenderer",
+    "path_id": 1662,
+    "gameobject_path_id": 126,
+    "materials": [
+      65
+    ]
+  },
+  "1832": {
+    "type": "MeshFilter",
+    "path_id": 1832,
+    "gameobject_path_id": 126,
+    "mesh_path_id": 266
+  },
+  "1663": {
+    "type": "MeshRenderer",
+    "path_id": 1663,
+    "gameobject_path_id": 141,
+    "materials": [
+      3
+    ]
+  },
+  "1833": {
+    "type": "MeshFilter",
+    "path_id": 1833,
+    "gameobject_path_id": 141,
+    "mesh_path_id": 10202
+  },
+  "1987": {
+    "type": "BoxCollider",
+    "path_id": 1987,
+    "gameobject_path_id": 141
+  },
+  "1664": {
+    "type": "MeshRenderer",
+    "path_id": 1664,
+    "gameobject_path_id": 143,
+    "materials": [
+      38
+    ]
+  },
+  "1834": {
+    "type": "MeshFilter",
+    "path_id": 1834,
+    "gameobject_path_id": 143,
+    "mesh_path_id": 256
+  },
+  "1665": {
+    "type": "MeshRenderer",
+    "path_id": 1665,
+    "gameobject_path_id": 167,
+    "materials": [
+      3
+    ]
+  },
+  "1835": {
+    "type": "MeshFilter",
+    "path_id": 1835,
+    "gameobject_path_id": 167,
+    "mesh_path_id": 10202
+  },
+  "1988": {
+    "type": "BoxCollider",
+    "path_id": 1988,
+    "gameobject_path_id": 167
+  },
+  "1666": {
+    "type": "MeshRenderer",
+    "path_id": 1666,
+    "gameobject_path_id": 171,
+    "materials": [
+      30
+    ]
+  },
+  "1836": {
+    "type": "MeshFilter",
+    "path_id": 1836,
+    "gameobject_path_id": 171,
+    "mesh_path_id": 278
+  },
+  "1667": {
+    "type": "MeshRenderer",
+    "path_id": 1667,
+    "gameobject_path_id": 189,
+    "materials": [
+      26
+    ]
+  },
+  "1837": {
+    "type": "MeshFilter",
+    "path_id": 1837,
+    "gameobject_path_id": 189,
+    "mesh_path_id": 256
+  },
+  "1668": {
+    "type": "MeshRenderer",
+    "path_id": 1668,
+    "gameobject_path_id": 195,
+    "materials": [
+      39
+    ]
+  },
+  "1838": {
+    "type": "MeshFilter",
+    "path_id": 1838,
+    "gameobject_path_id": 195,
+    "mesh_path_id": 255
+  },
+  "1669": {
+    "type": "MeshRenderer",
+    "path_id": 1669,
+    "gameobject_path_id": 203,
+    "materials": [
+      3
+    ]
+  },
+  "1839": {
+    "type": "MeshFilter",
+    "path_id": 1839,
+    "gameobject_path_id": 203,
+    "mesh_path_id": 10202
+  },
+  "1989": {
+    "type": "BoxCollider",
+    "path_id": 1989,
+    "gameobject_path_id": 203
+  },
+  "1670": {
+    "type": "MeshRenderer",
+    "path_id": 1670,
+    "gameobject_path_id": 217,
+    "materials": [
+      64
+    ]
+  },
+  "1840": {
+    "type": "MeshFilter",
+    "path_id": 1840,
+    "gameobject_path_id": 217,
+    "mesh_path_id": 262
+  },
+  "1671": {
+    "type": "MeshRenderer",
+    "path_id": 1671,
+    "gameobject_path_id": 232,
+    "materials": [
+      8
+    ]
+  },
+  "1841": {
+    "type": "MeshFilter",
+    "path_id": 1841,
+    "gameobject_path_id": 232,
+    "mesh_path_id": 256
+  },
+  "1672": {
+    "type": "MeshRenderer",
+    "path_id": 1672,
+    "gameobject_path_id": 234,
+    "materials": [
+      3
+    ]
+  },
+  "1842": {
+    "type": "MeshFilter",
+    "path_id": 1842,
+    "gameobject_path_id": 234,
+    "mesh_path_id": 10202
+  },
+  "1990": {
+    "type": "BoxCollider",
+    "path_id": 1990,
+    "gameobject_path_id": 234
+  },
+  "1673": {
+    "type": "MeshRenderer",
+    "path_id": 1673,
+    "gameobject_path_id": 236,
+    "materials": [
+      56
+    ]
+  },
+  "1843": {
+    "type": "MeshFilter",
+    "path_id": 1843,
+    "gameobject_path_id": 236,
+    "mesh_path_id": 276
+  },
+  "1674": {
+    "type": "MeshRenderer",
+    "path_id": 1674,
+    "gameobject_path_id": 261,
+    "materials": [
+      29
+    ]
+  },
+  "1844": {
+    "type": "MeshFilter",
+    "path_id": 1844,
+    "gameobject_path_id": 261,
+    "mesh_path_id": 271
+  },
+  "1675": {
+    "type": "MeshRenderer",
+    "path_id": 1675,
+    "gameobject_path_id": 279,
+    "materials": [
+      3
+    ]
+  },
+  "1845": {
+    "type": "MeshFilter",
+    "path_id": 1845,
+    "gameobject_path_id": 279,
+    "mesh_path_id": 10202
+  },
+  "1991": {
+    "type": "BoxCollider",
+    "path_id": 1991,
+    "gameobject_path_id": 279
+  },
+  "1676": {
+    "type": "MeshRenderer",
+    "path_id": 1676,
+    "gameobject_path_id": 282,
+    "materials": [
+      3
+    ]
+  },
+  "1846": {
+    "type": "MeshFilter",
+    "path_id": 1846,
+    "gameobject_path_id": 282,
+    "mesh_path_id": 10202
+  },
+  "1992": {
+    "type": "BoxCollider",
+    "path_id": 1992,
+    "gameobject_path_id": 282
+  },
+  "1677": {
+    "type": "MeshRenderer",
+    "path_id": 1677,
+    "gameobject_path_id": 287,
+    "materials": [
+      66
+    ]
+  },
+  "1847": {
+    "type": "MeshFilter",
+    "path_id": 1847,
+    "gameobject_path_id": 287,
+    "mesh_path_id": 266
+  },
+  "1678": {
+    "type": "MeshRenderer",
+    "path_id": 1678,
+    "gameobject_path_id": 286,
+    "materials": [
+      21
+    ]
+  },
+  "1848": {
+    "type": "MeshFilter",
+    "path_id": 1848,
+    "gameobject_path_id": 286,
+    "mesh_path_id": 255
+  },
+  "1679": {
+    "type": "MeshRenderer",
+    "path_id": 1679,
+    "gameobject_path_id": 289,
+    "materials": [
+      60
+    ]
+  },
+  "1849": {
+    "type": "MeshFilter",
+    "path_id": 1849,
+    "gameobject_path_id": 289,
+    "mesh_path_id": 266
+  },
+  "1680": {
+    "type": "MeshRenderer",
+    "path_id": 1680,
+    "gameobject_path_id": 295,
+    "materials": [
+      3
+    ]
+  },
+  "1850": {
+    "type": "MeshFilter",
+    "path_id": 1850,
+    "gameobject_path_id": 295,
+    "mesh_path_id": 10202
+  },
+  "1993": {
+    "type": "BoxCollider",
+    "path_id": 1993,
+    "gameobject_path_id": 295
+  },
+  "1681": {
+    "type": "MeshRenderer",
+    "path_id": 1681,
+    "gameobject_path_id": 296,
+    "materials": [
+      32
+    ]
+  },
+  "1851": {
+    "type": "MeshFilter",
+    "path_id": 1851,
+    "gameobject_path_id": 296,
+    "mesh_path_id": 256
+  },
+  "1682": {
+    "type": "MeshRenderer",
+    "path_id": 1682,
+    "gameobject_path_id": 299,
+    "materials": [
+      3
+    ]
+  },
+  "1852": {
+    "type": "MeshFilter",
+    "path_id": 1852,
+    "gameobject_path_id": 299,
+    "mesh_path_id": 10202
+  },
+  "1994": {
+    "type": "BoxCollider",
+    "path_id": 1994,
+    "gameobject_path_id": 299
+  },
+  "1683": {
+    "type": "MeshRenderer",
+    "path_id": 1683,
+    "gameobject_path_id": 305,
+    "materials": [
+      62
+    ]
+  },
+  "1853": {
+    "type": "MeshFilter",
+    "path_id": 1853,
+    "gameobject_path_id": 305,
+    "mesh_path_id": 266
+  },
+  "1684": {
+    "type": "MeshRenderer",
+    "path_id": 1684,
+    "gameobject_path_id": 308,
+    "materials": [
+      9
+    ]
+  },
+  "1854": {
+    "type": "MeshFilter",
+    "path_id": 1854,
+    "gameobject_path_id": 308,
+    "mesh_path_id": 255
+  },
+  "1685": {
+    "type": "MeshRenderer",
+    "path_id": 1685,
+    "gameobject_path_id": 324,
+    "materials": [
+      60
+    ]
+  },
+  "1855": {
+    "type": "MeshFilter",
+    "path_id": 1855,
+    "gameobject_path_id": 324,
+    "mesh_path_id": 266
+  },
+  "1686": {
+    "type": "MeshRenderer",
+    "path_id": 1686,
+    "gameobject_path_id": 326,
+    "materials": [
+      16
+    ]
+  },
+  "1856": {
+    "type": "MeshFilter",
+    "path_id": 1856,
+    "gameobject_path_id": 326,
+    "mesh_path_id": 268
+  },
+  "1687": {
+    "type": "MeshRenderer",
+    "path_id": 1687,
+    "gameobject_path_id": 329,
+    "materials": [
+      60
+    ]
+  },
+  "1857": {
+    "type": "MeshFilter",
+    "path_id": 1857,
+    "gameobject_path_id": 329,
+    "mesh_path_id": 266
+  },
+  "1688": {
+    "type": "MeshRenderer",
+    "path_id": 1688,
+    "gameobject_path_id": 335,
+    "materials": [
+      3
+    ]
+  },
+  "1858": {
+    "type": "MeshFilter",
+    "path_id": 1858,
+    "gameobject_path_id": 335,
+    "mesh_path_id": 10202
+  },
+  "1995": {
+    "type": "BoxCollider",
+    "path_id": 1995,
+    "gameobject_path_id": 335
+  },
+  "1689": {
+    "type": "MeshRenderer",
+    "path_id": 1689,
+    "gameobject_path_id": 345,
+    "materials": [
+      3
+    ]
+  },
+  "1859": {
+    "type": "MeshFilter",
+    "path_id": 1859,
+    "gameobject_path_id": 345,
+    "mesh_path_id": 10202
+  },
+  "1996": {
+    "type": "BoxCollider",
+    "path_id": 1996,
+    "gameobject_path_id": 345
+  },
+  "1690": {
+    "type": "MeshRenderer",
+    "path_id": 1690,
+    "gameobject_path_id": 347,
+    "materials": [
+      3
+    ]
+  },
+  "1860": {
+    "type": "MeshFilter",
+    "path_id": 1860,
+    "gameobject_path_id": 347,
+    "mesh_path_id": 10202
+  },
+  "1997": {
+    "type": "BoxCollider",
+    "path_id": 1997,
+    "gameobject_path_id": 347
+  },
+  "1691": {
+    "type": "MeshRenderer",
+    "path_id": 1691,
+    "gameobject_path_id": 358,
+    "materials": [
+      3
+    ]
+  },
+  "1861": {
+    "type": "MeshFilter",
+    "path_id": 1861,
+    "gameobject_path_id": 358,
+    "mesh_path_id": 10202
+  },
+  "1998": {
+    "type": "BoxCollider",
+    "path_id": 1998,
+    "gameobject_path_id": 358
+  },
+  "1692": {
+    "type": "MeshRenderer",
+    "path_id": 1692,
+    "gameobject_path_id": 371,
+    "materials": [
+      3
+    ]
+  },
+  "1862": {
+    "type": "MeshFilter",
+    "path_id": 1862,
+    "gameobject_path_id": 371,
+    "mesh_path_id": 10202
+  },
+  "1999": {
+    "type": "BoxCollider",
+    "path_id": 1999,
+    "gameobject_path_id": 371
+  },
+  "1693": {
+    "type": "MeshRenderer",
+    "path_id": 1693,
+    "gameobject_path_id": 373,
+    "materials": [
+      3
+    ]
+  },
+  "1863": {
+    "type": "MeshFilter",
+    "path_id": 1863,
+    "gameobject_path_id": 373,
+    "mesh_path_id": 10202
+  },
+  "2000": {
+    "type": "BoxCollider",
+    "path_id": 2000,
+    "gameobject_path_id": 373
+  },
+  "1694": {
+    "type": "MeshRenderer",
+    "path_id": 1694,
+    "gameobject_path_id": 414,
+    "materials": [
+      3
+    ]
+  },
+  "1864": {
+    "type": "MeshFilter",
+    "path_id": 1864,
+    "gameobject_path_id": 414,
+    "mesh_path_id": 10202
+  },
+  "2001": {
+    "type": "BoxCollider",
+    "path_id": 2001,
+    "gameobject_path_id": 414
+  },
+  "1695": {
+    "type": "MeshRenderer",
+    "path_id": 1695,
+    "gameobject_path_id": 457,
+    "materials": [
+      3
+    ]
+  },
+  "1865": {
+    "type": "MeshFilter",
+    "path_id": 1865,
+    "gameobject_path_id": 457,
+    "mesh_path_id": 10202
+  },
+  "2002": {
+    "type": "BoxCollider",
+    "path_id": 2002,
+    "gameobject_path_id": 457
+  },
+  "1696": {
+    "type": "MeshRenderer",
+    "path_id": 1696,
+    "gameobject_path_id": 458,
+    "materials": [
+      3
+    ]
+  },
+  "1866": {
+    "type": "MeshFilter",
+    "path_id": 1866,
+    "gameobject_path_id": 458,
+    "mesh_path_id": 10202
+  },
+  "2003": {
+    "type": "BoxCollider",
+    "path_id": 2003,
+    "gameobject_path_id": 458
+  },
+  "1697": {
+    "type": "MeshRenderer",
+    "path_id": 1697,
+    "gameobject_path_id": 480,
+    "materials": [
+      61
+    ]
+  },
+  "1867": {
+    "type": "MeshFilter",
+    "path_id": 1867,
+    "gameobject_path_id": 480,
+    "mesh_path_id": 266
+  },
+  "1698": {
+    "type": "MeshRenderer",
+    "path_id": 1698,
+    "gameobject_path_id": 489,
+    "materials": [
+      17
+    ]
+  },
+  "1868": {
+    "type": "MeshFilter",
+    "path_id": 1868,
+    "gameobject_path_id": 489,
+    "mesh_path_id": 271
+  },
+  "1699": {
+    "type": "MeshRenderer",
+    "path_id": 1699,
+    "gameobject_path_id": 495,
+    "materials": [
+      62
+    ]
+  },
+  "1869": {
+    "type": "MeshFilter",
+    "path_id": 1869,
+    "gameobject_path_id": 495,
+    "mesh_path_id": 266
+  },
+  "1700": {
+    "type": "MeshRenderer",
+    "path_id": 1700,
+    "gameobject_path_id": 498,
+    "materials": [
+      3
+    ]
+  },
+  "1870": {
+    "type": "MeshFilter",
+    "path_id": 1870,
+    "gameobject_path_id": 498,
+    "mesh_path_id": 10202
+  },
+  "2004": {
+    "type": "BoxCollider",
+    "path_id": 2004,
+    "gameobject_path_id": 498
+  },
+  "1701": {
+    "type": "MeshRenderer",
+    "path_id": 1701,
+    "gameobject_path_id": 502,
+    "materials": [
+      47
+    ]
+  },
+  "1871": {
+    "type": "MeshFilter",
+    "path_id": 1871,
+    "gameobject_path_id": 502,
+    "mesh_path_id": 275
+  },
+  "1702": {
+    "type": "MeshRenderer",
+    "path_id": 1702,
+    "gameobject_path_id": 509,
+    "materials": [
+      65
+    ]
+  },
+  "1872": {
+    "type": "MeshFilter",
+    "path_id": 1872,
+    "gameobject_path_id": 509,
+    "mesh_path_id": 266
+  },
+  "1703": {
+    "type": "MeshRenderer",
+    "path_id": 1703,
+    "gameobject_path_id": 519,
+    "materials": [
+      3
+    ]
+  },
+  "1873": {
+    "type": "MeshFilter",
+    "path_id": 1873,
+    "gameobject_path_id": 519,
+    "mesh_path_id": 10202
+  },
+  "2005": {
+    "type": "BoxCollider",
+    "path_id": 2005,
+    "gameobject_path_id": 519
+  },
+  "1704": {
+    "type": "MeshRenderer",
+    "path_id": 1704,
+    "gameobject_path_id": 552,
+    "materials": [
+      24
+    ]
+  },
+  "1874": {
+    "type": "MeshFilter",
+    "path_id": 1874,
+    "gameobject_path_id": 552,
+    "mesh_path_id": 278
+  },
+  "1705": {
+    "type": "MeshRenderer",
+    "path_id": 1705,
+    "gameobject_path_id": 555,
+    "materials": [
+      47
+    ]
+  },
+  "1875": {
+    "type": "MeshFilter",
+    "path_id": 1875,
+    "gameobject_path_id": 555,
+    "mesh_path_id": 275
+  },
+  "1706": {
+    "type": "MeshRenderer",
+    "path_id": 1706,
+    "gameobject_path_id": 560,
+    "materials": [
+      63
+    ]
+  },
+  "1876": {
+    "type": "MeshFilter",
+    "path_id": 1876,
+    "gameobject_path_id": 560,
+    "mesh_path_id": 266
+  },
+  "1707": {
+    "type": "MeshRenderer",
+    "path_id": 1707,
+    "gameobject_path_id": 569,
+    "materials": [
+      3
+    ]
+  },
+  "1877": {
+    "type": "MeshFilter",
+    "path_id": 1877,
+    "gameobject_path_id": 569,
+    "mesh_path_id": 10202
+  },
+  "2006": {
+    "type": "BoxCollider",
+    "path_id": 2006,
+    "gameobject_path_id": 569
+  },
+  "1708": {
+    "type": "MeshRenderer",
+    "path_id": 1708,
+    "gameobject_path_id": 570,
+    "materials": [
+      65
+    ]
+  },
+  "1878": {
+    "type": "MeshFilter",
+    "path_id": 1878,
+    "gameobject_path_id": 570,
+    "mesh_path_id": 266
+  },
+  "1709": {
+    "type": "MeshRenderer",
+    "path_id": 1709,
+    "gameobject_path_id": 576,
+    "materials": [
+      10
+    ]
+  },
+  "1879": {
+    "type": "MeshFilter",
+    "path_id": 1879,
+    "gameobject_path_id": 576,
+    "mesh_path_id": 268
+  },
+  "1710": {
+    "type": "MeshRenderer",
+    "path_id": 1710,
+    "gameobject_path_id": 585,
+    "materials": [
+      81
+    ]
+  },
+  "1880": {
+    "type": "MeshFilter",
+    "path_id": 1880,
+    "gameobject_path_id": 585,
+    "mesh_path_id": 10210
+  },
+  "1711": {
+    "type": "MeshRenderer",
+    "path_id": 1711,
+    "gameobject_path_id": 586,
+    "materials": [
+      3
+    ]
+  },
+  "1881": {
+    "type": "MeshFilter",
+    "path_id": 1881,
+    "gameobject_path_id": 586,
+    "mesh_path_id": 10202
+  },
+  "2007": {
+    "type": "BoxCollider",
+    "path_id": 2007,
+    "gameobject_path_id": 586
+  },
+  "1712": {
+    "type": "MeshRenderer",
+    "path_id": 1712,
+    "gameobject_path_id": 597,
+    "materials": [
+      37
+    ]
+  },
+  "1882": {
+    "type": "MeshFilter",
+    "path_id": 1882,
+    "gameobject_path_id": 597,
+    "mesh_path_id": 264
+  },
+  "1713": {
+    "type": "MeshRenderer",
+    "path_id": 1713,
+    "gameobject_path_id": 604,
+    "materials": [
+      5
+    ]
+  },
+  "1883": {
+    "type": "MeshFilter",
+    "path_id": 1883,
+    "gameobject_path_id": 604,
+    "mesh_path_id": 271
+  },
+  "1714": {
+    "type": "MeshRenderer",
+    "path_id": 1714,
+    "gameobject_path_id": 609,
+    "materials": [
+      3
+    ]
+  },
+  "1884": {
+    "type": "MeshFilter",
+    "path_id": 1884,
+    "gameobject_path_id": 609,
+    "mesh_path_id": 10202
+  },
+  "2008": {
+    "type": "BoxCollider",
+    "path_id": 2008,
+    "gameobject_path_id": 609
+  },
+  "1715": {
+    "type": "MeshRenderer",
+    "path_id": 1715,
+    "gameobject_path_id": 614,
+    "materials": [
+      3
+    ]
+  },
+  "1885": {
+    "type": "MeshFilter",
+    "path_id": 1885,
+    "gameobject_path_id": 614,
+    "mesh_path_id": 10202
+  },
+  "2009": {
+    "type": "BoxCollider",
+    "path_id": 2009,
+    "gameobject_path_id": 614
+  },
+  "1716": {
+    "type": "MeshRenderer",
+    "path_id": 1716,
+    "gameobject_path_id": 637,
+    "materials": [
+      18
+    ]
+  },
+  "1886": {
+    "type": "MeshFilter",
+    "path_id": 1886,
+    "gameobject_path_id": 637,
+    "mesh_path_id": 278
+  },
+  "1717": {
+    "type": "MeshRenderer",
+    "path_id": 1717,
+    "gameobject_path_id": 634,
+    "materials": [
+      33
+    ]
+  },
+  "1887": {
+    "type": "MeshFilter",
+    "path_id": 1887,
+    "gameobject_path_id": 634,
+    "mesh_path_id": 255
+  },
+  "1718": {
+    "type": "MeshRenderer",
+    "path_id": 1718,
+    "gameobject_path_id": 642,
+    "materials": [
+      48
+    ]
+  },
+  "1888": {
+    "type": "MeshFilter",
+    "path_id": 1888,
+    "gameobject_path_id": 642,
+    "mesh_path_id": 259
+  },
+  "1719": {
+    "type": "MeshRenderer",
+    "path_id": 1719,
+    "gameobject_path_id": 648,
+    "materials": [
+      3
+    ]
+  },
+  "1889": {
+    "type": "MeshFilter",
+    "path_id": 1889,
+    "gameobject_path_id": 648,
+    "mesh_path_id": 10202
+  },
+  "2010": {
+    "type": "BoxCollider",
+    "path_id": 2010,
+    "gameobject_path_id": 648
+  },
+  "1720": {
+    "type": "MeshRenderer",
+    "path_id": 1720,
+    "gameobject_path_id": 652,
+    "materials": [
+      60
+    ]
+  },
+  "1890": {
+    "type": "MeshFilter",
+    "path_id": 1890,
+    "gameobject_path_id": 652,
+    "mesh_path_id": 266
+  },
+  "1721": {
+    "type": "MeshRenderer",
+    "path_id": 1721,
+    "gameobject_path_id": 654,
+    "materials": [
+      3
+    ]
+  },
+  "1891": {
+    "type": "MeshFilter",
+    "path_id": 1891,
+    "gameobject_path_id": 654,
+    "mesh_path_id": 10202
+  },
+  "2011": {
+    "type": "BoxCollider",
+    "path_id": 2011,
+    "gameobject_path_id": 654
+  },
+  "1722": {
+    "type": "MeshRenderer",
+    "path_id": 1722,
+    "gameobject_path_id": 662,
+    "materials": [
+      63
+    ]
+  },
+  "1892": {
+    "type": "MeshFilter",
+    "path_id": 1892,
+    "gameobject_path_id": 662,
+    "mesh_path_id": 266
+  },
+  "1723": {
+    "type": "MeshRenderer",
+    "path_id": 1723,
+    "gameobject_path_id": 666,
+    "materials": [
+      3
+    ]
+  },
+  "1893": {
+    "type": "MeshFilter",
+    "path_id": 1893,
+    "gameobject_path_id": 666,
+    "mesh_path_id": 10202
+  },
+  "2012": {
+    "type": "BoxCollider",
+    "path_id": 2012,
+    "gameobject_path_id": 666
+  },
+  "1724": {
+    "type": "MeshRenderer",
+    "path_id": 1724,
+    "gameobject_path_id": 667,
+    "materials": [
+      3
+    ]
+  },
+  "1894": {
+    "type": "MeshFilter",
+    "path_id": 1894,
+    "gameobject_path_id": 667,
+    "mesh_path_id": 10202
+  },
+  "2013": {
+    "type": "BoxCollider",
+    "path_id": 2013,
+    "gameobject_path_id": 667
+  },
+  "1725": {
+    "type": "MeshRenderer",
+    "path_id": 1725,
+    "gameobject_path_id": 670,
+    "materials": [
+      52
+    ]
+  },
+  "1895": {
+    "type": "MeshFilter",
+    "path_id": 1895,
+    "gameobject_path_id": 670,
+    "mesh_path_id": 270
+  },
+  "1726": {
+    "type": "MeshRenderer",
+    "path_id": 1726,
+    "gameobject_path_id": 671,
+    "materials": [
+      52
+    ]
+  },
+  "1896": {
+    "type": "MeshFilter",
+    "path_id": 1896,
+    "gameobject_path_id": 671,
+    "mesh_path_id": 282
+  },
+  "1727": {
+    "type": "MeshRenderer",
+    "path_id": 1727,
+    "gameobject_path_id": 680,
+    "materials": [
+      25
+    ]
+  },
+  "1897": {
+    "type": "MeshFilter",
+    "path_id": 1897,
+    "gameobject_path_id": 680,
+    "mesh_path_id": 264
+  },
+  "1728": {
+    "type": "MeshRenderer",
+    "path_id": 1728,
+    "gameobject_path_id": 687,
+    "materials": [
+      13
+    ]
+  },
+  "1898": {
+    "type": "MeshFilter",
+    "path_id": 1898,
+    "gameobject_path_id": 687,
+    "mesh_path_id": 264
+  },
+  "1729": {
+    "type": "MeshRenderer",
+    "path_id": 1729,
+    "gameobject_path_id": 703,
+    "materials": [
+      66
+    ]
+  },
+  "1899": {
+    "type": "MeshFilter",
+    "path_id": 1899,
+    "gameobject_path_id": 703,
+    "mesh_path_id": 266
+  },
+  "1730": {
+    "type": "MeshRenderer",
+    "path_id": 1730,
+    "gameobject_path_id": 723,
+    "materials": [
+      3
+    ]
+  },
+  "1900": {
+    "type": "MeshFilter",
+    "path_id": 1900,
+    "gameobject_path_id": 723,
+    "mesh_path_id": 10202
+  },
+  "2014": {
+    "type": "BoxCollider",
+    "path_id": 2014,
+    "gameobject_path_id": 723
+  },
+  "1731": {
+    "type": "MeshRenderer",
+    "path_id": 1731,
+    "gameobject_path_id": 725,
+    "materials": [
+      61
+    ]
+  },
+  "1901": {
+    "type": "MeshFilter",
+    "path_id": 1901,
+    "gameobject_path_id": 725,
+    "mesh_path_id": 266
+  },
+  "1732": {
+    "type": "MeshRenderer",
+    "path_id": 1732,
+    "gameobject_path_id": 724,
+    "materials": [
+      28
+    ]
+  },
+  "1902": {
+    "type": "MeshFilter",
+    "path_id": 1902,
+    "gameobject_path_id": 724,
+    "mesh_path_id": 268
+  },
+  "1733": {
+    "type": "MeshRenderer",
+    "path_id": 1733,
+    "gameobject_path_id": 727,
+    "materials": [
+      3
+    ]
+  },
+  "1903": {
+    "type": "MeshFilter",
+    "path_id": 1903,
+    "gameobject_path_id": 727,
+    "mesh_path_id": 10202
+  },
+  "2015": {
+    "type": "BoxCollider",
+    "path_id": 2015,
+    "gameobject_path_id": 727
+  },
+  "1734": {
+    "type": "MeshRenderer",
+    "path_id": 1734,
+    "gameobject_path_id": 731,
+    "materials": [
+      22
+    ]
+  },
+  "1904": {
+    "type": "MeshFilter",
+    "path_id": 1904,
+    "gameobject_path_id": 731,
+    "mesh_path_id": 268
+  },
+  "1735": {
+    "type": "MeshRenderer",
+    "path_id": 1735,
+    "gameobject_path_id": 733,
+    "materials": [
+      3
+    ]
+  },
+  "1905": {
+    "type": "MeshFilter",
+    "path_id": 1905,
+    "gameobject_path_id": 733,
+    "mesh_path_id": 10202
+  },
+  "2016": {
+    "type": "BoxCollider",
+    "path_id": 2016,
+    "gameobject_path_id": 733
+  },
+  "1736": {
+    "type": "MeshRenderer",
+    "path_id": 1736,
+    "gameobject_path_id": 753,
+    "materials": [
+      3
+    ]
+  },
+  "1906": {
+    "type": "MeshFilter",
+    "path_id": 1906,
+    "gameobject_path_id": 753,
+    "mesh_path_id": 10202
+  },
+  "2017": {
+    "type": "BoxCollider",
+    "path_id": 2017,
+    "gameobject_path_id": 753
+  },
+  "1737": {
+    "type": "MeshRenderer",
+    "path_id": 1737,
+    "gameobject_path_id": 759,
+    "materials": [
+      3
+    ]
+  },
+  "1907": {
+    "type": "MeshFilter",
+    "path_id": 1907,
+    "gameobject_path_id": 759,
+    "mesh_path_id": 10202
+  },
+  "2018": {
+    "type": "BoxCollider",
+    "path_id": 2018,
+    "gameobject_path_id": 759
+  },
+  "1738": {
+    "type": "MeshRenderer",
+    "path_id": 1738,
+    "gameobject_path_id": 761,
+    "materials": [
+      65
+    ]
+  },
+  "1908": {
+    "type": "MeshFilter",
+    "path_id": 1908,
+    "gameobject_path_id": 761,
+    "mesh_path_id": 266
+  },
+  "1739": {
+    "type": "MeshRenderer",
+    "path_id": 1739,
+    "gameobject_path_id": 768,
+    "materials": [
+      3
+    ]
+  },
+  "1910": {
+    "type": "MeshFilter",
+    "path_id": 1910,
+    "gameobject_path_id": 768,
+    "mesh_path_id": 10202
+  },
+  "2019": {
+    "type": "BoxCollider",
+    "path_id": 2019,
+    "gameobject_path_id": 768
+  },
+  "1740": {
+    "type": "MeshRenderer",
+    "path_id": 1740,
+    "gameobject_path_id": 772,
+    "materials": [
+      60
+    ]
+  },
+  "1909": {
+    "type": "MeshFilter",
+    "path_id": 1909,
+    "gameobject_path_id": 772,
+    "mesh_path_id": 266
+  },
+  "1741": {
+    "type": "MeshRenderer",
+    "path_id": 1741,
+    "gameobject_path_id": 777,
+    "materials": [
+      3
+    ]
+  },
+  "1911": {
+    "type": "MeshFilter",
+    "path_id": 1911,
+    "gameobject_path_id": 777,
+    "mesh_path_id": 10202
+  },
+  "2020": {
+    "type": "BoxCollider",
+    "path_id": 2020,
+    "gameobject_path_id": 777
+  },
+  "1742": {
+    "type": "MeshRenderer",
+    "path_id": 1742,
+    "gameobject_path_id": 778,
+    "materials": [
+      3
+    ]
+  },
+  "1912": {
+    "type": "MeshFilter",
+    "path_id": 1912,
+    "gameobject_path_id": 778,
+    "mesh_path_id": 10202
+  },
+  "2021": {
+    "type": "BoxCollider",
+    "path_id": 2021,
+    "gameobject_path_id": 778
+  },
+  "1743": {
+    "type": "MeshRenderer",
+    "path_id": 1743,
+    "gameobject_path_id": 788,
+    "materials": [
+      51
+    ]
+  },
+  "1913": {
+    "type": "MeshFilter",
+    "path_id": 1913,
+    "gameobject_path_id": 788,
+    "mesh_path_id": 265
+  },
+  "1744": {
+    "type": "MeshRenderer",
+    "path_id": 1744,
+    "gameobject_path_id": 798,
+    "materials": [
+      68
+    ]
+  },
+  "1914": {
+    "type": "MeshFilter",
+    "path_id": 1914,
+    "gameobject_path_id": 798,
+    "mesh_path_id": 281
+  },
+  "1745": {
+    "type": "MeshRenderer",
+    "path_id": 1745,
+    "gameobject_path_id": 802,
+    "materials": [
+      3
+    ]
+  },
+  "1915": {
+    "type": "MeshFilter",
+    "path_id": 1915,
+    "gameobject_path_id": 802,
+    "mesh_path_id": 10202
+  },
+  "2022": {
+    "type": "BoxCollider",
+    "path_id": 2022,
+    "gameobject_path_id": 802
+  },
+  "1746": {
+    "type": "MeshRenderer",
+    "path_id": 1746,
+    "gameobject_path_id": 812,
+    "materials": [
+      3
+    ]
+  },
+  "1916": {
+    "type": "MeshFilter",
+    "path_id": 1916,
+    "gameobject_path_id": 812,
+    "mesh_path_id": 10202
+  },
+  "2023": {
+    "type": "BoxCollider",
+    "path_id": 2023,
+    "gameobject_path_id": 812
+  },
+  "1747": {
+    "type": "MeshRenderer",
+    "path_id": 1747,
+    "gameobject_path_id": 818,
+    "materials": [
+      3
+    ]
+  },
+  "1917": {
+    "type": "MeshFilter",
+    "path_id": 1917,
+    "gameobject_path_id": 818,
+    "mesh_path_id": 10202
+  },
+  "2024": {
+    "type": "BoxCollider",
+    "path_id": 2024,
+    "gameobject_path_id": 818
+  },
+  "1748": {
+    "type": "MeshRenderer",
+    "path_id": 1748,
+    "gameobject_path_id": 829,
+    "materials": [
+      64
+    ]
+  },
+  "1918": {
+    "type": "MeshFilter",
+    "path_id": 1918,
+    "gameobject_path_id": 829,
+    "mesh_path_id": 262
+  },
+  "1749": {
+    "type": "MeshRenderer",
+    "path_id": 1749,
+    "gameobject_path_id": 835,
+    "materials": [
+      64
+    ]
+  },
+  "1919": {
+    "type": "MeshFilter",
+    "path_id": 1919,
+    "gameobject_path_id": 835,
+    "mesh_path_id": 262
+  },
+  "1750": {
+    "type": "MeshRenderer",
+    "path_id": 1750,
+    "gameobject_path_id": 839,
+    "materials": [
+      72,
+      73
+    ]
+  },
+  "1920": {
+    "type": "MeshFilter",
+    "path_id": 1920,
+    "gameobject_path_id": 839,
+    "mesh_path_id": 253
+  },
+  "1751": {
+    "type": "MeshRenderer",
+    "path_id": 1751,
+    "gameobject_path_id": 848,
+    "materials": [
+      31
+    ]
+  },
+  "1921": {
+    "type": "MeshFilter",
+    "path_id": 1921,
+    "gameobject_path_id": 848,
+    "mesh_path_id": 264
+  },
+  "1752": {
+    "type": "MeshRenderer",
+    "path_id": 1752,
+    "gameobject_path_id": 855,
+    "materials": [
+      3
+    ]
+  },
+  "1922": {
+    "type": "MeshFilter",
+    "path_id": 1922,
+    "gameobject_path_id": 855,
+    "mesh_path_id": 10202
+  },
+  "2025": {
+    "type": "BoxCollider",
+    "path_id": 2025,
+    "gameobject_path_id": 855
+  },
+  "1753": {
+    "type": "MeshRenderer",
+    "path_id": 1753,
+    "gameobject_path_id": 856,
+    "materials": [
+      3
+    ]
+  },
+  "1923": {
+    "type": "MeshFilter",
+    "path_id": 1923,
+    "gameobject_path_id": 856,
+    "mesh_path_id": 10202
+  },
+  "2026": {
+    "type": "BoxCollider",
+    "path_id": 2026,
+    "gameobject_path_id": 856
+  },
+  "1754": {
+    "type": "MeshRenderer",
+    "path_id": 1754,
+    "gameobject_path_id": 858,
+    "materials": [
+      19
+    ]
+  },
+  "1924": {
+    "type": "MeshFilter",
+    "path_id": 1924,
+    "gameobject_path_id": 858,
+    "mesh_path_id": 264
+  },
+  "1755": {
+    "type": "MeshRenderer",
+    "path_id": 1755,
+    "gameobject_path_id": 872,
+    "materials": [
+      34
+    ]
+  },
+  "1925": {
+    "type": "MeshFilter",
+    "path_id": 1925,
+    "gameobject_path_id": 872,
+    "mesh_path_id": 268
+  },
+  "1756": {
+    "type": "MeshRenderer",
+    "path_id": 1756,
+    "gameobject_path_id": 883,
+    "materials": [
+      61
+    ]
+  },
+  "1926": {
+    "type": "MeshFilter",
+    "path_id": 1926,
+    "gameobject_path_id": 883,
+    "mesh_path_id": 266
+  },
+  "1757": {
+    "type": "MeshRenderer",
+    "path_id": 1757,
+    "gameobject_path_id": 891,
+    "materials": [
+      64
+    ]
+  },
+  "1927": {
+    "type": "MeshFilter",
+    "path_id": 1927,
+    "gameobject_path_id": 891,
+    "mesh_path_id": 262
+  },
+  "1758": {
+    "type": "MeshRenderer",
+    "path_id": 1758,
+    "gameobject_path_id": 901,
+    "materials": [
+      65
+    ]
+  },
+  "1928": {
+    "type": "MeshFilter",
+    "path_id": 1928,
+    "gameobject_path_id": 901,
+    "mesh_path_id": 266
+  },
+  "1759": {
+    "type": "MeshRenderer",
+    "path_id": 1759,
+    "gameobject_path_id": 920,
+    "materials": [
+      35
+    ]
+  },
+  "1929": {
+    "type": "MeshFilter",
+    "path_id": 1929,
+    "gameobject_path_id": 920,
+    "mesh_path_id": 271
+  },
+  "1760": {
+    "type": "MeshRenderer",
+    "path_id": 1760,
+    "gameobject_path_id": 927,
+    "materials": [
+      15
+    ]
+  },
+  "1930": {
+    "type": "MeshFilter",
+    "path_id": 1930,
+    "gameobject_path_id": 927,
+    "mesh_path_id": 255
+  },
+  "1761": {
+    "type": "MeshRenderer",
+    "path_id": 1761,
+    "gameobject_path_id": 932,
+    "materials": [
+      66
+    ]
+  },
+  "1931": {
+    "type": "MeshFilter",
+    "path_id": 1931,
+    "gameobject_path_id": 932,
+    "mesh_path_id": 266
+  },
+  "1762": {
+    "type": "MeshRenderer",
+    "path_id": 1762,
+    "gameobject_path_id": 945,
+    "materials": [
+      76
+    ]
+  },
+  "1932": {
+    "type": "MeshFilter",
+    "path_id": 1932,
+    "gameobject_path_id": 945,
+    "mesh_path_id": 263
+  },
+  "1763": {
+    "type": "MeshRenderer",
+    "path_id": 1763,
+    "gameobject_path_id": 946,
+    "materials": [
+      3
+    ]
+  },
+  "1933": {
+    "type": "MeshFilter",
+    "path_id": 1933,
+    "gameobject_path_id": 946,
+    "mesh_path_id": 10202
+  },
+  "2027": {
+    "type": "BoxCollider",
+    "path_id": 2027,
+    "gameobject_path_id": 946
+  },
+  "1764": {
+    "type": "MeshRenderer",
+    "path_id": 1764,
+    "gameobject_path_id": 947,
+    "materials": [
+      66
+    ]
+  },
+  "1934": {
+    "type": "MeshFilter",
+    "path_id": 1934,
+    "gameobject_path_id": 947,
+    "mesh_path_id": 266
+  },
+  "1765": {
+    "type": "MeshRenderer",
+    "path_id": 1765,
+    "gameobject_path_id": 951,
+    "materials": [
+      45
+    ]
+  },
+  "1935": {
+    "type": "MeshFilter",
+    "path_id": 1935,
+    "gameobject_path_id": 951,
+    "mesh_path_id": 254
+  },
+  "1766": {
+    "type": "MeshRenderer",
+    "path_id": 1766,
+    "gameobject_path_id": 965,
+    "materials": [
+      3
+    ]
+  },
+  "1936": {
+    "type": "MeshFilter",
+    "path_id": 1936,
+    "gameobject_path_id": 965,
+    "mesh_path_id": 10202
+  },
+  "2028": {
+    "type": "BoxCollider",
+    "path_id": 2028,
+    "gameobject_path_id": 965
+  },
+  "1767": {
+    "type": "MeshRenderer",
+    "path_id": 1767,
+    "gameobject_path_id": 966,
+    "materials": [
+      42
+    ]
+  },
+  "1937": {
+    "type": "MeshFilter",
+    "path_id": 1937,
+    "gameobject_path_id": 966,
+    "mesh_path_id": 280
+  },
+  "1768": {
+    "type": "MeshRenderer",
+    "path_id": 1768,
+    "gameobject_path_id": 969,
+    "materials": [
+      44
+    ]
+  },
+  "1939": {
+    "type": "MeshFilter",
+    "path_id": 1939,
+    "gameobject_path_id": 969,
+    "mesh_path_id": 274
+  },
+  "1769": {
+    "type": "MeshRenderer",
+    "path_id": 1769,
+    "gameobject_path_id": 972,
+    "materials": [
+      3
+    ]
+  },
+  "1938": {
+    "type": "MeshFilter",
+    "path_id": 1938,
+    "gameobject_path_id": 972,
+    "mesh_path_id": 10202
+  },
+  "2029": {
+    "type": "BoxCollider",
+    "path_id": 2029,
+    "gameobject_path_id": 972
+  },
+  "1770": {
+    "type": "MeshRenderer",
+    "path_id": 1770,
+    "gameobject_path_id": 975,
+    "materials": [
+      63
+    ]
+  },
+  "1940": {
+    "type": "MeshFilter",
+    "path_id": 1940,
+    "gameobject_path_id": 975,
+    "mesh_path_id": 266
+  },
+  "1771": {
+    "type": "MeshRenderer",
+    "path_id": 1771,
+    "gameobject_path_id": 1000,
+    "materials": [
+      3
+    ]
+  },
+  "1941": {
+    "type": "MeshFilter",
+    "path_id": 1941,
+    "gameobject_path_id": 1000,
+    "mesh_path_id": 10202
+  },
+  "2030": {
+    "type": "BoxCollider",
+    "path_id": 2030,
+    "gameobject_path_id": 1000
+  },
+  "1772": {
+    "type": "MeshRenderer",
+    "path_id": 1772,
+    "gameobject_path_id": 1001,
+    "materials": [
+      3
+    ]
+  },
+  "1942": {
+    "type": "MeshFilter",
+    "path_id": 1942,
+    "gameobject_path_id": 1001,
+    "mesh_path_id": 10202
+  },
+  "2031": {
+    "type": "BoxCollider",
+    "path_id": 2031,
+    "gameobject_path_id": 1001
+  },
+  "1773": {
+    "type": "MeshRenderer",
+    "path_id": 1773,
+    "gameobject_path_id": 1004,
+    "materials": [
+      3
+    ]
+  },
+  "1943": {
+    "type": "MeshFilter",
+    "path_id": 1943,
+    "gameobject_path_id": 1004,
+    "mesh_path_id": 10202
+  },
+  "2032": {
+    "type": "BoxCollider",
+    "path_id": 2032,
+    "gameobject_path_id": 1004
+  },
+  "1774": {
+    "type": "MeshRenderer",
+    "path_id": 1774,
+    "gameobject_path_id": 1003,
+    "materials": [
+      61
+    ]
+  },
+  "1944": {
+    "type": "MeshFilter",
+    "path_id": 1944,
+    "gameobject_path_id": 1003,
+    "mesh_path_id": 266
+  },
+  "1775": {
+    "type": "MeshRenderer",
+    "path_id": 1775,
+    "gameobject_path_id": 1009,
+    "materials": [
+      3
+    ]
+  },
+  "1945": {
+    "type": "MeshFilter",
+    "path_id": 1945,
+    "gameobject_path_id": 1009,
+    "mesh_path_id": 10202
+  },
+  "2033": {
+    "type": "BoxCollider",
+    "path_id": 2033,
+    "gameobject_path_id": 1009
+  },
+  "1776": {
+    "type": "MeshRenderer",
+    "path_id": 1776,
+    "gameobject_path_id": 1023,
+    "materials": [
+      11
+    ]
+  },
+  "1946": {
+    "type": "MeshFilter",
+    "path_id": 1946,
+    "gameobject_path_id": 1023,
+    "mesh_path_id": 271
+  },
+  "1777": {
+    "type": "MeshRenderer",
+    "path_id": 1777,
+    "gameobject_path_id": 1051,
+    "materials": [
+      82
+    ]
+  },
+  "1947": {
+    "type": "MeshFilter",
+    "path_id": 1947,
+    "gameobject_path_id": 1051,
+    "mesh_path_id": 10210
+  },
+  "1778": {
+    "type": "MeshRenderer",
+    "path_id": 1778,
+    "gameobject_path_id": 1055,
+    "materials": [
+      3
+    ]
+  },
+  "1948": {
+    "type": "MeshFilter",
+    "path_id": 1948,
+    "gameobject_path_id": 1055,
+    "mesh_path_id": 10202
+  },
+  "2034": {
+    "type": "BoxCollider",
+    "path_id": 2034,
+    "gameobject_path_id": 1055
+  },
+  "1779": {
+    "type": "MeshRenderer",
+    "path_id": 1779,
+    "gameobject_path_id": 1059,
+    "materials": [
+      3
+    ]
+  },
+  "1949": {
+    "type": "MeshFilter",
+    "path_id": 1949,
+    "gameobject_path_id": 1059,
+    "mesh_path_id": 10202
+  },
+  "2035": {
+    "type": "BoxCollider",
+    "path_id": 2035,
+    "gameobject_path_id": 1059
+  },
+  "1780": {
+    "type": "MeshRenderer",
+    "path_id": 1780,
+    "gameobject_path_id": 1069,
+    "materials": [
+      40
+    ]
+  },
+  "1950": {
+    "type": "MeshFilter",
+    "path_id": 1950,
+    "gameobject_path_id": 1069,
+    "mesh_path_id": 268
+  },
+  "1781": {
+    "type": "MeshRenderer",
+    "path_id": 1781,
+    "gameobject_path_id": 1073,
+    "materials": [
+      12
+    ]
+  },
+  "1951": {
+    "type": "MeshFilter",
+    "path_id": 1951,
+    "gameobject_path_id": 1073,
+    "mesh_path_id": 278
+  },
+  "1782": {
+    "type": "MeshRenderer",
+    "path_id": 1782,
+    "gameobject_path_id": 1081,
+    "materials": [
+      3
+    ]
+  },
+  "1952": {
+    "type": "MeshFilter",
+    "path_id": 1952,
+    "gameobject_path_id": 1081,
+    "mesh_path_id": 10202
+  },
+  "2036": {
+    "type": "BoxCollider",
+    "path_id": 2036,
+    "gameobject_path_id": 1081
+  },
+  "1783": {
+    "type": "MeshRenderer",
+    "path_id": 1783,
+    "gameobject_path_id": 1082,
+    "materials": [
+      43
+    ]
+  },
+  "1953": {
+    "type": "MeshFilter",
+    "path_id": 1953,
+    "gameobject_path_id": 1082,
+    "mesh_path_id": 269
+  },
+  "1784": {
+    "type": "MeshRenderer",
+    "path_id": 1784,
+    "gameobject_path_id": 1085,
+    "materials": [
+      70
+    ]
+  },
+  "1954": {
+    "type": "MeshFilter",
+    "path_id": 1954,
+    "gameobject_path_id": 1085,
+    "mesh_path_id": 258
+  },
+  "1785": {
+    "type": "MeshRenderer",
+    "path_id": 1785,
+    "gameobject_path_id": 1097,
+    "materials": [
+      3
+    ]
+  },
+  "1955": {
+    "type": "MeshFilter",
+    "path_id": 1955,
+    "gameobject_path_id": 1097,
+    "mesh_path_id": 10202
+  },
+  "2037": {
+    "type": "BoxCollider",
+    "path_id": 2037,
+    "gameobject_path_id": 1097
+  },
+  "1786": {
+    "type": "MeshRenderer",
+    "path_id": 1786,
+    "gameobject_path_id": 1099,
+    "materials": [
+      57
+    ]
+  },
+  "1956": {
+    "type": "MeshFilter",
+    "path_id": 1956,
+    "gameobject_path_id": 1099,
+    "mesh_path_id": 284
+  },
+  "1787": {
+    "type": "MeshRenderer",
+    "path_id": 1787,
+    "gameobject_path_id": 1100,
+    "materials": [
+      41
+    ]
+  },
+  "1957": {
+    "type": "MeshFilter",
+    "path_id": 1957,
+    "gameobject_path_id": 1100,
+    "mesh_path_id": 286
+  },
+  "1788": {
+    "type": "MeshRenderer",
+    "path_id": 1788,
+    "gameobject_path_id": 1101,
+    "materials": [
+      58
+    ]
+  },
+  "1958": {
+    "type": "MeshFilter",
+    "path_id": 1958,
+    "gameobject_path_id": 1101,
+    "mesh_path_id": 279
+  },
+  "1789": {
+    "type": "MeshRenderer",
+    "path_id": 1789,
+    "gameobject_path_id": 1109,
+    "materials": [
+      3
+    ]
+  },
+  "1959": {
+    "type": "MeshFilter",
+    "path_id": 1959,
+    "gameobject_path_id": 1109,
+    "mesh_path_id": 10202
+  },
+  "2038": {
+    "type": "BoxCollider",
+    "path_id": 2038,
+    "gameobject_path_id": 1109
+  },
+  "1790": {
+    "type": "MeshRenderer",
+    "path_id": 1790,
+    "gameobject_path_id": 1110,
+    "materials": [
+      7
+    ]
+  },
+  "1960": {
+    "type": "MeshFilter",
+    "path_id": 1960,
+    "gameobject_path_id": 1110,
+    "mesh_path_id": 264
+  },
+  "1791": {
+    "type": "MeshRenderer",
+    "path_id": 1791,
+    "gameobject_path_id": 1119,
+    "materials": [
+      3
+    ]
+  },
+  "1961": {
+    "type": "MeshFilter",
+    "path_id": 1961,
+    "gameobject_path_id": 1119,
+    "mesh_path_id": 10202
+  },
+  "2039": {
+    "type": "BoxCollider",
+    "path_id": 2039,
+    "gameobject_path_id": 1119
+  },
+  "1792": {
+    "type": "MeshRenderer",
+    "path_id": 1792,
+    "gameobject_path_id": 1127,
+    "materials": [
+      60
+    ]
+  },
+  "1963": {
+    "type": "MeshFilter",
+    "path_id": 1963,
+    "gameobject_path_id": 1127,
+    "mesh_path_id": 266
+  },
+  "1793": {
+    "type": "MeshRenderer",
+    "path_id": 1793,
+    "gameobject_path_id": 1128,
+    "materials": [
+      46
+    ]
+  },
+  "1962": {
+    "type": "MeshFilter",
+    "path_id": 1962,
+    "gameobject_path_id": 1128,
+    "mesh_path_id": 259
+  },
+  "1794": {
+    "type": "MeshRenderer",
+    "path_id": 1794,
+    "gameobject_path_id": 1130,
+    "materials": [
+      3
+    ]
+  },
+  "1964": {
+    "type": "MeshFilter",
+    "path_id": 1964,
+    "gameobject_path_id": 1130,
+    "mesh_path_id": 10202
+  },
+  "2040": {
+    "type": "BoxCollider",
+    "path_id": 2040,
+    "gameobject_path_id": 1130
+  },
+  "1795": {
+    "type": "MeshRenderer",
+    "path_id": 1795,
+    "gameobject_path_id": 1129,
+    "materials": [
+      71
+    ]
+  },
+  "1965": {
+    "type": "MeshFilter",
+    "path_id": 1965,
+    "gameobject_path_id": 1129,
+    "mesh_path_id": 273
+  },
+  "1796": {
+    "type": "MeshRenderer",
+    "path_id": 1796,
+    "gameobject_path_id": 1134,
+    "materials": [
+      20
+    ]
+  },
+  "1966": {
+    "type": "MeshFilter",
+    "path_id": 1966,
+    "gameobject_path_id": 1134,
+    "mesh_path_id": 256
+  },
+  "1797": {
+    "type": "MeshRenderer",
+    "path_id": 1797,
+    "gameobject_path_id": 1136,
+    "materials": [
+      69
+    ]
+  },
+  "1967": {
+    "type": "MeshFilter",
+    "path_id": 1967,
+    "gameobject_path_id": 1136,
+    "mesh_path_id": 252
+  },
+  "1798": {
+    "type": "MeshRenderer",
+    "path_id": 1798,
+    "gameobject_path_id": 1148,
+    "materials": [
+      66
+    ]
+  },
+  "1968": {
+    "type": "MeshFilter",
+    "path_id": 1968,
+    "gameobject_path_id": 1148,
+    "mesh_path_id": 266
+  },
+  "1799": {
+    "type": "MeshRenderer",
+    "path_id": 1799,
+    "gameobject_path_id": 1155,
+    "materials": [
+      14
+    ]
+  },
+  "1969": {
+    "type": "MeshFilter",
+    "path_id": 1969,
+    "gameobject_path_id": 1155,
+    "mesh_path_id": 256
+  },
+  "1800": {
+    "type": "MeshRenderer",
+    "path_id": 1800,
+    "gameobject_path_id": 1177,
+    "materials": [
+      3
+    ]
+  },
+  "1970": {
+    "type": "MeshFilter",
+    "path_id": 1970,
+    "gameobject_path_id": 1177,
+    "mesh_path_id": 10202
+  },
+  "2041": {
+    "type": "BoxCollider",
+    "path_id": 2041,
+    "gameobject_path_id": 1177
+  },
+  "1801": {
+    "type": "MeshRenderer",
+    "path_id": 1801,
+    "gameobject_path_id": 1179,
+    "materials": [
+      3
+    ]
+  },
+  "1971": {
+    "type": "MeshFilter",
+    "path_id": 1971,
+    "gameobject_path_id": 1179,
+    "mesh_path_id": 10202
+  },
+  "2042": {
+    "type": "BoxCollider",
+    "path_id": 2042,
+    "gameobject_path_id": 1179
+  },
+  "1802": {
+    "type": "MeshRenderer",
+    "path_id": 1802,
+    "gameobject_path_id": 1181,
+    "materials": [
+      3
+    ]
+  },
+  "1972": {
+    "type": "MeshFilter",
+    "path_id": 1972,
+    "gameobject_path_id": 1181,
+    "mesh_path_id": 10202
+  },
+  "2043": {
+    "type": "BoxCollider",
+    "path_id": 2043,
+    "gameobject_path_id": 1181
+  },
+  "1803": {
+    "type": "MeshRenderer",
+    "path_id": 1803,
+    "gameobject_path_id": 1187,
+    "materials": [
+      83
+    ]
+  },
+  "1973": {
+    "type": "MeshFilter",
+    "path_id": 1973,
+    "gameobject_path_id": 1187,
+    "mesh_path_id": 10210
+  },
+  "1804": {
+    "type": "MeshRenderer",
+    "path_id": 1804,
+    "gameobject_path_id": 1193,
+    "materials": [
+      59
+    ]
+  },
+  "1974": {
+    "type": "MeshFilter",
+    "path_id": 1974,
+    "gameobject_path_id": 1193,
+    "mesh_path_id": 251
+  },
+  "1805": {
+    "type": "MeshRenderer",
+    "path_id": 1805,
+    "gameobject_path_id": 1212,
+    "materials": [
+      66
+    ]
+  },
+  "1975": {
+    "type": "MeshFilter",
+    "path_id": 1975,
+    "gameobject_path_id": 1212,
+    "mesh_path_id": 266
+  },
+  "1806": {
+    "type": "MeshRenderer",
+    "path_id": 1806,
+    "gameobject_path_id": 1215,
+    "materials": [
+      27
+    ]
+  },
+  "1976": {
+    "type": "MeshFilter",
+    "path_id": 1976,
+    "gameobject_path_id": 1215,
+    "mesh_path_id": 255
+  },
+  "1807": {
+    "type": "MeshRenderer",
+    "path_id": 1807,
+    "gameobject_path_id": 1218,
+    "materials": [
+      6
+    ]
+  },
+  "1977": {
+    "type": "MeshFilter",
+    "path_id": 1977,
+    "gameobject_path_id": 1218,
+    "mesh_path_id": 278
+  },
+  "1808": {
+    "type": "MeshRenderer",
+    "path_id": 1808,
+    "gameobject_path_id": 1220,
+    "materials": [
+      3
+    ]
+  },
+  "1978": {
+    "type": "MeshFilter",
+    "path_id": 1978,
+    "gameobject_path_id": 1220,
+    "mesh_path_id": 10202
+  },
+  "2044": {
+    "type": "BoxCollider",
+    "path_id": 2044,
+    "gameobject_path_id": 1220
+  },
+  "1809": {
+    "type": "MeshRenderer",
+    "path_id": 1809,
+    "gameobject_path_id": 1222,
+    "materials": [
+      49
+    ]
+  },
+  "1979": {
+    "type": "MeshFilter",
+    "path_id": 1979,
+    "gameobject_path_id": 1222,
+    "mesh_path_id": 267
+  },
+  "1810": {
+    "type": "MeshRenderer",
+    "path_id": 1810,
+    "gameobject_path_id": 1227,
+    "materials": [
+      64
+    ]
+  },
+  "1980": {
+    "type": "MeshFilter",
+    "path_id": 1980,
+    "gameobject_path_id": 1227,
+    "mesh_path_id": 262
+  },
+  "2046": {
+    "type": "AudioSource",
+    "path_id": 2046,
+    "gameobject_path_id": 483,
+    "audio_clip_path_id": null
+  },
+  "2047": {
+    "type": "AudioSource",
+    "path_id": 2047,
+    "gameobject_path_id": 875,
+    "audio_clip_path_id": null
+  },
+  "2054": {
+    "type": "ParticleSystem",
+    "path_id": 2054,
+    "gameobject_path_id": 51
+  },
+  "2070": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2070,
+    "gameobject_path_id": 51
+  },
+  "2055": {
+    "type": "ParticleSystem",
+    "path_id": 2055,
+    "gameobject_path_id": 117
+  },
+  "2071": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2071,
+    "gameobject_path_id": 117
+  },
+  "2056": {
+    "type": "ParticleSystem",
+    "path_id": 2056,
+    "gameobject_path_id": 136
+  },
+  "2072": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2072,
+    "gameobject_path_id": 136
+  },
+  "2057": {
+    "type": "ParticleSystem",
+    "path_id": 2057,
+    "gameobject_path_id": 237
+  },
+  "2073": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2073,
+    "gameobject_path_id": 237
+  },
+  "2058": {
+    "type": "ParticleSystem",
+    "path_id": 2058,
+    "gameobject_path_id": 263
+  },
+  "2074": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2074,
+    "gameobject_path_id": 263
+  },
+  "2059": {
+    "type": "ParticleSystem",
+    "path_id": 2059,
+    "gameobject_path_id": 276
+  },
+  "2075": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2075,
+    "gameobject_path_id": 276
+  },
+  "2060": {
+    "type": "ParticleSystem",
+    "path_id": 2060,
+    "gameobject_path_id": 321
+  },
+  "2076": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2076,
+    "gameobject_path_id": 321
+  },
+  "2061": {
+    "type": "ParticleSystem",
+    "path_id": 2061,
+    "gameobject_path_id": 351
+  },
+  "2077": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2077,
+    "gameobject_path_id": 351
+  },
+  "2062": {
+    "type": "ParticleSystem",
+    "path_id": 2062,
+    "gameobject_path_id": 355
+  },
+  "2078": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2078,
+    "gameobject_path_id": 355
+  },
+  "2063": {
+    "type": "ParticleSystem",
+    "path_id": 2063,
+    "gameobject_path_id": 411
+  },
+  "2079": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2079,
+    "gameobject_path_id": 411
+  },
+  "2064": {
+    "type": "ParticleSystem",
+    "path_id": 2064,
+    "gameobject_path_id": 422
+  },
+  "2080": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2080,
+    "gameobject_path_id": 422
+  },
+  "2065": {
+    "type": "ParticleSystem",
+    "path_id": 2065,
+    "gameobject_path_id": 478
+  },
+  "2081": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2081,
+    "gameobject_path_id": 478
+  },
+  "2066": {
+    "type": "ParticleSystem",
+    "path_id": 2066,
+    "gameobject_path_id": 696
+  },
+  "2082": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2082,
+    "gameobject_path_id": 696
+  },
+  "2067": {
+    "type": "ParticleSystem",
+    "path_id": 2067,
+    "gameobject_path_id": 720
+  },
+  "2083": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2083,
+    "gameobject_path_id": 720
+  },
+  "2068": {
+    "type": "ParticleSystem",
+    "path_id": 2068,
+    "gameobject_path_id": 836
+  },
+  "2084": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2084,
+    "gameobject_path_id": 836
+  },
+  "2069": {
+    "type": "ParticleSystem",
+    "path_id": 2069,
+    "gameobject_path_id": 1086
+  },
+  "2085": {
+    "type": "ParticleSystemRenderer",
+    "path_id": 2085,
+    "gameobject_path_id": 1086
+  },
+  "2123": {
+    "type": "CanvasRenderer",
+    "path_id": 2123,
+    "gameobject_path_id": 6
+  },
+  "2128": {
+    "type": "CanvasRenderer",
+    "path_id": 2128,
+    "gameobject_path_id": 20
+  },
+  "2129": {
+    "type": "CanvasRenderer",
+    "path_id": 2129,
+    "gameobject_path_id": 21
+  },
+  "2130": {
+    "type": "CanvasRenderer",
+    "path_id": 2130,
+    "gameobject_path_id": 23
+  },
+  "2131": {
+    "type": "CanvasRenderer",
+    "path_id": 2131,
+    "gameobject_path_id": 24
+  },
+  "2132": {
+    "type": "CanvasRenderer",
+    "path_id": 2132,
+    "gameobject_path_id": 25
+  },
+  "2133": {
+    "type": "CanvasRenderer",
+    "path_id": 2133,
+    "gameobject_path_id": 27
+  },
+  "2134": {
+    "type": "CanvasRenderer",
+    "path_id": 2134,
+    "gameobject_path_id": 28
+  },
+  "2135": {
+    "type": "CanvasRenderer",
+    "path_id": 2135,
+    "gameobject_path_id": 33
+  },
+  "2136": {
+    "type": "CanvasRenderer",
+    "path_id": 2136,
+    "gameobject_path_id": 34
+  },
+  "2137": {
+    "type": "CanvasRenderer",
+    "path_id": 2137,
+    "gameobject_path_id": 37
+  },
+  "2138": {
+    "type": "CanvasRenderer",
+    "path_id": 2138,
+    "gameobject_path_id": 38
+  },
+  "2139": {
+    "type": "CanvasRenderer",
+    "path_id": 2139,
+    "gameobject_path_id": 40
+  },
+  "2140": {
+    "type": "CanvasRenderer",
+    "path_id": 2140,
+    "gameobject_path_id": 41
+  },
+  "2141": {
+    "type": "CanvasRenderer",
+    "path_id": 2141,
+    "gameobject_path_id": 42
+  },
+  "2142": {
+    "type": "CanvasRenderer",
+    "path_id": 2142,
+    "gameobject_path_id": 43
+  },
+  "2143": {
+    "type": "CanvasRenderer",
+    "path_id": 2143,
+    "gameobject_path_id": 44
+  },
+  "2144": {
+    "type": "CanvasRenderer",
+    "path_id": 2144,
+    "gameobject_path_id": 46
+  },
+  "2145": {
+    "type": "CanvasRenderer",
+    "path_id": 2145,
+    "gameobject_path_id": 47
+  },
+  "2146": {
+    "type": "CanvasRenderer",
+    "path_id": 2146,
+    "gameobject_path_id": 48
+  },
+  "2147": {
+    "type": "CanvasRenderer",
+    "path_id": 2147,
+    "gameobject_path_id": 49
+  },
+  "2148": {
+    "type": "CanvasRenderer",
+    "path_id": 2148,
+    "gameobject_path_id": 53
+  },
+  "2149": {
+    "type": "CanvasRenderer",
+    "path_id": 2149,
+    "gameobject_path_id": 55
+  },
+  "2150": {
+    "type": "CanvasRenderer",
+    "path_id": 2150,
+    "gameobject_path_id": 56
+  },
+  "2151": {
+    "type": "CanvasRenderer",
+    "path_id": 2151,
+    "gameobject_path_id": 57
+  },
+  "2152": {
+    "type": "CanvasRenderer",
+    "path_id": 2152,
+    "gameobject_path_id": 59
+  },
+  "2153": {
+    "type": "CanvasRenderer",
+    "path_id": 2153,
+    "gameobject_path_id": 60
+  },
+  "2154": {
+    "type": "CanvasRenderer",
+    "path_id": 2154,
+    "gameobject_path_id": 62
+  },
+  "2155": {
+    "type": "CanvasRenderer",
+    "path_id": 2155,
+    "gameobject_path_id": 65
+  },
+  "2156": {
+    "type": "CanvasRenderer",
+    "path_id": 2156,
+    "gameobject_path_id": 67
+  },
+  "2157": {
+    "type": "CanvasRenderer",
+    "path_id": 2157,
+    "gameobject_path_id": 68
+  },
+  "2158": {
+    "type": "CanvasRenderer",
+    "path_id": 2158,
+    "gameobject_path_id": 69
+  },
+  "2159": {
+    "type": "CanvasRenderer",
+    "path_id": 2159,
+    "gameobject_path_id": 70
+  },
+  "2160": {
+    "type": "CanvasRenderer",
+    "path_id": 2160,
+    "gameobject_path_id": 71
+  },
+  "2161": {
+    "type": "CanvasRenderer",
+    "path_id": 2161,
+    "gameobject_path_id": 72
+  },
+  "2162": {
+    "type": "CanvasRenderer",
+    "path_id": 2162,
+    "gameobject_path_id": 77
+  },
+  "2163": {
+    "type": "CanvasRenderer",
+    "path_id": 2163,
+    "gameobject_path_id": 79
+  },
+  "2164": {
+    "type": "CanvasRenderer",
+    "path_id": 2164,
+    "gameobject_path_id": 80
+  },
+  "2165": {
+    "type": "CanvasRenderer",
+    "path_id": 2165,
+    "gameobject_path_id": 81
+  },
+  "2166": {
+    "type": "CanvasRenderer",
+    "path_id": 2166,
+    "gameobject_path_id": 83
+  },
+  "2167": {
+    "type": "CanvasRenderer",
+    "path_id": 2167,
+    "gameobject_path_id": 85
+  },
+  "2168": {
+    "type": "CanvasRenderer",
+    "path_id": 2168,
+    "gameobject_path_id": 86
+  },
+  "2169": {
+    "type": "CanvasRenderer",
+    "path_id": 2169,
+    "gameobject_path_id": 87
+  },
+  "2170": {
+    "type": "CanvasRenderer",
+    "path_id": 2170,
+    "gameobject_path_id": 88
+  },
+  "2171": {
+    "type": "CanvasRenderer",
+    "path_id": 2171,
+    "gameobject_path_id": 89
+  },
+  "2172": {
+    "type": "CanvasRenderer",
+    "path_id": 2172,
+    "gameobject_path_id": 90
+  },
+  "2173": {
+    "type": "CanvasRenderer",
+    "path_id": 2173,
+    "gameobject_path_id": 92
+  },
+  "2174": {
+    "type": "CanvasRenderer",
+    "path_id": 2174,
+    "gameobject_path_id": 93
+  },
+  "2175": {
+    "type": "CanvasRenderer",
+    "path_id": 2175,
+    "gameobject_path_id": 94
+  },
+  "2176": {
+    "type": "CanvasRenderer",
+    "path_id": 2176,
+    "gameobject_path_id": 100
+  },
+  "2177": {
+    "type": "CanvasRenderer",
+    "path_id": 2177,
+    "gameobject_path_id": 102
+  },
+  "2178": {
+    "type": "CanvasRenderer",
+    "path_id": 2178,
+    "gameobject_path_id": 105
+  },
+  "2179": {
+    "type": "CanvasRenderer",
+    "path_id": 2179,
+    "gameobject_path_id": 106
+  },
+  "2180": {
+    "type": "CanvasRenderer",
+    "path_id": 2180,
+    "gameobject_path_id": 109
+  },
+  "2181": {
+    "type": "CanvasRenderer",
+    "path_id": 2181,
+    "gameobject_path_id": 111
+  },
+  "2182": {
+    "type": "CanvasRenderer",
+    "path_id": 2182,
+    "gameobject_path_id": 112
+  },
+  "2183": {
+    "type": "CanvasRenderer",
+    "path_id": 2183,
+    "gameobject_path_id": 115
+  },
+  "2184": {
+    "type": "CanvasRenderer",
+    "path_id": 2184,
+    "gameobject_path_id": 118
+  },
+  "2185": {
+    "type": "CanvasRenderer",
+    "path_id": 2185,
+    "gameobject_path_id": 122
+  },
+  "2186": {
+    "type": "CanvasRenderer",
+    "path_id": 2186,
+    "gameobject_path_id": 127
+  },
+  "2187": {
+    "type": "CanvasRenderer",
+    "path_id": 2187,
+    "gameobject_path_id": 128
+  },
+  "2188": {
+    "type": "CanvasRenderer",
+    "path_id": 2188,
+    "gameobject_path_id": 129
+  },
+  "2189": {
+    "type": "CanvasRenderer",
+    "path_id": 2189,
+    "gameobject_path_id": 130
+  },
+  "2190": {
+    "type": "CanvasRenderer",
+    "path_id": 2190,
+    "gameobject_path_id": 131
+  },
+  "2191": {
+    "type": "CanvasRenderer",
+    "path_id": 2191,
+    "gameobject_path_id": 132
+  },
+  "2192": {
+    "type": "CanvasRenderer",
+    "path_id": 2192,
+    "gameobject_path_id": 133
+  },
+  "2193": {
+    "type": "CanvasRenderer",
+    "path_id": 2193,
+    "gameobject_path_id": 135
+  },
+  "2194": {
+    "type": "CanvasRenderer",
+    "path_id": 2194,
+    "gameobject_path_id": 137
+  },
+  "2195": {
+    "type": "CanvasRenderer",
+    "path_id": 2195,
+    "gameobject_path_id": 138
+  },
+  "2196": {
+    "type": "CanvasRenderer",
+    "path_id": 2196,
+    "gameobject_path_id": 139
+  },
+  "2197": {
+    "type": "CanvasRenderer",
+    "path_id": 2197,
+    "gameobject_path_id": 140
+  },
+  "2198": {
+    "type": "CanvasRenderer",
+    "path_id": 2198,
+    "gameobject_path_id": 144
+  },
+  "2199": {
+    "type": "CanvasRenderer",
+    "path_id": 2199,
+    "gameobject_path_id": 145
+  },
+  "2200": {
+    "type": "CanvasRenderer",
+    "path_id": 2200,
+    "gameobject_path_id": 146
+  },
+  "2201": {
+    "type": "CanvasRenderer",
+    "path_id": 2201,
+    "gameobject_path_id": 147
+  },
+  "2202": {
+    "type": "CanvasRenderer",
+    "path_id": 2202,
+    "gameobject_path_id": 149
+  },
+  "2203": {
+    "type": "CanvasRenderer",
+    "path_id": 2203,
+    "gameobject_path_id": 150
+  },
+  "2204": {
+    "type": "CanvasRenderer",
+    "path_id": 2204,
+    "gameobject_path_id": 152
+  },
+  "2205": {
+    "type": "CanvasRenderer",
+    "path_id": 2205,
+    "gameobject_path_id": 153
+  },
+  "2206": {
+    "type": "CanvasRenderer",
+    "path_id": 2206,
+    "gameobject_path_id": 154
+  },
+  "2207": {
+    "type": "CanvasRenderer",
+    "path_id": 2207,
+    "gameobject_path_id": 157
+  },
+  "2208": {
+    "type": "CanvasRenderer",
+    "path_id": 2208,
+    "gameobject_path_id": 159
+  },
+  "2209": {
+    "type": "CanvasRenderer",
+    "path_id": 2209,
+    "gameobject_path_id": 160
+  },
+  "2210": {
+    "type": "CanvasRenderer",
+    "path_id": 2210,
+    "gameobject_path_id": 161
+  },
+  "2211": {
+    "type": "CanvasRenderer",
+    "path_id": 2211,
+    "gameobject_path_id": 162
+  },
+  "2212": {
+    "type": "CanvasRenderer",
+    "path_id": 2212,
+    "gameobject_path_id": 163
+  },
+  "2213": {
+    "type": "CanvasRenderer",
+    "path_id": 2213,
+    "gameobject_path_id": 166
+  },
+  "2214": {
+    "type": "CanvasRenderer",
+    "path_id": 2214,
+    "gameobject_path_id": 168
+  },
+  "2215": {
+    "type": "CanvasRenderer",
+    "path_id": 2215,
+    "gameobject_path_id": 169
+  },
+  "2216": {
+    "type": "CanvasRenderer",
+    "path_id": 2216,
+    "gameobject_path_id": 170
+  },
+  "2217": {
+    "type": "CanvasRenderer",
+    "path_id": 2217,
+    "gameobject_path_id": 173
+  },
+  "2218": {
+    "type": "CanvasRenderer",
+    "path_id": 2218,
+    "gameobject_path_id": 174
+  },
+  "2219": {
+    "type": "CanvasRenderer",
+    "path_id": 2219,
+    "gameobject_path_id": 176
+  },
+  "2220": {
+    "type": "CanvasRenderer",
+    "path_id": 2220,
+    "gameobject_path_id": 177
+  },
+  "2221": {
+    "type": "CanvasRenderer",
+    "path_id": 2221,
+    "gameobject_path_id": 178
+  },
+  "2222": {
+    "type": "CanvasRenderer",
+    "path_id": 2222,
+    "gameobject_path_id": 179
+  },
+  "2223": {
+    "type": "CanvasRenderer",
+    "path_id": 2223,
+    "gameobject_path_id": 180
+  },
+  "2224": {
+    "type": "CanvasRenderer",
+    "path_id": 2224,
+    "gameobject_path_id": 181
+  },
+  "2225": {
+    "type": "CanvasRenderer",
+    "path_id": 2225,
+    "gameobject_path_id": 183
+  },
+  "2226": {
+    "type": "CanvasRenderer",
+    "path_id": 2226,
+    "gameobject_path_id": 184
+  },
+  "2227": {
+    "type": "CanvasRenderer",
+    "path_id": 2227,
+    "gameobject_path_id": 185
+  },
+  "2228": {
+    "type": "CanvasRenderer",
+    "path_id": 2228,
+    "gameobject_path_id": 186
+  },
+  "2229": {
+    "type": "CanvasRenderer",
+    "path_id": 2229,
+    "gameobject_path_id": 188
+  },
+  "2230": {
+    "type": "CanvasRenderer",
+    "path_id": 2230,
+    "gameobject_path_id": 190
+  },
+  "2231": {
+    "type": "CanvasRenderer",
+    "path_id": 2231,
+    "gameobject_path_id": 191
+  },
+  "2232": {
+    "type": "CanvasRenderer",
+    "path_id": 2232,
+    "gameobject_path_id": 192
+  },
+  "2233": {
+    "type": "CanvasRenderer",
+    "path_id": 2233,
+    "gameobject_path_id": 193
+  },
+  "2234": {
+    "type": "CanvasRenderer",
+    "path_id": 2234,
+    "gameobject_path_id": 194
+  },
+  "2235": {
+    "type": "CanvasRenderer",
+    "path_id": 2235,
+    "gameobject_path_id": 197
+  },
+  "2236": {
+    "type": "CanvasRenderer",
+    "path_id": 2236,
+    "gameobject_path_id": 200
+  },
+  "2237": {
+    "type": "CanvasRenderer",
+    "path_id": 2237,
+    "gameobject_path_id": 202
+  },
+  "2238": {
+    "type": "CanvasRenderer",
+    "path_id": 2238,
+    "gameobject_path_id": 204
+  },
+  "2239": {
+    "type": "CanvasRenderer",
+    "path_id": 2239,
+    "gameobject_path_id": 207
+  },
+  "2240": {
+    "type": "CanvasRenderer",
+    "path_id": 2240,
+    "gameobject_path_id": 209
+  },
+  "2241": {
+    "type": "CanvasRenderer",
+    "path_id": 2241,
+    "gameobject_path_id": 212
+  },
+  "2242": {
+    "type": "CanvasRenderer",
+    "path_id": 2242,
+    "gameobject_path_id": 213
+  },
+  "2243": {
+    "type": "CanvasRenderer",
+    "path_id": 2243,
+    "gameobject_path_id": 215
+  },
+  "2244": {
+    "type": "CanvasRenderer",
+    "path_id": 2244,
+    "gameobject_path_id": 216
+  },
+  "2245": {
+    "type": "CanvasRenderer",
+    "path_id": 2245,
+    "gameobject_path_id": 218
+  },
+  "2246": {
+    "type": "CanvasRenderer",
+    "path_id": 2246,
+    "gameobject_path_id": 219
+  },
+  "2247": {
+    "type": "CanvasRenderer",
+    "path_id": 2247,
+    "gameobject_path_id": 223
+  },
+  "2248": {
+    "type": "CanvasRenderer",
+    "path_id": 2248,
+    "gameobject_path_id": 224
+  },
+  "2249": {
+    "type": "CanvasRenderer",
+    "path_id": 2249,
+    "gameobject_path_id": 225
+  },
+  "2250": {
+    "type": "CanvasRenderer",
+    "path_id": 2250,
+    "gameobject_path_id": 226
+  },
+  "3886": {
+    "type": "MonoBehaviour",
+    "path_id": 3886,
+    "script_path_id": 131
+  },
+  "2251": {
+    "type": "CanvasRenderer",
+    "path_id": 2251,
+    "gameobject_path_id": 227
+  },
+  "2252": {
+    "type": "CanvasRenderer",
+    "path_id": 2252,
+    "gameobject_path_id": 228
+  },
+  "2253": {
+    "type": "CanvasRenderer",
+    "path_id": 2253,
+    "gameobject_path_id": 231
+  },
+  "2254": {
+    "type": "CanvasRenderer",
+    "path_id": 2254,
+    "gameobject_path_id": 233
+  },
+  "2255": {
+    "type": "CanvasRenderer",
+    "path_id": 2255,
+    "gameobject_path_id": 235
+  },
+  "2256": {
+    "type": "CanvasRenderer",
+    "path_id": 2256,
+    "gameobject_path_id": 240
+  },
+  "2257": {
+    "type": "CanvasRenderer",
+    "path_id": 2257,
+    "gameobject_path_id": 241
+  },
+  "2258": {
+    "type": "CanvasRenderer",
+    "path_id": 2258,
+    "gameobject_path_id": 242
+  },
+  "2259": {
+    "type": "CanvasRenderer",
+    "path_id": 2259,
+    "gameobject_path_id": 243
+  },
+  "2260": {
+    "type": "CanvasRenderer",
+    "path_id": 2260,
+    "gameobject_path_id": 244
+  },
+  "2261": {
+    "type": "CanvasRenderer",
+    "path_id": 2261,
+    "gameobject_path_id": 245
+  },
+  "2262": {
+    "type": "CanvasRenderer",
+    "path_id": 2262,
+    "gameobject_path_id": 246
+  },
+  "2263": {
+    "type": "CanvasRenderer",
+    "path_id": 2263,
+    "gameobject_path_id": 247
+  },
+  "2264": {
+    "type": "CanvasRenderer",
+    "path_id": 2264,
+    "gameobject_path_id": 248
+  },
+  "2265": {
+    "type": "CanvasRenderer",
+    "path_id": 2265,
+    "gameobject_path_id": 249
+  },
+  "2266": {
+    "type": "CanvasRenderer",
+    "path_id": 2266,
+    "gameobject_path_id": 250
+  },
+  "2267": {
+    "type": "CanvasRenderer",
+    "path_id": 2267,
+    "gameobject_path_id": 251
+  },
+  "2268": {
+    "type": "CanvasRenderer",
+    "path_id": 2268,
+    "gameobject_path_id": 252
+  },
+  "2269": {
+    "type": "CanvasRenderer",
+    "path_id": 2269,
+    "gameobject_path_id": 253
+  },
+  "2270": {
+    "type": "CanvasRenderer",
+    "path_id": 2270,
+    "gameobject_path_id": 254
+  },
+  "2271": {
+    "type": "CanvasRenderer",
+    "path_id": 2271,
+    "gameobject_path_id": 255
+  },
+  "2272": {
+    "type": "CanvasRenderer",
+    "path_id": 2272,
+    "gameobject_path_id": 256
+  },
+  "2273": {
+    "type": "CanvasRenderer",
+    "path_id": 2273,
+    "gameobject_path_id": 260
+  },
+  "2274": {
+    "type": "CanvasRenderer",
+    "path_id": 2274,
+    "gameobject_path_id": 265
+  },
+  "2275": {
+    "type": "CanvasRenderer",
+    "path_id": 2275,
+    "gameobject_path_id": 270
+  },
+  "2276": {
+    "type": "CanvasRenderer",
+    "path_id": 2276,
+    "gameobject_path_id": 274
+  },
+  "2277": {
+    "type": "CanvasRenderer",
+    "path_id": 2277,
+    "gameobject_path_id": 275
+  },
+  "2278": {
+    "type": "CanvasRenderer",
+    "path_id": 2278,
+    "gameobject_path_id": 277
+  },
+  "2279": {
+    "type": "CanvasRenderer",
+    "path_id": 2279,
+    "gameobject_path_id": 280
+  },
+  "2280": {
+    "type": "CanvasRenderer",
+    "path_id": 2280,
+    "gameobject_path_id": 281
+  },
+  "2281": {
+    "type": "CanvasRenderer",
+    "path_id": 2281,
+    "gameobject_path_id": 283
+  },
+  "2282": {
+    "type": "CanvasRenderer",
+    "path_id": 2282,
+    "gameobject_path_id": 288
+  },
+  "2283": {
+    "type": "CanvasRenderer",
+    "path_id": 2283,
+    "gameobject_path_id": 290
+  },
+  "2284": {
+    "type": "CanvasRenderer",
+    "path_id": 2284,
+    "gameobject_path_id": 291
+  },
+  "2285": {
+    "type": "CanvasRenderer",
+    "path_id": 2285,
+    "gameobject_path_id": 292
+  },
+  "2286": {
+    "type": "CanvasRenderer",
+    "path_id": 2286,
+    "gameobject_path_id": 293
+  },
+  "2287": {
+    "type": "CanvasRenderer",
+    "path_id": 2287,
+    "gameobject_path_id": 294
+  },
+  "2288": {
+    "type": "CanvasRenderer",
+    "path_id": 2288,
+    "gameobject_path_id": 297
+  },
+  "2289": {
+    "type": "CanvasRenderer",
+    "path_id": 2289,
+    "gameobject_path_id": 298
+  },
+  "2290": {
+    "type": "CanvasRenderer",
+    "path_id": 2290,
+    "gameobject_path_id": 300
+  },
+  "2291": {
+    "type": "CanvasRenderer",
+    "path_id": 2291,
+    "gameobject_path_id": 301
+  },
+  "2292": {
+    "type": "CanvasRenderer",
+    "path_id": 2292,
+    "gameobject_path_id": 302
+  },
+  "2293": {
+    "type": "CanvasRenderer",
+    "path_id": 2293,
+    "gameobject_path_id": 303
+  },
+  "2294": {
+    "type": "CanvasRenderer",
+    "path_id": 2294,
+    "gameobject_path_id": 304
+  },
+  "2295": {
+    "type": "CanvasRenderer",
+    "path_id": 2295,
+    "gameobject_path_id": 307
+  },
+  "2296": {
+    "type": "CanvasRenderer",
+    "path_id": 2296,
+    "gameobject_path_id": 310
+  },
+  "2297": {
+    "type": "CanvasRenderer",
+    "path_id": 2297,
+    "gameobject_path_id": 312
+  },
+  "2298": {
+    "type": "CanvasRenderer",
+    "path_id": 2298,
+    "gameobject_path_id": 313
+  },
+  "2299": {
+    "type": "CanvasRenderer",
+    "path_id": 2299,
+    "gameobject_path_id": 315
+  },
+  "2300": {
+    "type": "CanvasRenderer",
+    "path_id": 2300,
+    "gameobject_path_id": 318
+  },
+  "2301": {
+    "type": "CanvasRenderer",
+    "path_id": 2301,
+    "gameobject_path_id": 320
+  },
+  "2302": {
+    "type": "CanvasRenderer",
+    "path_id": 2302,
+    "gameobject_path_id": 322
+  },
+  "2303": {
+    "type": "CanvasRenderer",
+    "path_id": 2303,
+    "gameobject_path_id": 323
+  },
+  "2304": {
+    "type": "CanvasRenderer",
+    "path_id": 2304,
+    "gameobject_path_id": 325
+  },
+  "2305": {
+    "type": "CanvasRenderer",
+    "path_id": 2305,
+    "gameobject_path_id": 327
+  },
+  "2306": {
+    "type": "CanvasRenderer",
+    "path_id": 2306,
+    "gameobject_path_id": 328
+  },
+  "2307": {
+    "type": "CanvasRenderer",
+    "path_id": 2307,
+    "gameobject_path_id": 330
+  },
+  "2308": {
+    "type": "CanvasRenderer",
+    "path_id": 2308,
+    "gameobject_path_id": 336
+  },
+  "2309": {
+    "type": "CanvasRenderer",
+    "path_id": 2309,
+    "gameobject_path_id": 339
+  },
+  "2310": {
+    "type": "CanvasRenderer",
+    "path_id": 2310,
+    "gameobject_path_id": 342
+  },
+  "2311": {
+    "type": "CanvasRenderer",
+    "path_id": 2311,
+    "gameobject_path_id": 343
+  },
+  "2312": {
+    "type": "CanvasRenderer",
+    "path_id": 2312,
+    "gameobject_path_id": 346
+  },
+  "2313": {
+    "type": "CanvasRenderer",
+    "path_id": 2313,
+    "gameobject_path_id": 348
+  },
+  "2314": {
+    "type": "CanvasRenderer",
+    "path_id": 2314,
+    "gameobject_path_id": 349
+  },
+  "2315": {
+    "type": "CanvasRenderer",
+    "path_id": 2315,
+    "gameobject_path_id": 350
+  },
+  "2316": {
+    "type": "CanvasRenderer",
+    "path_id": 2316,
+    "gameobject_path_id": 352
+  },
+  "2317": {
+    "type": "CanvasRenderer",
+    "path_id": 2317,
+    "gameobject_path_id": 354
+  },
+  "2318": {
+    "type": "CanvasRenderer",
+    "path_id": 2318,
+    "gameobject_path_id": 356
+  },
+  "2319": {
+    "type": "CanvasRenderer",
+    "path_id": 2319,
+    "gameobject_path_id": 357
+  },
+  "2320": {
+    "type": "CanvasRenderer",
+    "path_id": 2320,
+    "gameobject_path_id": 359
+  },
+  "2321": {
+    "type": "CanvasRenderer",
+    "path_id": 2321,
+    "gameobject_path_id": 360
+  },
+  "2322": {
+    "type": "CanvasRenderer",
+    "path_id": 2322,
+    "gameobject_path_id": 361
+  },
+  "2323": {
+    "type": "CanvasRenderer",
+    "path_id": 2323,
+    "gameobject_path_id": 362
+  },
+  "2324": {
+    "type": "CanvasRenderer",
+    "path_id": 2324,
+    "gameobject_path_id": 364
+  },
+  "2325": {
+    "type": "CanvasRenderer",
+    "path_id": 2325,
+    "gameobject_path_id": 365
+  },
+  "2326": {
+    "type": "CanvasRenderer",
+    "path_id": 2326,
+    "gameobject_path_id": 367
+  },
+  "2327": {
+    "type": "CanvasRenderer",
+    "path_id": 2327,
+    "gameobject_path_id": 368
+  },
+  "2328": {
+    "type": "CanvasRenderer",
+    "path_id": 2328,
+    "gameobject_path_id": 370
+  },
+  "2329": {
+    "type": "CanvasRenderer",
+    "path_id": 2329,
+    "gameobject_path_id": 372
+  },
+  "2330": {
+    "type": "CanvasRenderer",
+    "path_id": 2330,
+    "gameobject_path_id": 376
+  },
+  "2331": {
+    "type": "CanvasRenderer",
+    "path_id": 2331,
+    "gameobject_path_id": 379
+  },
+  "2332": {
+    "type": "CanvasRenderer",
+    "path_id": 2332,
+    "gameobject_path_id": 380
+  },
+  "2333": {
+    "type": "CanvasRenderer",
+    "path_id": 2333,
+    "gameobject_path_id": 381
+  },
+  "2334": {
+    "type": "CanvasRenderer",
+    "path_id": 2334,
+    "gameobject_path_id": 382
+  },
+  "2335": {
+    "type": "CanvasRenderer",
+    "path_id": 2335,
+    "gameobject_path_id": 383
+  },
+  "2819": {
+    "type": "Canvas",
+    "path_id": 2819,
+    "gameobject_path_id": 383
+  },
+  "2336": {
+    "type": "CanvasRenderer",
+    "path_id": 2336,
+    "gameobject_path_id": 385
+  },
+  "2337": {
+    "type": "CanvasRenderer",
+    "path_id": 2337,
+    "gameobject_path_id": 386
+  },
+  "2338": {
+    "type": "CanvasRenderer",
+    "path_id": 2338,
+    "gameobject_path_id": 388
+  },
+  "2339": {
+    "type": "CanvasRenderer",
+    "path_id": 2339,
+    "gameobject_path_id": 389
+  },
+  "2340": {
+    "type": "CanvasRenderer",
+    "path_id": 2340,
+    "gameobject_path_id": 392
+  },
+  "2341": {
+    "type": "CanvasRenderer",
+    "path_id": 2341,
+    "gameobject_path_id": 393
+  },
+  "2342": {
+    "type": "CanvasRenderer",
+    "path_id": 2342,
+    "gameobject_path_id": 395
+  },
+  "2343": {
+    "type": "CanvasRenderer",
+    "path_id": 2343,
+    "gameobject_path_id": 396
+  },
+  "2344": {
+    "type": "CanvasRenderer",
+    "path_id": 2344,
+    "gameobject_path_id": 397
+  },
+  "2345": {
+    "type": "CanvasRenderer",
+    "path_id": 2345,
+    "gameobject_path_id": 398
+  },
+  "2346": {
+    "type": "CanvasRenderer",
+    "path_id": 2346,
+    "gameobject_path_id": 399
+  },
+  "2347": {
+    "type": "CanvasRenderer",
+    "path_id": 2347,
+    "gameobject_path_id": 400
+  },
+  "2348": {
+    "type": "CanvasRenderer",
+    "path_id": 2348,
+    "gameobject_path_id": 401
+  },
+  "2349": {
+    "type": "CanvasRenderer",
+    "path_id": 2349,
+    "gameobject_path_id": 402
+  },
+  "2350": {
+    "type": "CanvasRenderer",
+    "path_id": 2350,
+    "gameobject_path_id": 403
+  },
+  "2351": {
+    "type": "CanvasRenderer",
+    "path_id": 2351,
+    "gameobject_path_id": 404
+  },
+  "2352": {
+    "type": "CanvasRenderer",
+    "path_id": 2352,
+    "gameobject_path_id": 405
+  },
+  "2353": {
+    "type": "CanvasRenderer",
+    "path_id": 2353,
+    "gameobject_path_id": 406
+  },
+  "2354": {
+    "type": "CanvasRenderer",
+    "path_id": 2354,
+    "gameobject_path_id": 408
+  },
+  "2355": {
+    "type": "CanvasRenderer",
+    "path_id": 2355,
+    "gameobject_path_id": 409
+  },
+  "2356": {
+    "type": "CanvasRenderer",
+    "path_id": 2356,
+    "gameobject_path_id": 412
+  },
+  "2357": {
+    "type": "CanvasRenderer",
+    "path_id": 2357,
+    "gameobject_path_id": 415
+  },
+  "2358": {
+    "type": "CanvasRenderer",
+    "path_id": 2358,
+    "gameobject_path_id": 416
+  },
+  "2359": {
+    "type": "CanvasRenderer",
+    "path_id": 2359,
+    "gameobject_path_id": 417
+  },
+  "2360": {
+    "type": "CanvasRenderer",
+    "path_id": 2360,
+    "gameobject_path_id": 418
+  },
+  "2361": {
+    "type": "CanvasRenderer",
+    "path_id": 2361,
+    "gameobject_path_id": 419
+  },
+  "2362": {
+    "type": "CanvasRenderer",
+    "path_id": 2362,
+    "gameobject_path_id": 420
+  },
+  "2363": {
+    "type": "CanvasRenderer",
+    "path_id": 2363,
+    "gameobject_path_id": 421
+  },
+  "2364": {
+    "type": "CanvasRenderer",
+    "path_id": 2364,
+    "gameobject_path_id": 423
+  },
+  "2365": {
+    "type": "CanvasRenderer",
+    "path_id": 2365,
+    "gameobject_path_id": 424
+  },
+  "2366": {
+    "type": "CanvasRenderer",
+    "path_id": 2366,
+    "gameobject_path_id": 425
+  },
+  "2367": {
+    "type": "CanvasRenderer",
+    "path_id": 2367,
+    "gameobject_path_id": 429
+  },
+  "2368": {
+    "type": "CanvasRenderer",
+    "path_id": 2368,
+    "gameobject_path_id": 431
+  },
+  "2369": {
+    "type": "CanvasRenderer",
+    "path_id": 2369,
+    "gameobject_path_id": 432
+  },
+  "2370": {
+    "type": "CanvasRenderer",
+    "path_id": 2370,
+    "gameobject_path_id": 433
+  },
+  "2371": {
+    "type": "CanvasRenderer",
+    "path_id": 2371,
+    "gameobject_path_id": 434
+  },
+  "2372": {
+    "type": "CanvasRenderer",
+    "path_id": 2372,
+    "gameobject_path_id": 435
+  },
+  "2373": {
+    "type": "CanvasRenderer",
+    "path_id": 2373,
+    "gameobject_path_id": 436
+  },
+  "2374": {
+    "type": "CanvasRenderer",
+    "path_id": 2374,
+    "gameobject_path_id": 438
+  },
+  "2375": {
+    "type": "CanvasRenderer",
+    "path_id": 2375,
+    "gameobject_path_id": 439
+  },
+  "2376": {
+    "type": "CanvasRenderer",
+    "path_id": 2376,
+    "gameobject_path_id": 444
+  },
+  "2377": {
+    "type": "CanvasRenderer",
+    "path_id": 2377,
+    "gameobject_path_id": 445
+  },
+  "2378": {
+    "type": "CanvasRenderer",
+    "path_id": 2378,
+    "gameobject_path_id": 446
+  },
+  "2379": {
+    "type": "CanvasRenderer",
+    "path_id": 2379,
+    "gameobject_path_id": 447
+  },
+  "2380": {
+    "type": "CanvasRenderer",
+    "path_id": 2380,
+    "gameobject_path_id": 448
+  },
+  "2381": {
+    "type": "CanvasRenderer",
+    "path_id": 2381,
+    "gameobject_path_id": 450
+  },
+  "2382": {
+    "type": "CanvasRenderer",
+    "path_id": 2382,
+    "gameobject_path_id": 451
+  },
+  "2383": {
+    "type": "CanvasRenderer",
+    "path_id": 2383,
+    "gameobject_path_id": 453
+  },
+  "2384": {
+    "type": "CanvasRenderer",
+    "path_id": 2384,
+    "gameobject_path_id": 455
+  },
+  "2385": {
+    "type": "CanvasRenderer",
+    "path_id": 2385,
+    "gameobject_path_id": 461
+  },
+  "2386": {
+    "type": "CanvasRenderer",
+    "path_id": 2386,
+    "gameobject_path_id": 463
+  },
+  "2387": {
+    "type": "CanvasRenderer",
+    "path_id": 2387,
+    "gameobject_path_id": 464
+  },
+  "2388": {
+    "type": "CanvasRenderer",
+    "path_id": 2388,
+    "gameobject_path_id": 465
+  },
+  "2389": {
+    "type": "CanvasRenderer",
+    "path_id": 2389,
+    "gameobject_path_id": 466
+  },
+  "2390": {
+    "type": "CanvasRenderer",
+    "path_id": 2390,
+    "gameobject_path_id": 468
+  },
+  "2391": {
+    "type": "CanvasRenderer",
+    "path_id": 2391,
+    "gameobject_path_id": 470
+  },
+  "2392": {
+    "type": "CanvasRenderer",
+    "path_id": 2392,
+    "gameobject_path_id": 471
+  },
+  "2393": {
+    "type": "CanvasRenderer",
+    "path_id": 2393,
+    "gameobject_path_id": 475
+  },
+  "2394": {
+    "type": "CanvasRenderer",
+    "path_id": 2394,
+    "gameobject_path_id": 476
+  },
+  "2395": {
+    "type": "CanvasRenderer",
+    "path_id": 2395,
+    "gameobject_path_id": 479
+  },
+  "2396": {
+    "type": "CanvasRenderer",
+    "path_id": 2396,
+    "gameobject_path_id": 481
+  },
+  "2397": {
+    "type": "CanvasRenderer",
+    "path_id": 2397,
+    "gameobject_path_id": 482
+  },
+  "2398": {
+    "type": "CanvasRenderer",
+    "path_id": 2398,
+    "gameobject_path_id": 484
+  },
+  "2399": {
+    "type": "CanvasRenderer",
+    "path_id": 2399,
+    "gameobject_path_id": 485
+  },
+  "2400": {
+    "type": "CanvasRenderer",
+    "path_id": 2400,
+    "gameobject_path_id": 487
+  },
+  "2401": {
+    "type": "CanvasRenderer",
+    "path_id": 2401,
+    "gameobject_path_id": 488
+  },
+  "2402": {
+    "type": "CanvasRenderer",
+    "path_id": 2402,
+    "gameobject_path_id": 491
+  },
+  "2403": {
+    "type": "CanvasRenderer",
+    "path_id": 2403,
+    "gameobject_path_id": 492
+  },
+  "2404": {
+    "type": "CanvasRenderer",
+    "path_id": 2404,
+    "gameobject_path_id": 494
+  },
+  "2405": {
+    "type": "CanvasRenderer",
+    "path_id": 2405,
+    "gameobject_path_id": 496
+  },
+  "2406": {
+    "type": "CanvasRenderer",
+    "path_id": 2406,
+    "gameobject_path_id": 497
+  },
+  "2407": {
+    "type": "CanvasRenderer",
+    "path_id": 2407,
+    "gameobject_path_id": 499
+  },
+  "2408": {
+    "type": "CanvasRenderer",
+    "path_id": 2408,
+    "gameobject_path_id": 500
+  },
+  "2409": {
+    "type": "CanvasRenderer",
+    "path_id": 2409,
+    "gameobject_path_id": 501
+  },
+  "2410": {
+    "type": "CanvasRenderer",
+    "path_id": 2410,
+    "gameobject_path_id": 503
+  },
+  "2411": {
+    "type": "CanvasRenderer",
+    "path_id": 2411,
+    "gameobject_path_id": 507
+  },
+  "2412": {
+    "type": "CanvasRenderer",
+    "path_id": 2412,
+    "gameobject_path_id": 510
+  },
+  "2413": {
+    "type": "CanvasRenderer",
+    "path_id": 2413,
+    "gameobject_path_id": 512
+  },
+  "2414": {
+    "type": "CanvasRenderer",
+    "path_id": 2414,
+    "gameobject_path_id": 513
+  },
+  "2820": {
+    "type": "Canvas",
+    "path_id": 2820,
+    "gameobject_path_id": 513
+  },
+  "2415": {
+    "type": "CanvasRenderer",
+    "path_id": 2415,
+    "gameobject_path_id": 516
+  },
+  "2416": {
+    "type": "CanvasRenderer",
+    "path_id": 2416,
+    "gameobject_path_id": 517
+  },
+  "2417": {
+    "type": "CanvasRenderer",
+    "path_id": 2417,
+    "gameobject_path_id": 518
+  },
+  "2418": {
+    "type": "CanvasRenderer",
+    "path_id": 2418,
+    "gameobject_path_id": 523
+  },
+  "2419": {
+    "type": "CanvasRenderer",
+    "path_id": 2419,
+    "gameobject_path_id": 524
+  },
+  "2420": {
+    "type": "CanvasRenderer",
+    "path_id": 2420,
+    "gameobject_path_id": 526
+  },
+  "2421": {
+    "type": "CanvasRenderer",
+    "path_id": 2421,
+    "gameobject_path_id": 527
+  },
+  "2422": {
+    "type": "CanvasRenderer",
+    "path_id": 2422,
+    "gameobject_path_id": 528
+  },
+  "2423": {
+    "type": "CanvasRenderer",
+    "path_id": 2423,
+    "gameobject_path_id": 531
+  },
+  "2424": {
+    "type": "CanvasRenderer",
+    "path_id": 2424,
+    "gameobject_path_id": 532
+  },
+  "2425": {
+    "type": "CanvasRenderer",
+    "path_id": 2425,
+    "gameobject_path_id": 533
+  },
+  "4188": {
+    "type": "MonoBehaviour",
+    "path_id": 4188,
+    "script_path_id": 332
+  },
+  "2426": {
+    "type": "CanvasRenderer",
+    "path_id": 2426,
+    "gameobject_path_id": 536
+  },
+  "2427": {
+    "type": "CanvasRenderer",
+    "path_id": 2427,
+    "gameobject_path_id": 538
+  },
+  "2428": {
+    "type": "CanvasRenderer",
+    "path_id": 2428,
+    "gameobject_path_id": 539
+  },
+  "2429": {
+    "type": "CanvasRenderer",
+    "path_id": 2429,
+    "gameobject_path_id": 541
+  },
+  "2430": {
+    "type": "CanvasRenderer",
+    "path_id": 2430,
+    "gameobject_path_id": 542
+  },
+  "2431": {
+    "type": "CanvasRenderer",
+    "path_id": 2431,
+    "gameobject_path_id": 543
+  },
+  "2432": {
+    "type": "CanvasRenderer",
+    "path_id": 2432,
+    "gameobject_path_id": 544
+  },
+  "2433": {
+    "type": "CanvasRenderer",
+    "path_id": 2433,
+    "gameobject_path_id": 545
+  },
+  "2434": {
+    "type": "CanvasRenderer",
+    "path_id": 2434,
+    "gameobject_path_id": 547
+  },
+  "2435": {
+    "type": "CanvasRenderer",
+    "path_id": 2435,
+    "gameobject_path_id": 550
+  },
+  "2436": {
+    "type": "CanvasRenderer",
+    "path_id": 2436,
+    "gameobject_path_id": 553
+  },
+  "2437": {
+    "type": "CanvasRenderer",
+    "path_id": 2437,
+    "gameobject_path_id": 554
+  },
+  "2438": {
+    "type": "CanvasRenderer",
+    "path_id": 2438,
+    "gameobject_path_id": 556
+  },
+  "2439": {
+    "type": "CanvasRenderer",
+    "path_id": 2439,
+    "gameobject_path_id": 557
+  },
+  "2440": {
+    "type": "CanvasRenderer",
+    "path_id": 2440,
+    "gameobject_path_id": 558
+  },
+  "2441": {
+    "type": "CanvasRenderer",
+    "path_id": 2441,
+    "gameobject_path_id": 561
+  },
+  "2442": {
+    "type": "CanvasRenderer",
+    "path_id": 2442,
+    "gameobject_path_id": 562
+  },
+  "2443": {
+    "type": "CanvasRenderer",
+    "path_id": 2443,
+    "gameobject_path_id": 563
+  },
+  "2444": {
+    "type": "CanvasRenderer",
+    "path_id": 2444,
+    "gameobject_path_id": 564
+  },
+  "2445": {
+    "type": "CanvasRenderer",
+    "path_id": 2445,
+    "gameobject_path_id": 565
+  },
+  "2446": {
+    "type": "CanvasRenderer",
+    "path_id": 2446,
+    "gameobject_path_id": 566
+  },
+  "2447": {
+    "type": "CanvasRenderer",
+    "path_id": 2447,
+    "gameobject_path_id": 567
+  },
+  "2448": {
+    "type": "CanvasRenderer",
+    "path_id": 2448,
+    "gameobject_path_id": 568
+  },
+  "2449": {
+    "type": "CanvasRenderer",
+    "path_id": 2449,
+    "gameobject_path_id": 571
+  },
+  "2450": {
+    "type": "CanvasRenderer",
+    "path_id": 2450,
+    "gameobject_path_id": 572
+  },
+  "2451": {
+    "type": "CanvasRenderer",
+    "path_id": 2451,
+    "gameobject_path_id": 573
+  },
+  "2452": {
+    "type": "CanvasRenderer",
+    "path_id": 2452,
+    "gameobject_path_id": 577
+  },
+  "2453": {
+    "type": "CanvasRenderer",
+    "path_id": 2453,
+    "gameobject_path_id": 578
+  },
+  "2454": {
+    "type": "CanvasRenderer",
+    "path_id": 2454,
+    "gameobject_path_id": 579
+  },
+  "2455": {
+    "type": "CanvasRenderer",
+    "path_id": 2455,
+    "gameobject_path_id": 580
+  },
+  "2456": {
+    "type": "CanvasRenderer",
+    "path_id": 2456,
+    "gameobject_path_id": 581
+  },
+  "2457": {
+    "type": "CanvasRenderer",
+    "path_id": 2457,
+    "gameobject_path_id": 582
+  },
+  "2458": {
+    "type": "CanvasRenderer",
+    "path_id": 2458,
+    "gameobject_path_id": 584
+  },
+  "2459": {
+    "type": "CanvasRenderer",
+    "path_id": 2459,
+    "gameobject_path_id": 587
+  },
+  "2460": {
+    "type": "CanvasRenderer",
+    "path_id": 2460,
+    "gameobject_path_id": 591
+  },
+  "2461": {
+    "type": "CanvasRenderer",
+    "path_id": 2461,
+    "gameobject_path_id": 592
+  },
+  "2462": {
+    "type": "CanvasRenderer",
+    "path_id": 2462,
+    "gameobject_path_id": 594
+  },
+  "2463": {
+    "type": "CanvasRenderer",
+    "path_id": 2463,
+    "gameobject_path_id": 595
+  },
+  "2464": {
+    "type": "CanvasRenderer",
+    "path_id": 2464,
+    "gameobject_path_id": 596
+  },
+  "2465": {
+    "type": "CanvasRenderer",
+    "path_id": 2465,
+    "gameobject_path_id": 598
+  },
+  "2466": {
+    "type": "CanvasRenderer",
+    "path_id": 2466,
+    "gameobject_path_id": 599
+  },
+  "2467": {
+    "type": "CanvasRenderer",
+    "path_id": 2467,
+    "gameobject_path_id": 600
+  },
+  "2468": {
+    "type": "CanvasRenderer",
+    "path_id": 2468,
+    "gameobject_path_id": 601
+  },
+  "2469": {
+    "type": "CanvasRenderer",
+    "path_id": 2469,
+    "gameobject_path_id": 602
+  },
+  "2470": {
+    "type": "CanvasRenderer",
+    "path_id": 2470,
+    "gameobject_path_id": 605
+  },
+  "2471": {
+    "type": "CanvasRenderer",
+    "path_id": 2471,
+    "gameobject_path_id": 606
+  },
+  "2472": {
+    "type": "CanvasRenderer",
+    "path_id": 2472,
+    "gameobject_path_id": 608
+  },
+  "2473": {
+    "type": "CanvasRenderer",
+    "path_id": 2473,
+    "gameobject_path_id": 610
+  },
+  "2474": {
+    "type": "CanvasRenderer",
+    "path_id": 2474,
+    "gameobject_path_id": 611
+  },
+  "2475": {
+    "type": "CanvasRenderer",
+    "path_id": 2475,
+    "gameobject_path_id": 613
+  },
+  "2476": {
+    "type": "CanvasRenderer",
+    "path_id": 2476,
+    "gameobject_path_id": 615
+  },
+  "2477": {
+    "type": "CanvasRenderer",
+    "path_id": 2477,
+    "gameobject_path_id": 616
+  },
+  "2478": {
+    "type": "CanvasRenderer",
+    "path_id": 2478,
+    "gameobject_path_id": 617
+  },
+  "2479": {
+    "type": "CanvasRenderer",
+    "path_id": 2479,
+    "gameobject_path_id": 620
+  },
+  "2480": {
+    "type": "CanvasRenderer",
+    "path_id": 2480,
+    "gameobject_path_id": 621
+  },
+  "2481": {
+    "type": "CanvasRenderer",
+    "path_id": 2481,
+    "gameobject_path_id": 622
+  },
+  "2482": {
+    "type": "CanvasRenderer",
+    "path_id": 2482,
+    "gameobject_path_id": 625
+  },
+  "2483": {
+    "type": "CanvasRenderer",
+    "path_id": 2483,
+    "gameobject_path_id": 626
+  },
+  "2484": {
+    "type": "CanvasRenderer",
+    "path_id": 2484,
+    "gameobject_path_id": 631
+  },
+  "2485": {
+    "type": "CanvasRenderer",
+    "path_id": 2485,
+    "gameobject_path_id": 635
+  },
+  "2486": {
+    "type": "CanvasRenderer",
+    "path_id": 2486,
+    "gameobject_path_id": 636
+  },
+  "2487": {
+    "type": "CanvasRenderer",
+    "path_id": 2487,
+    "gameobject_path_id": 638
+  },
+  "2488": {
+    "type": "CanvasRenderer",
+    "path_id": 2488,
+    "gameobject_path_id": 639
+  },
+  "2489": {
+    "type": "CanvasRenderer",
+    "path_id": 2489,
+    "gameobject_path_id": 640
+  },
+  "2490": {
+    "type": "CanvasRenderer",
+    "path_id": 2490,
+    "gameobject_path_id": 641
+  },
+  "2491": {
+    "type": "CanvasRenderer",
+    "path_id": 2491,
+    "gameobject_path_id": 644
+  },
+  "2492": {
+    "type": "CanvasRenderer",
+    "path_id": 2492,
+    "gameobject_path_id": 645
+  },
+  "2493": {
+    "type": "CanvasRenderer",
+    "path_id": 2493,
+    "gameobject_path_id": 647
+  },
+  "2494": {
+    "type": "CanvasRenderer",
+    "path_id": 2494,
+    "gameobject_path_id": 649
+  },
+  "2495": {
+    "type": "CanvasRenderer",
+    "path_id": 2495,
+    "gameobject_path_id": 650
+  },
+  "2496": {
+    "type": "CanvasRenderer",
+    "path_id": 2496,
+    "gameobject_path_id": 651
+  },
+  "2497": {
+    "type": "CanvasRenderer",
+    "path_id": 2497,
+    "gameobject_path_id": 653
+  },
+  "2498": {
+    "type": "CanvasRenderer",
+    "path_id": 2498,
+    "gameobject_path_id": 655
+  },
+  "2499": {
+    "type": "CanvasRenderer",
+    "path_id": 2499,
+    "gameobject_path_id": 656
+  },
+  "2500": {
+    "type": "CanvasRenderer",
+    "path_id": 2500,
+    "gameobject_path_id": 657
+  },
+  "2501": {
+    "type": "CanvasRenderer",
+    "path_id": 2501,
+    "gameobject_path_id": 660
+  },
+  "2502": {
+    "type": "CanvasRenderer",
+    "path_id": 2502,
+    "gameobject_path_id": 661
+  },
+  "2503": {
+    "type": "CanvasRenderer",
+    "path_id": 2503,
+    "gameobject_path_id": 668
+  },
+  "2504": {
+    "type": "CanvasRenderer",
+    "path_id": 2504,
+    "gameobject_path_id": 673
+  },
+  "2505": {
+    "type": "CanvasRenderer",
+    "path_id": 2505,
+    "gameobject_path_id": 675
+  },
+  "2506": {
+    "type": "CanvasRenderer",
+    "path_id": 2506,
+    "gameobject_path_id": 676
+  },
+  "2507": {
+    "type": "CanvasRenderer",
+    "path_id": 2507,
+    "gameobject_path_id": 677
+  },
+  "2508": {
+    "type": "CanvasRenderer",
+    "path_id": 2508,
+    "gameobject_path_id": 679
+  },
+  "2509": {
+    "type": "CanvasRenderer",
+    "path_id": 2509,
+    "gameobject_path_id": 681
+  },
+  "2510": {
+    "type": "CanvasRenderer",
+    "path_id": 2510,
+    "gameobject_path_id": 682
+  },
+  "2511": {
+    "type": "CanvasRenderer",
+    "path_id": 2511,
+    "gameobject_path_id": 683
+  },
+  "2512": {
+    "type": "CanvasRenderer",
+    "path_id": 2512,
+    "gameobject_path_id": 684
+  },
+  "2513": {
+    "type": "CanvasRenderer",
+    "path_id": 2513,
+    "gameobject_path_id": 685
+  },
+  "2514": {
+    "type": "CanvasRenderer",
+    "path_id": 2514,
+    "gameobject_path_id": 686
+  },
+  "2515": {
+    "type": "CanvasRenderer",
+    "path_id": 2515,
+    "gameobject_path_id": 688
+  },
+  "2516": {
+    "type": "CanvasRenderer",
+    "path_id": 2516,
+    "gameobject_path_id": 689
+  },
+  "2517": {
+    "type": "CanvasRenderer",
+    "path_id": 2517,
+    "gameobject_path_id": 690
+  },
+  "2518": {
+    "type": "CanvasRenderer",
+    "path_id": 2518,
+    "gameobject_path_id": 691
+  },
+  "2519": {
+    "type": "CanvasRenderer",
+    "path_id": 2519,
+    "gameobject_path_id": 693
+  },
+  "2520": {
+    "type": "CanvasRenderer",
+    "path_id": 2520,
+    "gameobject_path_id": 694
+  },
+  "2521": {
+    "type": "CanvasRenderer",
+    "path_id": 2521,
+    "gameobject_path_id": 699
+  },
+  "2522": {
+    "type": "CanvasRenderer",
+    "path_id": 2522,
+    "gameobject_path_id": 704
+  },
+  "2523": {
+    "type": "CanvasRenderer",
+    "path_id": 2523,
+    "gameobject_path_id": 705
+  },
+  "2524": {
+    "type": "CanvasRenderer",
+    "path_id": 2524,
+    "gameobject_path_id": 706
+  },
+  "2525": {
+    "type": "CanvasRenderer",
+    "path_id": 2525,
+    "gameobject_path_id": 707
+  },
+  "2526": {
+    "type": "CanvasRenderer",
+    "path_id": 2526,
+    "gameobject_path_id": 708
+  },
+  "2527": {
+    "type": "CanvasRenderer",
+    "path_id": 2527,
+    "gameobject_path_id": 709
+  },
+  "2528": {
+    "type": "CanvasRenderer",
+    "path_id": 2528,
+    "gameobject_path_id": 710
+  },
+  "2529": {
+    "type": "CanvasRenderer",
+    "path_id": 2529,
+    "gameobject_path_id": 712
+  },
+  "2530": {
+    "type": "CanvasRenderer",
+    "path_id": 2530,
+    "gameobject_path_id": 713
+  },
+  "2531": {
+    "type": "CanvasRenderer",
+    "path_id": 2531,
+    "gameobject_path_id": 715
+  },
+  "2532": {
+    "type": "CanvasRenderer",
+    "path_id": 2532,
+    "gameobject_path_id": 717
+  },
+  "2533": {
+    "type": "CanvasRenderer",
+    "path_id": 2533,
+    "gameobject_path_id": 718
+  },
+  "2534": {
+    "type": "CanvasRenderer",
+    "path_id": 2534,
+    "gameobject_path_id": 721
+  },
+  "2535": {
+    "type": "CanvasRenderer",
+    "path_id": 2535,
+    "gameobject_path_id": 722
+  },
+  "2536": {
+    "type": "CanvasRenderer",
+    "path_id": 2536,
+    "gameobject_path_id": 726
+  },
+  "2537": {
+    "type": "CanvasRenderer",
+    "path_id": 2537,
+    "gameobject_path_id": 728
+  },
+  "2538": {
+    "type": "CanvasRenderer",
+    "path_id": 2538,
+    "gameobject_path_id": 729
+  },
+  "2539": {
+    "type": "CanvasRenderer",
+    "path_id": 2539,
+    "gameobject_path_id": 730
+  },
+  "2540": {
+    "type": "CanvasRenderer",
+    "path_id": 2540,
+    "gameobject_path_id": 732
+  },
+  "2541": {
+    "type": "CanvasRenderer",
+    "path_id": 2541,
+    "gameobject_path_id": 734
+  },
+  "2542": {
+    "type": "CanvasRenderer",
+    "path_id": 2542,
+    "gameobject_path_id": 736
+  },
+  "2543": {
+    "type": "CanvasRenderer",
+    "path_id": 2543,
+    "gameobject_path_id": 738
+  },
+  "2544": {
+    "type": "CanvasRenderer",
+    "path_id": 2544,
+    "gameobject_path_id": 740
+  },
+  "2545": {
+    "type": "CanvasRenderer",
+    "path_id": 2545,
+    "gameobject_path_id": 741
+  },
+  "2546": {
+    "type": "CanvasRenderer",
+    "path_id": 2546,
+    "gameobject_path_id": 742
+  },
+  "2547": {
+    "type": "CanvasRenderer",
+    "path_id": 2547,
+    "gameobject_path_id": 743
+  },
+  "2548": {
+    "type": "CanvasRenderer",
+    "path_id": 2548,
+    "gameobject_path_id": 746
+  },
+  "2549": {
+    "type": "CanvasRenderer",
+    "path_id": 2549,
+    "gameobject_path_id": 747
+  },
+  "2550": {
+    "type": "CanvasRenderer",
+    "path_id": 2550,
+    "gameobject_path_id": 750
+  },
+  "2551": {
+    "type": "CanvasRenderer",
+    "path_id": 2551,
+    "gameobject_path_id": 751
+  },
+  "2552": {
+    "type": "CanvasRenderer",
+    "path_id": 2552,
+    "gameobject_path_id": 752
+  },
+  "2553": {
+    "type": "CanvasRenderer",
+    "path_id": 2553,
+    "gameobject_path_id": 754
+  },
+  "2554": {
+    "type": "CanvasRenderer",
+    "path_id": 2554,
+    "gameobject_path_id": 755
+  },
+  "2555": {
+    "type": "CanvasRenderer",
+    "path_id": 2555,
+    "gameobject_path_id": 757
+  },
+  "2556": {
+    "type": "CanvasRenderer",
+    "path_id": 2556,
+    "gameobject_path_id": 760
+  },
+  "2557": {
+    "type": "CanvasRenderer",
+    "path_id": 2557,
+    "gameobject_path_id": 763
+  },
+  "2558": {
+    "type": "CanvasRenderer",
+    "path_id": 2558,
+    "gameobject_path_id": 764
+  },
+  "2559": {
+    "type": "CanvasRenderer",
+    "path_id": 2559,
+    "gameobject_path_id": 767
+  },
+  "2560": {
+    "type": "CanvasRenderer",
+    "path_id": 2560,
+    "gameobject_path_id": 769
+  },
+  "2561": {
+    "type": "CanvasRenderer",
+    "path_id": 2561,
+    "gameobject_path_id": 773
+  },
+  "2562": {
+    "type": "CanvasRenderer",
+    "path_id": 2562,
+    "gameobject_path_id": 774
+  },
+  "2563": {
+    "type": "CanvasRenderer",
+    "path_id": 2563,
+    "gameobject_path_id": 775
+  },
+  "2564": {
+    "type": "CanvasRenderer",
+    "path_id": 2564,
+    "gameobject_path_id": 776
+  },
+  "2565": {
+    "type": "CanvasRenderer",
+    "path_id": 2565,
+    "gameobject_path_id": 779
+  },
+  "2566": {
+    "type": "CanvasRenderer",
+    "path_id": 2566,
+    "gameobject_path_id": 781
+  },
+  "2567": {
+    "type": "CanvasRenderer",
+    "path_id": 2567,
+    "gameobject_path_id": 782
+  },
+  "2568": {
+    "type": "CanvasRenderer",
+    "path_id": 2568,
+    "gameobject_path_id": 784
+  },
+  "2569": {
+    "type": "CanvasRenderer",
+    "path_id": 2569,
+    "gameobject_path_id": 785
+  },
+  "4435": {
+    "type": "MonoBehaviour",
+    "path_id": 4435,
+    "script_path_id": 332
+  },
+  "2570": {
+    "type": "CanvasRenderer",
+    "path_id": 2570,
+    "gameobject_path_id": 786
+  },
+  "2571": {
+    "type": "CanvasRenderer",
+    "path_id": 2571,
+    "gameobject_path_id": 790
+  },
+  "2572": {
+    "type": "CanvasRenderer",
+    "path_id": 2572,
+    "gameobject_path_id": 791
+  },
+  "2573": {
+    "type": "CanvasRenderer",
+    "path_id": 2573,
+    "gameobject_path_id": 792
+  },
+  "2574": {
+    "type": "CanvasRenderer",
+    "path_id": 2574,
+    "gameobject_path_id": 794
+  },
+  "2575": {
+    "type": "CanvasRenderer",
+    "path_id": 2575,
+    "gameobject_path_id": 795
+  },
+  "2576": {
+    "type": "CanvasRenderer",
+    "path_id": 2576,
+    "gameobject_path_id": 796
+  },
+  "2577": {
+    "type": "CanvasRenderer",
+    "path_id": 2577,
+    "gameobject_path_id": 797
+  },
+  "2578": {
+    "type": "CanvasRenderer",
+    "path_id": 2578,
+    "gameobject_path_id": 799
+  },
+  "2579": {
+    "type": "CanvasRenderer",
+    "path_id": 2579,
+    "gameobject_path_id": 800
+  },
+  "2821": {
+    "type": "Canvas",
+    "path_id": 2821,
+    "gameobject_path_id": 800
+  },
+  "2580": {
+    "type": "CanvasRenderer",
+    "path_id": 2580,
+    "gameobject_path_id": 801
+  },
+  "2581": {
+    "type": "CanvasRenderer",
+    "path_id": 2581,
+    "gameobject_path_id": 805
+  },
+  "2582": {
+    "type": "CanvasRenderer",
+    "path_id": 2582,
+    "gameobject_path_id": 807
+  },
+  "2822": {
+    "type": "Canvas",
+    "path_id": 2822,
+    "gameobject_path_id": 807
+  },
+  "4459": {
+    "type": "MonoBehaviour",
+    "path_id": 4459,
+    "script_path_id": 391
+  },
+  "2583": {
+    "type": "CanvasRenderer",
+    "path_id": 2583,
+    "gameobject_path_id": 808
+  },
+  "2584": {
+    "type": "CanvasRenderer",
+    "path_id": 2584,
+    "gameobject_path_id": 809
+  },
+  "2585": {
+    "type": "CanvasRenderer",
+    "path_id": 2585,
+    "gameobject_path_id": 811
+  },
+  "2586": {
+    "type": "CanvasRenderer",
+    "path_id": 2586,
+    "gameobject_path_id": 814
+  },
+  "2587": {
+    "type": "CanvasRenderer",
+    "path_id": 2587,
+    "gameobject_path_id": 815
+  },
+  "2588": {
+    "type": "CanvasRenderer",
+    "path_id": 2588,
+    "gameobject_path_id": 816
+  },
+  "2589": {
+    "type": "CanvasRenderer",
+    "path_id": 2589,
+    "gameobject_path_id": 817
+  },
+  "2590": {
+    "type": "CanvasRenderer",
+    "path_id": 2590,
+    "gameobject_path_id": 820
+  },
+  "2591": {
+    "type": "CanvasRenderer",
+    "path_id": 2591,
+    "gameobject_path_id": 821
+  },
+  "2592": {
+    "type": "CanvasRenderer",
+    "path_id": 2592,
+    "gameobject_path_id": 822
+  },
+  "2593": {
+    "type": "CanvasRenderer",
+    "path_id": 2593,
+    "gameobject_path_id": 824
+  },
+  "2594": {
+    "type": "CanvasRenderer",
+    "path_id": 2594,
+    "gameobject_path_id": 826
+  },
+  "2595": {
+    "type": "CanvasRenderer",
+    "path_id": 2595,
+    "gameobject_path_id": 827
+  },
+  "2596": {
+    "type": "CanvasRenderer",
+    "path_id": 2596,
+    "gameobject_path_id": 828
+  },
+  "2597": {
+    "type": "CanvasRenderer",
+    "path_id": 2597,
+    "gameobject_path_id": 830
+  },
+  "2598": {
+    "type": "CanvasRenderer",
+    "path_id": 2598,
+    "gameobject_path_id": 832
+  },
+  "2824": {
+    "type": "Canvas",
+    "path_id": 2824,
+    "gameobject_path_id": 832
+  },
+  "2599": {
+    "type": "CanvasRenderer",
+    "path_id": 2599,
+    "gameobject_path_id": 838
+  },
+  "2600": {
+    "type": "CanvasRenderer",
+    "path_id": 2600,
+    "gameobject_path_id": 840
+  },
+  "2601": {
+    "type": "CanvasRenderer",
+    "path_id": 2601,
+    "gameobject_path_id": 841
+  },
+  "2602": {
+    "type": "CanvasRenderer",
+    "path_id": 2602,
+    "gameobject_path_id": 843
+  },
+  "2603": {
+    "type": "CanvasRenderer",
+    "path_id": 2603,
+    "gameobject_path_id": 846
+  },
+  "2604": {
+    "type": "CanvasRenderer",
+    "path_id": 2604,
+    "gameobject_path_id": 847
+  },
+  "2605": {
+    "type": "CanvasRenderer",
+    "path_id": 2605,
+    "gameobject_path_id": 850
+  },
+  "2606": {
+    "type": "CanvasRenderer",
+    "path_id": 2606,
+    "gameobject_path_id": 851
+  },
+  "2607": {
+    "type": "CanvasRenderer",
+    "path_id": 2607,
+    "gameobject_path_id": 852
+  },
+  "2608": {
+    "type": "CanvasRenderer",
+    "path_id": 2608,
+    "gameobject_path_id": 853
+  },
+  "2609": {
+    "type": "CanvasRenderer",
+    "path_id": 2609,
+    "gameobject_path_id": 854
+  },
+  "2610": {
+    "type": "CanvasRenderer",
+    "path_id": 2610,
+    "gameobject_path_id": 859
+  },
+  "2611": {
+    "type": "CanvasRenderer",
+    "path_id": 2611,
+    "gameobject_path_id": 861
+  },
+  "2612": {
+    "type": "CanvasRenderer",
+    "path_id": 2612,
+    "gameobject_path_id": 862
+  },
+  "2613": {
+    "type": "CanvasRenderer",
+    "path_id": 2613,
+    "gameobject_path_id": 863
+  },
+  "2614": {
+    "type": "CanvasRenderer",
+    "path_id": 2614,
+    "gameobject_path_id": 864
+  },
+  "2615": {
+    "type": "CanvasRenderer",
+    "path_id": 2615,
+    "gameobject_path_id": 865
+  },
+  "2616": {
+    "type": "CanvasRenderer",
+    "path_id": 2616,
+    "gameobject_path_id": 866
+  },
+  "2617": {
+    "type": "CanvasRenderer",
+    "path_id": 2617,
+    "gameobject_path_id": 867
+  },
+  "2618": {
+    "type": "CanvasRenderer",
+    "path_id": 2618,
+    "gameobject_path_id": 869
+  },
+  "2619": {
+    "type": "CanvasRenderer",
+    "path_id": 2619,
+    "gameobject_path_id": 870
+  },
+  "2620": {
+    "type": "CanvasRenderer",
+    "path_id": 2620,
+    "gameobject_path_id": 871
+  },
+  "2621": {
+    "type": "CanvasRenderer",
+    "path_id": 2621,
+    "gameobject_path_id": 873
+  },
+  "2622": {
+    "type": "CanvasRenderer",
+    "path_id": 2622,
+    "gameobject_path_id": 874
+  },
+  "2623": {
+    "type": "CanvasRenderer",
+    "path_id": 2623,
+    "gameobject_path_id": 876
+  },
+  "2624": {
+    "type": "CanvasRenderer",
+    "path_id": 2624,
+    "gameobject_path_id": 878
+  },
+  "2625": {
+    "type": "CanvasRenderer",
+    "path_id": 2625,
+    "gameobject_path_id": 879
+  },
+  "2626": {
+    "type": "CanvasRenderer",
+    "path_id": 2626,
+    "gameobject_path_id": 881
+  },
+  "2627": {
+    "type": "CanvasRenderer",
+    "path_id": 2627,
+    "gameobject_path_id": 886
+  },
+  "2628": {
+    "type": "CanvasRenderer",
+    "path_id": 2628,
+    "gameobject_path_id": 887
+  },
+  "2629": {
+    "type": "CanvasRenderer",
+    "path_id": 2629,
+    "gameobject_path_id": 888
+  },
+  "2630": {
+    "type": "CanvasRenderer",
+    "path_id": 2630,
+    "gameobject_path_id": 889
+  },
+  "2631": {
+    "type": "CanvasRenderer",
+    "path_id": 2631,
+    "gameobject_path_id": 890
+  },
+  "2632": {
+    "type": "CanvasRenderer",
+    "path_id": 2632,
+    "gameobject_path_id": 892
+  },
+  "2633": {
+    "type": "CanvasRenderer",
+    "path_id": 2633,
+    "gameobject_path_id": 894
+  },
+  "2634": {
+    "type": "CanvasRenderer",
+    "path_id": 2634,
+    "gameobject_path_id": 895
+  },
+  "2635": {
+    "type": "CanvasRenderer",
+    "path_id": 2635,
+    "gameobject_path_id": 896
+  },
+  "2636": {
+    "type": "CanvasRenderer",
+    "path_id": 2636,
+    "gameobject_path_id": 897
+  },
+  "2637": {
+    "type": "CanvasRenderer",
+    "path_id": 2637,
+    "gameobject_path_id": 898
+  },
+  "2638": {
+    "type": "CanvasRenderer",
+    "path_id": 2638,
+    "gameobject_path_id": 899
+  },
+  "2639": {
+    "type": "CanvasRenderer",
+    "path_id": 2639,
+    "gameobject_path_id": 904
+  },
+  "2640": {
+    "type": "CanvasRenderer",
+    "path_id": 2640,
+    "gameobject_path_id": 905
+  },
+  "2641": {
+    "type": "CanvasRenderer",
+    "path_id": 2641,
+    "gameobject_path_id": 906
+  },
+  "2642": {
+    "type": "CanvasRenderer",
+    "path_id": 2642,
+    "gameobject_path_id": 907
+  },
+  "2643": {
+    "type": "CanvasRenderer",
+    "path_id": 2643,
+    "gameobject_path_id": 908
+  },
+  "2644": {
+    "type": "CanvasRenderer",
+    "path_id": 2644,
+    "gameobject_path_id": 909
+  },
+  "2645": {
+    "type": "CanvasRenderer",
+    "path_id": 2645,
+    "gameobject_path_id": 910
+  },
+  "2646": {
+    "type": "CanvasRenderer",
+    "path_id": 2646,
+    "gameobject_path_id": 911
+  },
+  "2647": {
+    "type": "CanvasRenderer",
+    "path_id": 2647,
+    "gameobject_path_id": 913
+  },
+  "2648": {
+    "type": "CanvasRenderer",
+    "path_id": 2648,
+    "gameobject_path_id": 915
+  },
+  "2649": {
+    "type": "CanvasRenderer",
+    "path_id": 2649,
+    "gameobject_path_id": 918
+  },
+  "2650": {
+    "type": "CanvasRenderer",
+    "path_id": 2650,
+    "gameobject_path_id": 919
+  },
+  "2651": {
+    "type": "CanvasRenderer",
+    "path_id": 2651,
+    "gameobject_path_id": 922
+  },
+  "2652": {
+    "type": "CanvasRenderer",
+    "path_id": 2652,
+    "gameobject_path_id": 923
+  },
+  "2827": {
+    "type": "Canvas",
+    "path_id": 2827,
+    "gameobject_path_id": 923
+  },
+  "2653": {
+    "type": "CanvasRenderer",
+    "path_id": 2653,
+    "gameobject_path_id": 925
+  },
+  "2654": {
+    "type": "CanvasRenderer",
+    "path_id": 2654,
+    "gameobject_path_id": 928
+  },
+  "2655": {
+    "type": "CanvasRenderer",
+    "path_id": 2655,
+    "gameobject_path_id": 930
+  },
+  "2656": {
+    "type": "CanvasRenderer",
+    "path_id": 2656,
+    "gameobject_path_id": 931
+  },
+  "2657": {
+    "type": "CanvasRenderer",
+    "path_id": 2657,
+    "gameobject_path_id": 933
+  },
+  "2658": {
+    "type": "CanvasRenderer",
+    "path_id": 2658,
+    "gameobject_path_id": 934
+  },
+  "2659": {
+    "type": "CanvasRenderer",
+    "path_id": 2659,
+    "gameobject_path_id": 936
+  },
+  "2660": {
+    "type": "CanvasRenderer",
+    "path_id": 2660,
+    "gameobject_path_id": 940
+  },
+  "2661": {
+    "type": "CanvasRenderer",
+    "path_id": 2661,
+    "gameobject_path_id": 948
+  },
+  "2662": {
+    "type": "CanvasRenderer",
+    "path_id": 2662,
+    "gameobject_path_id": 949
+  },
+  "2663": {
+    "type": "CanvasRenderer",
+    "path_id": 2663,
+    "gameobject_path_id": 953
+  },
+  "2664": {
+    "type": "CanvasRenderer",
+    "path_id": 2664,
+    "gameobject_path_id": 954
+  },
+  "2665": {
+    "type": "CanvasRenderer",
+    "path_id": 2665,
+    "gameobject_path_id": 957
+  },
+  "2666": {
+    "type": "CanvasRenderer",
+    "path_id": 2666,
+    "gameobject_path_id": 958
+  },
+  "2667": {
+    "type": "CanvasRenderer",
+    "path_id": 2667,
+    "gameobject_path_id": 959
+  },
+  "2668": {
+    "type": "CanvasRenderer",
+    "path_id": 2668,
+    "gameobject_path_id": 960
+  },
+  "2669": {
+    "type": "CanvasRenderer",
+    "path_id": 2669,
+    "gameobject_path_id": 961
+  },
+  "2670": {
+    "type": "CanvasRenderer",
+    "path_id": 2670,
+    "gameobject_path_id": 963
+  },
+  "2828": {
+    "type": "Canvas",
+    "path_id": 2828,
+    "gameobject_path_id": 963
+  },
+  "2671": {
+    "type": "CanvasRenderer",
+    "path_id": 2671,
+    "gameobject_path_id": 968
+  },
+  "2672": {
+    "type": "CanvasRenderer",
+    "path_id": 2672,
+    "gameobject_path_id": 970
+  },
+  "2673": {
+    "type": "CanvasRenderer",
+    "path_id": 2673,
+    "gameobject_path_id": 973
+  },
+  "2674": {
+    "type": "CanvasRenderer",
+    "path_id": 2674,
+    "gameobject_path_id": 974
+  },
+  "2675": {
+    "type": "CanvasRenderer",
+    "path_id": 2675,
+    "gameobject_path_id": 976
+  },
+  "2676": {
+    "type": "CanvasRenderer",
+    "path_id": 2676,
+    "gameobject_path_id": 977
+  },
+  "2677": {
+    "type": "CanvasRenderer",
+    "path_id": 2677,
+    "gameobject_path_id": 978
+  },
+  "2678": {
+    "type": "CanvasRenderer",
+    "path_id": 2678,
+    "gameobject_path_id": 980
+  },
+  "2679": {
+    "type": "CanvasRenderer",
+    "path_id": 2679,
+    "gameobject_path_id": 981
+  },
+  "2680": {
+    "type": "CanvasRenderer",
+    "path_id": 2680,
+    "gameobject_path_id": 982
+  },
+  "2681": {
+    "type": "CanvasRenderer",
+    "path_id": 2681,
+    "gameobject_path_id": 983
+  },
+  "2682": {
+    "type": "CanvasRenderer",
+    "path_id": 2682,
+    "gameobject_path_id": 984
+  },
+  "2683": {
+    "type": "CanvasRenderer",
+    "path_id": 2683,
+    "gameobject_path_id": 987
+  },
+  "2684": {
+    "type": "CanvasRenderer",
+    "path_id": 2684,
+    "gameobject_path_id": 989
+  },
+  "2685": {
+    "type": "CanvasRenderer",
+    "path_id": 2685,
+    "gameobject_path_id": 990
+  },
+  "2686": {
+    "type": "CanvasRenderer",
+    "path_id": 2686,
+    "gameobject_path_id": 991
+  },
+  "2687": {
+    "type": "CanvasRenderer",
+    "path_id": 2687,
+    "gameobject_path_id": 993
+  },
+  "2688": {
+    "type": "CanvasRenderer",
+    "path_id": 2688,
+    "gameobject_path_id": 994
+  },
+  "2689": {
+    "type": "CanvasRenderer",
+    "path_id": 2689,
+    "gameobject_path_id": 997
+  },
+  "2690": {
+    "type": "CanvasRenderer",
+    "path_id": 2690,
+    "gameobject_path_id": 999
+  },
+  "2691": {
+    "type": "CanvasRenderer",
+    "path_id": 2691,
+    "gameobject_path_id": 1002
+  },
+  "2692": {
+    "type": "CanvasRenderer",
+    "path_id": 2692,
+    "gameobject_path_id": 1006
+  },
+  "2693": {
+    "type": "CanvasRenderer",
+    "path_id": 2693,
+    "gameobject_path_id": 1007
+  },
+  "2694": {
+    "type": "CanvasRenderer",
+    "path_id": 2694,
+    "gameobject_path_id": 1008
+  },
+  "2695": {
+    "type": "CanvasRenderer",
+    "path_id": 2695,
+    "gameobject_path_id": 1010
+  },
+  "2696": {
+    "type": "CanvasRenderer",
+    "path_id": 2696,
+    "gameobject_path_id": 1011
+  },
+  "2697": {
+    "type": "CanvasRenderer",
+    "path_id": 2697,
+    "gameobject_path_id": 1012
+  },
+  "2698": {
+    "type": "CanvasRenderer",
+    "path_id": 2698,
+    "gameobject_path_id": 1013
+  },
+  "2699": {
+    "type": "CanvasRenderer",
+    "path_id": 2699,
+    "gameobject_path_id": 1014
+  },
+  "2700": {
+    "type": "CanvasRenderer",
+    "path_id": 2700,
+    "gameobject_path_id": 1015
+  },
+  "2701": {
+    "type": "CanvasRenderer",
+    "path_id": 2701,
+    "gameobject_path_id": 1016
+  },
+  "2702": {
+    "type": "CanvasRenderer",
+    "path_id": 2702,
+    "gameobject_path_id": 1019
+  },
+  "2703": {
+    "type": "CanvasRenderer",
+    "path_id": 2703,
+    "gameobject_path_id": 1020
+  },
+  "2704": {
+    "type": "CanvasRenderer",
+    "path_id": 2704,
+    "gameobject_path_id": 1024
+  },
+  "2705": {
+    "type": "CanvasRenderer",
+    "path_id": 2705,
+    "gameobject_path_id": 1025
+  },
+  "2706": {
+    "type": "CanvasRenderer",
+    "path_id": 2706,
+    "gameobject_path_id": 1026
+  },
+  "2707": {
+    "type": "CanvasRenderer",
+    "path_id": 2707,
+    "gameobject_path_id": 1028
+  },
+  "2708": {
+    "type": "CanvasRenderer",
+    "path_id": 2708,
+    "gameobject_path_id": 1030
+  },
+  "2709": {
+    "type": "CanvasRenderer",
+    "path_id": 2709,
+    "gameobject_path_id": 1032
+  },
+  "2710": {
+    "type": "CanvasRenderer",
+    "path_id": 2710,
+    "gameobject_path_id": 1035
+  },
+  "2711": {
+    "type": "CanvasRenderer",
+    "path_id": 2711,
+    "gameobject_path_id": 1038
+  },
+  "2712": {
+    "type": "CanvasRenderer",
+    "path_id": 2712,
+    "gameobject_path_id": 1039
+  },
+  "2713": {
+    "type": "CanvasRenderer",
+    "path_id": 2713,
+    "gameobject_path_id": 1040
+  },
+  "2714": {
+    "type": "CanvasRenderer",
+    "path_id": 2714,
+    "gameobject_path_id": 1041
+  },
+  "2715": {
+    "type": "CanvasRenderer",
+    "path_id": 2715,
+    "gameobject_path_id": 1042
+  },
+  "2716": {
+    "type": "CanvasRenderer",
+    "path_id": 2716,
+    "gameobject_path_id": 1043
+  },
+  "2717": {
+    "type": "CanvasRenderer",
+    "path_id": 2717,
+    "gameobject_path_id": 1044
+  },
+  "2718": {
+    "type": "CanvasRenderer",
+    "path_id": 2718,
+    "gameobject_path_id": 1045
+  },
+  "2719": {
+    "type": "CanvasRenderer",
+    "path_id": 2719,
+    "gameobject_path_id": 1046
+  },
+  "2720": {
+    "type": "CanvasRenderer",
+    "path_id": 2720,
+    "gameobject_path_id": 1050
+  },
+  "2721": {
+    "type": "CanvasRenderer",
+    "path_id": 2721,
+    "gameobject_path_id": 1052
+  },
+  "2722": {
+    "type": "CanvasRenderer",
+    "path_id": 2722,
+    "gameobject_path_id": 1056
+  },
+  "2723": {
+    "type": "CanvasRenderer",
+    "path_id": 2723,
+    "gameobject_path_id": 1060
+  },
+  "2724": {
+    "type": "CanvasRenderer",
+    "path_id": 2724,
+    "gameobject_path_id": 1061
+  },
+  "2725": {
+    "type": "CanvasRenderer",
+    "path_id": 2725,
+    "gameobject_path_id": 1063
+  },
+  "4706": {
+    "type": "MonoBehaviour",
+    "path_id": 4706,
+    "script_path_id": 332
+  },
+  "2726": {
+    "type": "CanvasRenderer",
+    "path_id": 2726,
+    "gameobject_path_id": 1064
+  },
+  "2727": {
+    "type": "CanvasRenderer",
+    "path_id": 2727,
+    "gameobject_path_id": 1065
+  },
+  "2728": {
+    "type": "CanvasRenderer",
+    "path_id": 2728,
+    "gameobject_path_id": 1066
+  },
+  "2729": {
+    "type": "CanvasRenderer",
+    "path_id": 2729,
+    "gameobject_path_id": 1070
+  },
+  "2730": {
+    "type": "CanvasRenderer",
+    "path_id": 2730,
+    "gameobject_path_id": 1074
+  },
+  "2731": {
+    "type": "CanvasRenderer",
+    "path_id": 2731,
+    "gameobject_path_id": 1075
+  },
+  "2732": {
+    "type": "CanvasRenderer",
+    "path_id": 2732,
+    "gameobject_path_id": 1077
+  },
+  "2733": {
+    "type": "CanvasRenderer",
+    "path_id": 2733,
+    "gameobject_path_id": 1078
+  },
+  "2734": {
+    "type": "CanvasRenderer",
+    "path_id": 2734,
+    "gameobject_path_id": 1083
+  },
+  "2735": {
+    "type": "CanvasRenderer",
+    "path_id": 2735,
+    "gameobject_path_id": 1087
+  },
+  "2736": {
+    "type": "CanvasRenderer",
+    "path_id": 2736,
+    "gameobject_path_id": 1089
+  },
+  "2737": {
+    "type": "CanvasRenderer",
+    "path_id": 2737,
+    "gameobject_path_id": 1090
+  },
+  "2738": {
+    "type": "CanvasRenderer",
+    "path_id": 2738,
+    "gameobject_path_id": 1092
+  },
+  "2739": {
+    "type": "CanvasRenderer",
+    "path_id": 2739,
+    "gameobject_path_id": 1093
+  },
+  "2740": {
+    "type": "CanvasRenderer",
+    "path_id": 2740,
+    "gameobject_path_id": 1094
+  },
+  "2741": {
+    "type": "CanvasRenderer",
+    "path_id": 2741,
+    "gameobject_path_id": 1095
+  },
+  "2742": {
+    "type": "CanvasRenderer",
+    "path_id": 2742,
+    "gameobject_path_id": 1098
+  },
+  "2743": {
+    "type": "CanvasRenderer",
+    "path_id": 2743,
+    "gameobject_path_id": 1102
+  },
+  "2744": {
+    "type": "CanvasRenderer",
+    "path_id": 2744,
+    "gameobject_path_id": 1103
+  },
+  "2745": {
+    "type": "CanvasRenderer",
+    "path_id": 2745,
+    "gameobject_path_id": 1104
+  },
+  "2746": {
+    "type": "CanvasRenderer",
+    "path_id": 2746,
+    "gameobject_path_id": 1105
+  },
+  "2747": {
+    "type": "CanvasRenderer",
+    "path_id": 2747,
+    "gameobject_path_id": 1107
+  },
+  "2748": {
+    "type": "CanvasRenderer",
+    "path_id": 2748,
+    "gameobject_path_id": 1111
+  },
+  "2749": {
+    "type": "CanvasRenderer",
+    "path_id": 2749,
+    "gameobject_path_id": 1112
+  },
+  "2750": {
+    "type": "CanvasRenderer",
+    "path_id": 2750,
+    "gameobject_path_id": 1113
+  },
+  "2751": {
+    "type": "CanvasRenderer",
+    "path_id": 2751,
+    "gameobject_path_id": 1114
+  },
+  "2752": {
+    "type": "CanvasRenderer",
+    "path_id": 2752,
+    "gameobject_path_id": 1116
+  },
+  "2753": {
+    "type": "CanvasRenderer",
+    "path_id": 2753,
+    "gameobject_path_id": 1118
+  },
+  "2754": {
+    "type": "CanvasRenderer",
+    "path_id": 2754,
+    "gameobject_path_id": 1121
+  },
+  "2755": {
+    "type": "CanvasRenderer",
+    "path_id": 2755,
+    "gameobject_path_id": 1125
+  },
+  "2756": {
+    "type": "CanvasRenderer",
+    "path_id": 2756,
+    "gameobject_path_id": 1126
+  },
+  "2757": {
+    "type": "CanvasRenderer",
+    "path_id": 2757,
+    "gameobject_path_id": 1131
+  },
+  "2758": {
+    "type": "CanvasRenderer",
+    "path_id": 2758,
+    "gameobject_path_id": 1132
+  },
+  "2759": {
+    "type": "CanvasRenderer",
+    "path_id": 2759,
+    "gameobject_path_id": 1133
+  },
+  "2760": {
+    "type": "CanvasRenderer",
+    "path_id": 2760,
+    "gameobject_path_id": 1135
+  },
+  "2761": {
+    "type": "CanvasRenderer",
+    "path_id": 2761,
+    "gameobject_path_id": 1137
+  },
+  "2762": {
+    "type": "CanvasRenderer",
+    "path_id": 2762,
+    "gameobject_path_id": 1138
+  },
+  "2763": {
+    "type": "CanvasRenderer",
+    "path_id": 2763,
+    "gameobject_path_id": 1139
+  },
+  "2764": {
+    "type": "CanvasRenderer",
+    "path_id": 2764,
+    "gameobject_path_id": 1141
+  },
+  "2765": {
+    "type": "CanvasRenderer",
+    "path_id": 2765,
+    "gameobject_path_id": 1142
+  },
+  "2766": {
+    "type": "CanvasRenderer",
+    "path_id": 2766,
+    "gameobject_path_id": 1143
+  },
+  "2767": {
+    "type": "CanvasRenderer",
+    "path_id": 2767,
+    "gameobject_path_id": 1144
+  },
+  "2768": {
+    "type": "CanvasRenderer",
+    "path_id": 2768,
+    "gameobject_path_id": 1147
+  },
+  "2769": {
+    "type": "CanvasRenderer",
+    "path_id": 2769,
+    "gameobject_path_id": 1149
+  },
+  "2770": {
+    "type": "CanvasRenderer",
+    "path_id": 2770,
+    "gameobject_path_id": 1150
+  },
+  "2771": {
+    "type": "CanvasRenderer",
+    "path_id": 2771,
+    "gameobject_path_id": 1151
+  },
+  "2772": {
+    "type": "CanvasRenderer",
+    "path_id": 2772,
+    "gameobject_path_id": 1152
+  },
+  "2773": {
+    "type": "CanvasRenderer",
+    "path_id": 2773,
+    "gameobject_path_id": 1154
+  },
+  "2774": {
+    "type": "CanvasRenderer",
+    "path_id": 2774,
+    "gameobject_path_id": 1157
+  },
+  "2775": {
+    "type": "CanvasRenderer",
+    "path_id": 2775,
+    "gameobject_path_id": 1158
+  },
+  "2776": {
+    "type": "CanvasRenderer",
+    "path_id": 2776,
+    "gameobject_path_id": 1160
+  },
+  "2777": {
+    "type": "CanvasRenderer",
+    "path_id": 2777,
+    "gameobject_path_id": 1161
+  },
+  "2778": {
+    "type": "CanvasRenderer",
+    "path_id": 2778,
+    "gameobject_path_id": 1162
+  },
+  "2779": {
+    "type": "CanvasRenderer",
+    "path_id": 2779,
+    "gameobject_path_id": 1163
+  },
+  "2780": {
+    "type": "CanvasRenderer",
+    "path_id": 2780,
+    "gameobject_path_id": 1164
+  },
+  "2781": {
+    "type": "CanvasRenderer",
+    "path_id": 2781,
+    "gameobject_path_id": 1165
+  },
+  "2782": {
+    "type": "CanvasRenderer",
+    "path_id": 2782,
+    "gameobject_path_id": 1166
+  },
+  "2783": {
+    "type": "CanvasRenderer",
+    "path_id": 2783,
+    "gameobject_path_id": 1167
+  },
+  "2784": {
+    "type": "CanvasRenderer",
+    "path_id": 2784,
+    "gameobject_path_id": 1169
+  },
+  "2785": {
+    "type": "CanvasRenderer",
+    "path_id": 2785,
+    "gameobject_path_id": 1170
+  },
+  "2786": {
+    "type": "CanvasRenderer",
+    "path_id": 2786,
+    "gameobject_path_id": 1171
+  },
+  "2787": {
+    "type": "CanvasRenderer",
+    "path_id": 2787,
+    "gameobject_path_id": 1172
+  },
+  "2788": {
+    "type": "CanvasRenderer",
+    "path_id": 2788,
+    "gameobject_path_id": 1173
+  },
+  "2789": {
+    "type": "CanvasRenderer",
+    "path_id": 2789,
+    "gameobject_path_id": 1174
+  },
+  "2790": {
+    "type": "CanvasRenderer",
+    "path_id": 2790,
+    "gameobject_path_id": 1175
+  },
+  "2791": {
+    "type": "CanvasRenderer",
+    "path_id": 2791,
+    "gameobject_path_id": 1176
+  },
+  "2792": {
+    "type": "CanvasRenderer",
+    "path_id": 2792,
+    "gameobject_path_id": 1180
+  },
+  "2793": {
+    "type": "CanvasRenderer",
+    "path_id": 2793,
+    "gameobject_path_id": 1182
+  },
+  "2794": {
+    "type": "CanvasRenderer",
+    "path_id": 2794,
+    "gameobject_path_id": 1184
+  },
+  "2795": {
+    "type": "CanvasRenderer",
+    "path_id": 2795,
+    "gameobject_path_id": 1185
+  },
+  "2796": {
+    "type": "CanvasRenderer",
+    "path_id": 2796,
+    "gameobject_path_id": 1186
+  },
+  "2797": {
+    "type": "CanvasRenderer",
+    "path_id": 2797,
+    "gameobject_path_id": 1188
+  },
+  "2798": {
+    "type": "CanvasRenderer",
+    "path_id": 2798,
+    "gameobject_path_id": 1189
+  },
+  "2799": {
+    "type": "CanvasRenderer",
+    "path_id": 2799,
+    "gameobject_path_id": 1190
+  },
+  "2800": {
+    "type": "CanvasRenderer",
+    "path_id": 2800,
+    "gameobject_path_id": 1191
+  },
+  "2801": {
+    "type": "CanvasRenderer",
+    "path_id": 2801,
+    "gameobject_path_id": 1192
+  },
+  "2802": {
+    "type": "CanvasRenderer",
+    "path_id": 2802,
+    "gameobject_path_id": 1195
+  },
+  "2803": {
+    "type": "CanvasRenderer",
+    "path_id": 2803,
+    "gameobject_path_id": 1196
+  },
+  "2804": {
+    "type": "CanvasRenderer",
+    "path_id": 2804,
+    "gameobject_path_id": 1197
+  },
+  "2805": {
+    "type": "CanvasRenderer",
+    "path_id": 2805,
+    "gameobject_path_id": 1198
+  },
+  "2806": {
+    "type": "CanvasRenderer",
+    "path_id": 2806,
+    "gameobject_path_id": 1200
+  },
+  "2807": {
+    "type": "CanvasRenderer",
+    "path_id": 2807,
+    "gameobject_path_id": 1204
+  },
+  "2808": {
+    "type": "CanvasRenderer",
+    "path_id": 2808,
+    "gameobject_path_id": 1205
+  },
+  "2809": {
+    "type": "CanvasRenderer",
+    "path_id": 2809,
+    "gameobject_path_id": 1206
+  },
+  "2810": {
+    "type": "CanvasRenderer",
+    "path_id": 2810,
+    "gameobject_path_id": 1207
+  },
+  "2811": {
+    "type": "CanvasRenderer",
+    "path_id": 2811,
+    "gameobject_path_id": 1210
+  },
+  "2812": {
+    "type": "CanvasRenderer",
+    "path_id": 2812,
+    "gameobject_path_id": 1211
+  },
+  "2813": {
+    "type": "CanvasRenderer",
+    "path_id": 2813,
+    "gameobject_path_id": 1214
+  },
+  "2814": {
+    "type": "CanvasRenderer",
+    "path_id": 2814,
+    "gameobject_path_id": 1216
+  },
+  "2815": {
+    "type": "CanvasRenderer",
+    "path_id": 2815,
+    "gameobject_path_id": 1219
+  },
+  "2816": {
+    "type": "CanvasRenderer",
+    "path_id": 2816,
+    "gameobject_path_id": 1221
+  },
+  "2817": {
+    "type": "CanvasRenderer",
+    "path_id": 2817,
+    "gameobject_path_id": 1225
+  },
+  "2818": {
+    "type": "CanvasRenderer",
+    "path_id": 2818,
+    "gameobject_path_id": 1226
+  },
+  "2823": {
+    "type": "Canvas",
+    "path_id": 2823,
+    "gameobject_path_id": 825
+  },
+  "2825": {
+    "type": "Canvas",
+    "path_id": 2825,
+    "gameobject_path_id": 842
+  },
+  "2826": {
+    "type": "Canvas",
+    "path_id": 2826,
+    "gameobject_path_id": 916
+  },
+  "3741": {
+    "type": "MonoBehaviour",
+    "path_id": 3741,
+    "script_path_id": 269
+  },
+  "3822": {
+    "type": "MonoBehaviour",
+    "path_id": 3822,
+    "script_path_id": 269
+  },
+  "4131": {
+    "type": "MonoBehaviour",
+    "path_id": 4131,
+    "script_path_id": 269
+  },
+  "4192": {
+    "type": "MonoBehaviour",
+    "path_id": 4192,
+    "script_path_id": 269
+  },
+  "4351": {
+    "type": "MonoBehaviour",
+    "path_id": 4351,
+    "script_path_id": 269
+  },
+  "4396": {
+    "type": "MonoBehaviour",
+    "path_id": 4396,
+    "script_path_id": 269
+  },
+  "4579": {
+    "type": "MonoBehaviour",
+    "path_id": 4579,
+    "script_path_id": 368
+  },
+  "4595": {
+    "type": "MonoBehaviour",
+    "path_id": 4595,
+    "script_path_id": 315
+  },
+  "4598": {
+    "type": "MonoBehaviour",
+    "path_id": 4598,
+    "script_path_id": 269
+  },
+  "4617": {
+    "type": "MonoBehaviour",
+    "path_id": 4617,
+    "script_path_id": 269
+  },
+  "4839": {
+    "type": "MonoBehaviour",
+    "path_id": 4839,
+    "script_path_id": 269
+  },
+  "4850": {
+    "type": "MonoBehaviour",
+    "path_id": 4850,
+    "script_path_id": 269
+  },
+  "4854": {
+    "type": "MonoBehaviour",
+    "path_id": 4854,
+    "script_path_id": 44
+  }
+}

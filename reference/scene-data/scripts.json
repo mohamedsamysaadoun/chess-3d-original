@@ -1,0 +1,3776 @@
+{
+  "4": {
+    "name": "MobileAdsEventExecutor",
+    "namespace": "GoogleMobileAds.Common",
+    "class_name": "MobileAdsEventExecutor",
+    "assembly_name": "GoogleMobileAds.Common.dll"
+  },
+  "5": {
+    "name": "AppStateEventClient",
+    "namespace": "GoogleMobileAds.Common",
+    "class_name": "AppStateEventClient",
+    "assembly_name": "GoogleMobileAds.Common.dll"
+  },
+  "6": {
+    "name": "AnalyticsEventTracker",
+    "namespace": "UnityEngine.Analytics",
+    "class_name": "AnalyticsEventTracker",
+    "assembly_name": "Unity.Analytics.Tracker.dll"
+  },
+  "7": {
+    "name": "DictionaryExtensions",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "DictionaryExtensions",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "8": {
+    "name": "LayoutRebuilder",
+    "namespace": "UnityEngine.UI",
+    "class_name": "LayoutRebuilder",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "9": {
+    "name": "IAPScript",
+    "namespace": "",
+    "class_name": "IAPScript",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "10": {
+    "name": "ProductMetadata",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ProductMetadata",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "11": {
+    "name": "PositionAsUV1",
+    "namespace": "UnityEngine.UI",
+    "class_name": "PositionAsUV1",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "12": {
+    "name": "IHttpClient",
+    "namespace": "Unity.Services.Core.Networking.Internal",
+    "class_name": "IHttpClient",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "13": {
+    "name": "RemoteTestResultData",
+    "namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "class_name": "RemoteTestResultData",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "14": {
+    "name": "UIFakeStoreWindow",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "UIFakeStoreWindow",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "15": {
+    "name": "PostEffectsBase",
+    "namespace": "",
+    "class_name": "PostEffectsBase",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "16": {
+    "name": "GooglePurchaseStateEnumProvider",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "class_name": "GooglePurchaseStateEnumProvider",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "17": {
+    "name": "ScheduledInvocation",
+    "namespace": "Unity.Services.Core.Scheduler.Internal",
+    "class_name": "ScheduledInvocation",
+    "assembly_name": "Unity.Services.Core.Scheduler"
+  },
+  "18": {
+    "name": "AdImpressionEvent",
+    "namespace": "Unity.Services.Analytics",
+    "class_name": "AdImpressionEvent",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "19": {
+    "name": "UnifiedReceipt",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "UnifiedReceipt",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "20": {
+    "name": "HttpServiceConfig",
+    "namespace": "Unity.Services.Core.Networking",
+    "class_name": "HttpServiceConfig",
+    "assembly_name": "Unity.Services.Core.Networking"
+  },
+  "21": {
+    "name": "ProductDescription",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "class_name": "ProductDescription",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "22": {
+    "name": "UIBehaviour",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "UIBehaviour",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "23": {
+    "name": "GooglePlayStore",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GooglePlayStore",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "24": {
+    "name": "RequestFailedException",
+    "namespace": "Unity.Services.Core",
+    "class_name": "RequestFailedException",
+    "assembly_name": "Unity.Services.Core"
+  },
+  "25": {
+    "name": "Config",
+    "namespace": "",
+    "class_name": "Config",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "26": {
+    "name": "LogEvent",
+    "namespace": "UnityEngine.TestTools.Logging",
+    "class_name": "LogEvent",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "27": {
+    "name": "CanvasScaler",
+    "namespace": "UnityEngine.UI",
+    "class_name": "CanvasScaler",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "28": {
+    "name": "Dropdown",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Dropdown",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "29": {
+    "name": "MinimumBinaryHeap",
+    "namespace": "Unity.Services.Core.Scheduler.Internal",
+    "class_name": "MinimumBinaryHeap",
+    "assembly_name": "Unity.Services.Core.Scheduler"
+  },
+  "30": {
+    "name": "OuterUnityTestActionCommand",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "OuterUnityTestActionCommand",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "31": {
+    "name": "TelemetryDiagnosticParams",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "TelemetryDiagnosticParams",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "32": {
+    "name": "VisibilityAttribute",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "VisibilityAttribute",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "33": {
+    "name": "FakeTransactionHistoryExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "FakeTransactionHistoryExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "34": {
+    "name": "INativeStore",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "INativeStore",
+    "assembly_name": "Purchasing.Common"
+  },
+  "35": {
+    "name": "PlaymodeTestsController",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "class_name": "PlaymodeTestsController",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "36": {
+    "name": "CompositeWorkItem",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "class_name": "CompositeWorkItem",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "37": {
+    "name": "IAssemblyLoadProxy",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "IAssemblyLoadProxy",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "38": {
+    "name": "RawImage",
+    "namespace": "UnityEngine.UI",
+    "class_name": "RawImage",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "39": {
+    "name": "AndroidJavaStore",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "AndroidJavaStore",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "40": {
+    "name": "IStoreExtension",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IStoreExtension",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "41": {
+    "name": "FontData",
+    "namespace": "UnityEngine.UI",
+    "class_name": "FontData",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "42": {
+    "name": "Dispatcher",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "class_name": "Dispatcher",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "43": {
+    "name": "BaseInput",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "BaseInput",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "44": {
+    "name": "NewGamePromo",
+    "namespace": "",
+    "class_name": "NewGamePromo",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "45": {
+    "name": "ScheduledInvocationComparer",
+    "namespace": "Unity.Services.Core.Scheduler.Internal",
+    "class_name": "ScheduledInvocationComparer",
+    "assembly_name": "Unity.Services.Core.Scheduler"
+  },
+  "46": {
+    "name": "IBillingClientStateListener",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IBillingClientStateListener",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "47": {
+    "name": "SerializableProjectConfiguration",
+    "namespace": "Unity.Services.Core.Configuration",
+    "class_name": "SerializableProjectConfiguration",
+    "assembly_name": "Unity.Services.Core.Configuration"
+  },
+  "48": {
+    "name": "TelemetryMetricDefinition",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "TelemetryMetricDefinition",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "49": {
+    "name": "JSONSerializer",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "JSONSerializer",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "50": {
+    "name": "FakeUDPExtension",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "FakeUDPExtension",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "51": {
+    "name": "IInternalStoreListener",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IInternalStoreListener",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "52": {
+    "name": "TelemetryMetricParams",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "TelemetryMetricParams",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "53": {
+    "name": "AsyncOperation",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "AsyncOperation",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "54": {
+    "name": "EnumerableTestMethodCommand",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "EnumerableTestMethodCommand",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "55": {
+    "name": "ScrollRect",
+    "namespace": "UnityEngine.UI",
+    "class_name": "ScrollRect",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "56": {
+    "name": "NewtonsoftSerializer",
+    "namespace": "Unity.Services.Core.Internal.Serialization",
+    "class_name": "NewtonsoftSerializer",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "57": {
+    "name": "ExponentialRetryPolicy",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ExponentialRetryPolicy",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "58": {
+    "name": "IAssemblyWrapper",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "IAssemblyWrapper",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "59": {
+    "name": "IPlayerId",
+    "namespace": "Unity.Services.Authentication.Internal",
+    "class_name": "IPlayerId",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "60": {
+    "name": "ServiceRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "ServiceRegistry",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "61": {
+    "name": "GoogleBillingStrings",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "class_name": "GoogleBillingStrings",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "62": {
+    "name": "BaseInputModule",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "BaseInputModule",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "63": {
+    "name": "AnalyticsContainer",
+    "namespace": "Unity.Services.Analytics",
+    "class_name": "AnalyticsContainer",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "64": {
+    "name": "FakeMicrosoftExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "FakeMicrosoftExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "65": {
+    "name": "IStoreInternal",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IStoreInternal",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "66": {
+    "name": "RemoteTestResultSender",
+    "namespace": "UnityEngine.TestTools.TestRunner.Callbacks",
+    "class_name": "RemoteTestResultSender",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "67": {
+    "name": "IMaterialModifier",
+    "namespace": "UnityEngine.UI",
+    "class_name": "IMaterialModifier",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "68": {
+    "name": "FakeGooglePlayStoreExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "FakeGooglePlayStoreExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "69": {
+    "name": "StoreConfiguration",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "StoreConfiguration",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "70": {
+    "name": "IVivoxTokenProviderInternal",
+    "namespace": "Unity.Services.Vivox.Internal",
+    "class_name": "IVivoxTokenProviderInternal",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "71": {
+    "name": "IUnityServicesInitializationChecker",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IUnityServicesInitializationChecker",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "72": {
+    "name": "EventInterfaces",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "IEventSystemHandler",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "73": {
+    "name": "IGooglePlayConfigurationInternal",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IGooglePlayConfigurationInternal",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "74": {
+    "name": "GoogleFinishTransactionService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GoogleFinishTransactionService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "75": {
+    "name": "IAnalyticsClient",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IAnalyticsClient",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "76": {
+    "name": "ProjectConfiguration",
+    "namespace": "Unity.Services.Core.Configuration",
+    "class_name": "ProjectConfiguration",
+    "assembly_name": "Unity.Services.Core.Configuration"
+  },
+  "77": {
+    "name": "ConfigurationUtils",
+    "namespace": "Unity.Services.Core.Configuration",
+    "class_name": "ConfigurationUtils",
+    "assembly_name": "Unity.Services.Core.Configuration"
+  },
+  "78": {
+    "name": "ComponentRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "ComponentRegistry",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "79": {
+    "name": "CoroutineRunner",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "CoroutineRunner",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "80": {
+    "name": "CoreRegistryInitializer",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "CoreRegistryInitializer",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "81": {
+    "name": "SpriteState",
+    "namespace": "UnityEngine.UI",
+    "class_name": "SpriteState",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "82": {
+    "name": "RaycasterManager",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "RaycasterManager",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "83": {
+    "name": "RestoreTestContextAfterDomainReload",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "class_name": "RestoreTestContextAfterDomainReload",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "84": {
+    "name": "CoreMetrics",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "CoreMetrics",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "85": {
+    "name": "PlaymodeTestsControllerSettings",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "class_name": "PlaymodeTestsControllerSettings",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "86": {
+    "name": "DependencyTreeExceptions",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "DependencyTreeSortFailedException",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "87": {
+    "name": "Locale",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "class_name": "Locale",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "88": {
+    "name": "KhaataKhol",
+    "namespace": "EivaaChess.Game",
+    "class_name": "KhaataKhol",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "89": {
+    "name": "IServerAccessToken",
+    "namespace": "Unity.Services.Authentication.Server.Internal",
+    "class_name": "IServerAccessToken",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "90": {
+    "name": "IAccessToken",
+    "namespace": "Unity.Services.Authentication.Internal",
+    "class_name": "IAccessToken",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "91": {
+    "name": "AndroidUtils",
+    "namespace": "Unity.Services.Core.Device",
+    "class_name": "AndroidUtils",
+    "assembly_name": "Unity.Services.Core.Device"
+  },
+  "92": {
+    "name": "IUnityServices",
+    "namespace": "Unity.Services.Core",
+    "class_name": "IUnityServices",
+    "assembly_name": "Unity.Services.Core"
+  },
+  "93": {
+    "name": "Scrollbar",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Scrollbar",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "94": {
+    "name": "DisabledMetricsFactory",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "class_name": "DisabledMetricsFactory",
+    "assembly_name": "Unity.Services.Core.Telemetry"
+  },
+  "95": {
+    "name": "StandardPurchasingModule",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "StandardPurchasingModule",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "96": {
+    "name": "SechDMG",
+    "namespace": "EivaaChess.Game",
+    "class_name": "SechDMG",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "97": {
+    "name": "IInstallationId",
+    "namespace": "Unity.Services.Core.Device.Internal",
+    "class_name": "IInstallationId",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "98": {
+    "name": "TouchInputModule",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "TouchInputModule",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "99": {
+    "name": "UnityAnalyticsIdentifier",
+    "namespace": "Unity.Services.Core.Device",
+    "class_name": "UnityAnalyticsIdentifier",
+    "assembly_name": "Unity.Services.Core.Device"
+  },
+  "100": {
+    "name": "TestActionCommand",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "TestActionCommand",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "101": {
+    "name": "Ua2CoreInitializeCallback",
+    "namespace": "",
+    "class_name": "Ua2CoreInitializeCallback",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "102": {
+    "name": "AssemblyWrapper",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "AssemblyWrapper",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "103": {
+    "name": "PlayerPrefsX",
+    "namespace": "",
+    "class_name": "PlayerPrefsX",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "104": {
+    "name": "MainScript",
+    "namespace": "",
+    "class_name": "MainScript",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "105": {
+    "name": "IAccessTokenObserver",
+    "namespace": "Unity.Services.Authentication.Internal",
+    "class_name": "IAccessTokenObserver",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "106": {
+    "name": "ToggleGroup",
+    "namespace": "UnityEngine.UI",
+    "class_name": "ToggleGroup",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "107": {
+    "name": "OutOfOrderExpectedLogMessageException",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "class_name": "OutOfOrderExpectedLogMessageException",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "108": {
+    "name": "ISkuDetailsQueryResponse",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IProductDetailsQueryResponse",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "109": {
+    "name": "DisabledDiagnostics",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "class_name": "DisabledDiagnostics",
+    "assembly_name": "Unity.Services.Core.Telemetry"
+  },
+  "110": {
+    "name": "HorizontalLayoutGroup",
+    "namespace": "UnityEngine.UI",
+    "class_name": "HorizontalLayoutGroup",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "111": {
+    "name": "LayoutElement",
+    "namespace": "UnityEngine.UI",
+    "class_name": "LayoutElement",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "112": {
+    "name": "WindowsStore",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "WindowsStore",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "113": {
+    "name": "DisabledDiagnosticsFactory",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "class_name": "DisabledDiagnosticsFactory",
+    "assembly_name": "Unity.Services.Core.Telemetry"
+  },
+  "114": {
+    "name": "GooglePurchaseService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GooglePurchaseService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "115": {
+    "name": "IGooglePurchase",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IGooglePurchase",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "116": {
+    "name": "Mask",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Mask",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "117": {
+    "name": "ScriptingStoreCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ScriptingStoreCallback",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "118": {
+    "name": "ContentSizeFitter",
+    "namespace": "UnityEngine.UI",
+    "class_name": "ContentSizeFitter",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "119": {
+    "name": "Event",
+    "namespace": "Unity.Services.Analytics",
+    "class_name": "Event",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "120": {
+    "name": "IConfigurationLoader",
+    "namespace": "Unity.Services.Core.Configuration",
+    "class_name": "IConfigurationLoader",
+    "assembly_name": "Unity.Services.Core.Configuration"
+  },
+  "121": {
+    "name": "IInitializablePackageV2",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "IInitializablePackageV2",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "122": {
+    "name": "Vector4EqualityComparer",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "Vector4EqualityComparer",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "123": {
+    "name": "NativeStoreProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "NativeStoreProvider",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "124": {
+    "name": "RectMask2D",
+    "namespace": "UnityEngine.UI",
+    "class_name": "RectMask2D",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "125": {
+    "name": "TestCommandPcHelper",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "TestCommandPcHelper",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "126": {
+    "name": "ILogScope",
+    "namespace": "UnityEngine.TestTools.Logging",
+    "class_name": "ILogScope",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "127": {
+    "name": "LockedServiceRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "LockedServiceRegistry",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "128": {
+    "name": "RaycastResult",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "RaycastResult",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "129": {
+    "name": "EnumerableTestState",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "EnumerableTestState",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "130": {
+    "name": "IGooglePurchaseStateEnumProvider",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IGooglePurchaseStateEnumProvider",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "131": {
+    "name": "FPS",
+    "namespace": "",
+    "class_name": "FPS",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "132": {
+    "name": "ILayoutElement",
+    "namespace": "UnityEngine.UI",
+    "class_name": "ILayoutElement",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "133": {
+    "name": "IAPButton",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IAPButton",
+    "assembly_name": "UnityEngine.Purchasing.Codeless"
+  },
+  "134": {
+    "name": "MetricizedGooglePlayStoreService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "MetricizedGooglePlayStoreService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "135": {
+    "name": "IClipRegion",
+    "namespace": "UnityEngine.UI",
+    "class_name": "IClipper",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "136": {
+    "name": "BaseDelegator",
+    "namespace": "UnityEngine.TestTools.NUnitExtensions",
+    "class_name": "BaseDelegator",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "137": {
+    "name": "TestMustExpectAllLogsAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "TestMustExpectAllLogsAttribute",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "138": {
+    "name": "GoogleCachedQuerySkuDetailsService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GoogleCachedQueryProductDetailsService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "139": {
+    "name": "ITestRunCallback",
+    "namespace": "UnityEngine.TestRunner",
+    "class_name": "ITestRunCallback",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "140": {
+    "name": "IStoreController",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IStoreController",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "141": {
+    "name": "ServicesBehaviour",
+    "namespace": "Unity.Services.Core.Components",
+    "class_name": "ServicesBehaviour",
+    "assembly_name": "Unity.Services.Core.Components"
+  },
+  "142": {
+    "name": "IQueryProductDetailsService",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IQueryProductDetailsService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "143": {
+    "name": "IActionScheduler",
+    "namespace": "Unity.Services.Core.Scheduler.Internal",
+    "class_name": "IActionScheduler",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "144": {
+    "name": "FontUpdateTracker",
+    "namespace": "UnityEngine.UI",
+    "class_name": "FontUpdateTracker",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "145": {
+    "name": "IGoogleQueryPurchasesService",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IGoogleQueryPurchasesService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "146": {
+    "name": "IStoreCallback",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "class_name": "IStoreCallback",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "147": {
+    "name": "DisabledMetrics",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "class_name": "DisabledMetrics",
+    "assembly_name": "Unity.Services.Core.Telemetry"
+  },
+  "148": {
+    "name": "QuaternionEqualityComparer",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "QuaternionEqualityComparer",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "149": {
+    "name": "EnumerableApplyChangesToContextCommand",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "EnumerableApplyChangesToContextCommand",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "150": {
+    "name": "IDiagnosticsComponentProvider",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "class_name": "IDiagnosticsComponentProvider",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "151": {
+    "name": "GooglePlayStoreExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GooglePlayStoreExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "152": {
+    "name": "IFakeExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IFakeExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "153": {
+    "name": "PurchaseFailedEventArgs",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "PurchaseFailedEventArgs",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "154": {
+    "name": "PromoteAnimScale",
+    "namespace": "",
+    "class_name": "PromoteAnimScale",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "155": {
+    "name": "PlayModeRunnerCallback",
+    "namespace": "UnityEngine.TestTools.TestRunner.Callbacks",
+    "class_name": "PlayModeRunnerCallback",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "156": {
+    "name": "GooglePlay",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GooglePlay",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "157": {
+    "name": "AppleProductMetadata",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "AppleProductMetadata",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "158": {
+    "name": "GooglePlayPurchaseCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GooglePlayPurchaseCallback",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "159": {
+    "name": "StreamingAssetsUtils",
+    "namespace": "Unity.Services.Core.Configuration",
+    "class_name": "StreamingAssetsUtils",
+    "assembly_name": "Unity.Services.Core.Configuration"
+  },
+  "160": {
+    "name": "GoogleReceipt",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GoogleReceipt",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "161": {
+    "name": "PlayerConnectionMessageIds",
+    "namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "class_name": "PlayerConnectionMessageIds",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "162": {
+    "name": "BaseRaycaster",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "BaseRaycaster",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "163": {
+    "name": "AnalyticsServiceInstance",
+    "namespace": "Unity.Services.Analytics",
+    "class_name": "AnalyticsServiceInstance",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "164": {
+    "name": "PlayerTestAssemblyProvider",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "PlayerTestAssemblyProvider",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "165": {
+    "name": "Vector4ComparerWithEqualsOperator",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "Vector4ComparerWithEqualsOperator",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "166": {
+    "name": "IUnityCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IUnityCallback",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "167": {
+    "name": "GraphicRebuildTracker",
+    "namespace": "UnityEngine.UI",
+    "class_name": "GraphicRebuildTracker",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "168": {
+    "name": "GooglePurchaseUpdatedListener",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GooglePurchaseUpdatedListener",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "169": {
+    "name": "UITabAnimate",
+    "namespace": "",
+    "class_name": "UITabAnimate",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "170": {
+    "name": "IExtensionProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IExtensionProvider",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "171": {
+    "name": "AppleReceipt",
+    "namespace": "UnityEngine.Purchasing.Security",
+    "class_name": "AppleReceipt",
+    "assembly_name": "UnityEngine.Purchasing.SecurityCore"
+  },
+  "172": {
+    "name": "QueryHelper",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "QueryHelper",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "173": {
+    "name": "RemoteTestResultDataWithTestData",
+    "namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "class_name": "RemoteTestResultDataWithTestData",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "174": {
+    "name": "UnityLogCheckDelegatingCommand",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "class_name": "UnityLogCheckDelegatingCommand",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "175": {
+    "name": "IUserIdentifierProvider",
+    "namespace": "Unity.Services.Core.Device",
+    "class_name": "IUserIdentifierProvider",
+    "assembly_name": "Unity.Services.Core.Device"
+  },
+  "176": {
+    "name": "IStore",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "class_name": "IStore",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "177": {
+    "name": "IGooglePlayStorePurchaseService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IGooglePlayStorePurchaseService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "178": {
+    "name": "LogScope",
+    "namespace": "UnityEngine.TestTools.Logging",
+    "class_name": "LogScope",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "179": {
+    "name": "Vector3EqualityComparer",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "Vector3EqualityComparer",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "180": {
+    "name": "ITestSuiteModifier",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions",
+    "class_name": "ITestSuiteModifier",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "181": {
+    "name": "IGooglePlayStoreService",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IGooglePlayStoreService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "182": {
+    "name": "IServiceRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "IServiceRegistry",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "183": {
+    "name": "CoreAnalyticsAdapter",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "CoreAnalyticsAdapter",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "184": {
+    "name": "ICoreServicesEnvironmentObserver",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ICoreServicesEnvironmentObserver",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "185": {
+    "name": "Button",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Button",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "186": {
+    "name": "IGooglePlayStoreRetrieveProductsService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IGooglePlayStoreRetrieveProductsService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "187": {
+    "name": "StartDataWeb",
+    "namespace": "",
+    "class_name": "StartDataWeb",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "188": {
+    "name": "StandaloneInputModule",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "StandaloneInputModule",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "189": {
+    "name": "GooglePlayStoreRetrieveProductsService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GooglePlayStoreRetrieveProductsService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "190": {
+    "name": "ActionDelegator",
+    "namespace": "UnityEngine.TestTools.NUnitExtensions",
+    "class_name": "ActionDelegator",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "191": {
+    "name": "BufferX",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "class_name": "BufferX",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "192": {
+    "name": "AppleJsonProductDescriptionsDeserializer",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "AppleJsonProductDescriptionsDeserializer",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "193": {
+    "name": "GoogleAcknowledgePurchaseListener",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GoogleAcknowledgePurchaseListener",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "194": {
+    "name": "DependencyTreeInitializeOrderSorter",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "DependencyTreeInitializeOrderSorter",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "195": {
+    "name": "EGUtils",
+    "namespace": "",
+    "class_name": "EGUtils",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "196": {
+    "name": "UnityPlatformAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "UnityPlatformAttribute",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "197": {
+    "name": "UIFakeStoreDropdown",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "UIFakeStoreDropdown",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "198": {
+    "name": "Physics2DRaycaster",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "Physics2DRaycaster",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "199": {
+    "name": "IAppleExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IAppleExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "200": {
+    "name": "SessionManager",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "class_name": "SessionManager",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "201": {
+    "name": "ReadOnlyHttpResponse",
+    "namespace": "Unity.Services.Core.Networking.Internal",
+    "class_name": "ReadOnlyHttpResponse",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "202": {
+    "name": "ActionScheduler",
+    "namespace": "Unity.Services.Core.Scheduler.Internal",
+    "class_name": "ActionScheduler",
+    "assembly_name": "Unity.Services.Core.Scheduler"
+  },
+  "203": {
+    "name": "UnityAdsIdentifier",
+    "namespace": "Unity.Services.Core.Device",
+    "class_name": "UnityAdsIdentifier",
+    "assembly_name": "Unity.Services.Core.Device"
+  },
+  "204": {
+    "name": "Vector2EqualityComparer",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "Vector2EqualityComparer",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "205": {
+    "name": "GoogleProductMetadata",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GoogleProductMetadata",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "206": {
+    "name": "IPackageRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "IPackageRegistry",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "207": {
+    "name": "VerticalLayoutGroup",
+    "namespace": "UnityEngine.UI",
+    "class_name": "VerticalLayoutGroup",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "208": {
+    "name": "UnityTestExecutionContext",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "class_name": "UnityTestExecutionContext",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "209": {
+    "name": "ChannelToken",
+    "namespace": "Unity.Services.Wire.Internal",
+    "class_name": "ChannelToken",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "210": {
+    "name": "IServerEnvironmentId",
+    "namespace": "Unity.Services.Authentication.Server.Internal",
+    "class_name": "IServerEnvironmentId",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "211": {
+    "name": "UnexpectedLogMessageException",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "class_name": "UnexpectedLogMessageException",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "212": {
+    "name": "UnityWorkItemDataHolder",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "class_name": "UnityWorkItemDataHolder",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "213": {
+    "name": "FakeAppleExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "FakeAppleExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "214": {
+    "name": "Vector3ComparerWithEqualsOperator",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "Vector3ComparerWithEqualsOperator",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "215": {
+    "name": "WorkItemFactory",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "class_name": "WorkItemFactory",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "216": {
+    "name": "IWire",
+    "namespace": "Unity.Services.Wire.Internal",
+    "class_name": "IWire",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "217": {
+    "name": "DialogRequest",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "DialogRequest",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "218": {
+    "name": "ITimeProvider",
+    "namespace": "Unity.Services.Core.Scheduler.Internal",
+    "class_name": "ITimeProvider",
+    "assembly_name": "Unity.Services.Core.Scheduler"
+  },
+  "219": {
+    "name": "CoreRegistration",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "CoreRegistration",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "220": {
+    "name": "GooglePlayStoreFinishTransactionService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GooglePlayStoreFinishTransactionService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "221": {
+    "name": "MissingComponent",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "MissingComponent",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "222": {
+    "name": "BlurOptimized",
+    "namespace": "",
+    "class_name": "BlurOptimized",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "223": {
+    "name": "TestResultRenderer",
+    "namespace": "UnityEngine.TestTools.TestRunner.Callbacks",
+    "class_name": "TestResultRenderer",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "224": {
+    "name": "MultipleDisplayUtilities",
+    "namespace": "UnityEngine.UI",
+    "class_name": "MultipleDisplayUtilities",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "225": {
+    "name": "WinProductDescription",
+    "namespace": "UnityEngine.Purchasing.Default",
+    "class_name": "WinProductDescription",
+    "assembly_name": "UnityEngine.Purchasing.WinRTCore"
+  },
+  "226": {
+    "name": "LifecycleNotifier",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "LifecycleNotifier",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "227": {
+    "name": "Text",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Text",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "228": {
+    "name": "IStateSerializer",
+    "namespace": "UnityEngine.TestTools.NUnitExtensions",
+    "class_name": "IStateSerializer",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "229": {
+    "name": "GoogleProductTypeEnum",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "class_name": "GoogleProductTypeEnum",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "230": {
+    "name": "ITelemetryMetricsInstanceWrapper",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "ITelemetryMetricsInstanceWrapper",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "231": {
+    "name": "UnityTearDownAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "UnityTearDownAttribute",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "232": {
+    "name": "IPurchaseReceipt",
+    "namespace": "UnityEngine.Purchasing.Security",
+    "class_name": "IPurchaseReceipt",
+    "assembly_name": "UnityEngine.Purchasing.SecurityCore"
+  },
+  "233": {
+    "name": "GoogleReceiptEncoder",
+    "namespace": "UnityEngine.Purchasing.Utils",
+    "class_name": "GoogleReceiptEncoder",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "234": {
+    "name": "IAnalyticsUserId",
+    "namespace": "Unity.Services.Core.Analytics.Internal",
+    "class_name": "IAnalyticsUserId",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "235": {
+    "name": "IMaskable",
+    "namespace": "UnityEngine.UI",
+    "class_name": "IMaskable",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "236": {
+    "name": "Navigation",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Navigation",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "237": {
+    "name": "PostBuildCleanupAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "PostBuildCleanupAttribute",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "238": {
+    "name": "ExecuteEvents",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "ExecuteEvents",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "239": {
+    "name": "IUnityThreadUtils",
+    "namespace": "Unity.Services.Core.Threading.Internal",
+    "class_name": "IUnityThreadUtils",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "240": {
+    "name": "MemoryConfigurationLoader",
+    "namespace": "Unity.Services.Core.Configuration",
+    "class_name": "MemoryConfigurationLoader",
+    "assembly_name": "Unity.Services.Core.Configuration"
+  },
+  "241": {
+    "name": "CoreLogger",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "CoreLogger",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "242": {
+    "name": "IServiceComponent",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "IServiceComponent",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "243": {
+    "name": "SubscriptionManager",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "SubscriptionManager",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "244": {
+    "name": "Vector2ComparerWithEqualsOperator",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "Vector2ComparerWithEqualsOperator",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "245": {
+    "name": "UDPReflectionConsts",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "UDPReflectionConsts",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "246": {
+    "name": "TestResultExtensions",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions",
+    "class_name": "TestResultExtensions",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "247": {
+    "name": "IGoogleLastKnownProductService",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IGoogleLastKnownProductService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "248": {
+    "name": "UIBobAnim",
+    "namespace": "",
+    "class_name": "UIBobAnim",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "249": {
+    "name": "TelemetryDiagnosticNames",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "TelemetryDiagnosticNames",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "250": {
+    "name": "Slider",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Slider",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "251": {
+    "name": "Clipping",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Clipping",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "252": {
+    "name": "HttpOptions",
+    "namespace": "Unity.Services.Core.Networking.Internal",
+    "class_name": "HttpOptions",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "253": {
+    "name": "SimpleCatalogProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "SimpleCatalogProvider",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "254": {
+    "name": "ConstraintsExtensions",
+    "namespace": "UnityEngine.TestTools.Constraints",
+    "class_name": "ConstraintExtensions",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "255": {
+    "name": "FailCommand",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "class_name": "FailCommand",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "256": {
+    "name": "TestRunCallbackListener",
+    "namespace": "UnityEngine.TestRunner.Utils",
+    "class_name": "TestRunCallbackListener",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "257": {
+    "name": "StencilMaterial",
+    "namespace": "UnityEngine.UI",
+    "class_name": "StencilMaterial",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "258": {
+    "name": "GraphicRegistry",
+    "namespace": "UnityEngine.UI",
+    "class_name": "GraphicRegistry",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "259": {
+    "name": "OrderedTestSuiteModifier",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions",
+    "class_name": "OrderedTestSuiteModifier",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "260": {
+    "name": "ILegacyUnityAnalytics",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ILegacyUnityAnalytics",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "261": {
+    "name": "DiffuseReflection",
+    "namespace": "",
+    "class_name": "DiffuseReflection",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "262": {
+    "name": "UIAnimator",
+    "namespace": "",
+    "class_name": "UIAnimator",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "263": {
+    "name": "AbstractStore",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "class_name": "AbstractStore",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "264": {
+    "name": "UnityUtil",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "class_name": "UnityUtil",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "265": {
+    "name": "Is",
+    "namespace": "UnityEngine.TestTools.Constraints",
+    "class_name": "Is",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "266": {
+    "name": "UDPBindings",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "UDPBindings",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "267": {
+    "name": "EnumerableRetryTestCommand",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "EnumerableRetryTestCommand",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "268": {
+    "name": "IGoogleBillingResult",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "class_name": "IGoogleBillingResult",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "269": {
+    "name": "UIToggleOnEnabled",
+    "namespace": "",
+    "class_name": "UIToggleOnEnabled",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "270": {
+    "name": "IJsonSerializer",
+    "namespace": "Unity.Services.Core.Internal.Serialization",
+    "class_name": "IJsonSerializer",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "271": {
+    "name": "BaseMeshEffect",
+    "namespace": "UnityEngine.UI",
+    "class_name": "BaseMeshEffect",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "272": {
+    "name": "ProductPurchaseUpdater",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ProductPurchaseUpdater",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "273": {
+    "name": "IdentityManager",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "class_name": "IdentityManager",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "274": {
+    "name": "CorePackageInitializer",
+    "namespace": "Unity.Services.Core.Registration",
+    "class_name": "CorePackageInitializer",
+    "assembly_name": "Unity.Services.Core.Registration"
+  },
+  "275": {
+    "name": "AnalyticsOptionsExtensions",
+    "namespace": "Unity.Services.Core.Analytics",
+    "class_name": "AnalyticsOptionsExtensions",
+    "assembly_name": "Unity.Services.Core.Analytics"
+  },
+  "276": {
+    "name": "TestListenerWrapper",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "class_name": "TestListenerWrapper",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "277": {
+    "name": "TestPlatform",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "TestPlatformEnumExtensions",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "278": {
+    "name": "ITelemetryDiagnostics",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "ITelemetryDiagnostics",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "279": {
+    "name": "TestEnumerator",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "TestEnumerator",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "280": {
+    "name": "EnumerableExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "EnumerableExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "281": {
+    "name": "TelemetryMetricsInstanceWrapper",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "TelemetryMetricsInstanceWrapper",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "282": {
+    "name": "ConfigurationBuilder",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ConfigurationBuilder",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "283": {
+    "name": "PointerEventData",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "PointerEventData",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "284": {
+    "name": "EnvironmentsOptionsExtensions",
+    "namespace": "Unity.Services.Core.Environments",
+    "class_name": "EnvironmentsOptionsExtensions",
+    "assembly_name": "Unity.Services.Core.Environments"
+  },
+  "285": {
+    "name": "JavaBridge",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "JavaBridge",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "286": {
+    "name": "StandaloneStart",
+    "namespace": "",
+    "class_name": "StandaloneStart",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "287": {
+    "name": "GooglePurchaseStateEnum",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "class_name": "GooglePurchaseStateEnum",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "288": {
+    "name": "GetAppleProductMetadataExtension",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GetAppleProductMetadataExtension",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "289": {
+    "name": "Logo",
+    "namespace": "",
+    "class_name": "Logo",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "290": {
+    "name": "TestRunCallbackAttribute",
+    "namespace": "UnityEngine.TestRunner",
+    "class_name": "TestRunCallbackAttribute",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "291": {
+    "name": "EventSystem",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "EventSystem",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "292": {
+    "name": "EmptyUnityAnalyticsAdapter",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "EmptyAnalyticsAdapter",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "293": {
+    "name": "IStoreListener",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IStoreListener",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "294": {
+    "name": "TelemetryDiagnosticsInstanceWrapper",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "TelemetryDiagnosticsInstanceWrapper",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "295": {
+    "name": "TaskAsyncOperation",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "TaskAsyncOperation",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "296": {
+    "name": "ITelemetryMetricEvent",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "ITelemetryMetricEvent",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "297": {
+    "name": "MetricizedAppleStoreImpl",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "MetricizedAppleStoreImpl",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "298": {
+    "name": "UnityWorkItem",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "class_name": "UnityWorkItem",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "299": {
+    "name": "IAnalyticsStandardEventComponent",
+    "namespace": "Unity.Services.Core.Analytics.Internal",
+    "class_name": "IAnalyticsStandardEventComponent",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "300": {
+    "name": "PanelRaycaster",
+    "namespace": "UnityEngine.UIElements",
+    "class_name": "PanelRaycaster",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "301": {
+    "name": "Selectable",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Selectable",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "302": {
+    "name": "AcquisitionSourceEvent",
+    "namespace": "Unity.Services.Analytics",
+    "class_name": "AcquisitionSourceEvent",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "303": {
+    "name": "UnityCombinatorialStrategy",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "UnityCombinatorialStrategy",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "304": {
+    "name": "UnityWebRequestUtils",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "UnityWebRequestUtils",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "305": {
+    "name": "CodelessIAPButton",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "CodelessIAPButton",
+    "assembly_name": "UnityEngine.Purchasing.Codeless"
+  },
+  "306": {
+    "name": "MaskUtilities",
+    "namespace": "UnityEngine.UI",
+    "class_name": "MaskUtilities",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "307": {
+    "name": "CoroutineTween",
+    "namespace": "UnityEngine.UI.CoroutineTween",
+    "class_name": "ITweenValue",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "308": {
+    "name": "UnityServicesInternal",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "UnityServicesInternal",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "309": {
+    "name": "IStoreConfiguration",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "class_name": "IStoreConfiguration",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "310": {
+    "name": "PlaymodeWorkItemFactory",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "class_name": "PlaymodeWorkItemFactory",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "311": {
+    "name": "UDPImpl",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "UDPImpl",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "312": {
+    "name": "BeforeAfterTestCommandState",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "BeforeAfterTestCommandState",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "313": {
+    "name": "LegacyAnalyticsWrapper",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "LegacyAnalyticsWrapper",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "314": {
+    "name": "FileReference",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "FileReference",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "315": {
+    "name": "PingPongAnim",
+    "namespace": "",
+    "class_name": "PingPongAnim",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "316": {
+    "name": "AnalyticsForgetter",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "class_name": "AnalyticsForgetter",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "317": {
+    "name": "UnityServicesInitializer",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "UnityServicesInitializer",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "318": {
+    "name": "StoreCallbackExtensionMethods",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "StoreCallbackExtensionMethods",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "319": {
+    "name": "IInitializablePackage",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "IInitializablePackage",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "320": {
+    "name": "GoogleFetchPurchases",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GoogleFetchPurchases",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "321": {
+    "name": "RemoteTestResultDataFactory",
+    "namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "class_name": "RemoteTestResultDataFactory",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "322": {
+    "name": "Misc",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Misc",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "323": {
+    "name": "DiskCache",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "class_name": "DiskCache",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "324": {
+    "name": "LayoutUtility",
+    "namespace": "UnityEngine.UI",
+    "class_name": "LayoutUtility",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "325": {
+    "name": "ColorBlock",
+    "namespace": "UnityEngine.UI",
+    "class_name": "ColorBlock",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "326": {
+    "name": "ImmediateEnumerableCommand",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "ImmediateEnumerableCommand",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "327": {
+    "name": "IGooglePurchaseBuilder",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IGooglePurchaseBuilder",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "328": {
+    "name": "IProjectConfiguration",
+    "namespace": "Unity.Services.Core.Configuration.Internal",
+    "class_name": "IProjectConfiguration",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "329": {
+    "name": "IapCoreInitializeCallback",
+    "namespace": "UnityEngine.Purchasing.Registration",
+    "class_name": "IapCoreInitializeCallback",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "330": {
+    "name": "ConfigurationCollectionHelper",
+    "namespace": "Unity.Services.Core.Configuration",
+    "class_name": "ConfigurationCollectionHelper",
+    "assembly_name": "Unity.Services.Core.Configuration"
+  },
+  "331": {
+    "name": "Product",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "Product",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "332": {
+    "name": "UIBlinkingText",
+    "namespace": "",
+    "class_name": "UIBlinkingText",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "333": {
+    "name": "IMeshModifier",
+    "namespace": "UnityEngine.UI",
+    "class_name": "IMeshModifier",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "334": {
+    "name": "AspectRatioFitter",
+    "namespace": "UnityEngine.UI",
+    "class_name": "AspectRatioFitter",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "335": {
+    "name": "UnityThreadUtils",
+    "namespace": "Unity.Services.Core",
+    "class_name": "UnityThreadUtils",
+    "assembly_name": "Unity.Services.Core"
+  },
+  "336": {
+    "name": "IRemoteTestResultDataFactory",
+    "namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "class_name": "IRemoteTestResultDataFactory",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "337": {
+    "name": "UnityTestAssemblyRunner",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "class_name": "UnityTestAssemblyRunner",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "338": {
+    "name": "GoogleLastKnownProductService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GoogleLastKnownProductService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "339": {
+    "name": "UIPingPongAnim",
+    "namespace": "",
+    "class_name": "UIPingPongAnim",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "340": {
+    "name": "MiniJSON",
+    "namespace": "UnityEngine.Purchasing.MiniJSON",
+    "class_name": "Json",
+    "assembly_name": "Purchasing.Common"
+  },
+  "341": {
+    "name": "TransactionLog",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "TransactionLog",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "342": {
+    "name": "IAnalyticsAdapter",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IAnalyticsAdapter",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "343": {
+    "name": "IEditModeTestYieldInstruction",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "IEditModeTestYieldInstruction",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "344": {
+    "name": "PanelEventHandler",
+    "namespace": "UnityEngine.UIElements",
+    "class_name": "PanelEventHandler",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "345": {
+    "name": "GridLayoutGroup",
+    "namespace": "UnityEngine.UI",
+    "class_name": "GridLayoutGroup",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "346": {
+    "name": "VersionCheck",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "VersionCheck",
+    "assembly_name": "Purchasing.Common"
+  },
+  "347": {
+    "name": "ServicesInitializationException",
+    "namespace": "Unity.Services.Core",
+    "class_name": "ServicesInitializationException",
+    "assembly_name": "Unity.Services.Core"
+  },
+  "348": {
+    "name": "IAPSecurityException",
+    "namespace": "UnityEngine.Purchasing.Security",
+    "class_name": "IAPSecurityException",
+    "assembly_name": "UnityEngine.Purchasing.SecurityCore"
+  },
+  "349": {
+    "name": "GooglePurchasesResponseListener",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GooglePurchasesResponseListener",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "350": {
+    "name": "TestExtensions",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions",
+    "class_name": "TestExtensions",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "351": {
+    "name": "TransactionEvent",
+    "namespace": "Unity.Services.Analytics",
+    "class_name": "TransactionEvent",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "352": {
+    "name": "MacAppStore",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "MacAppStore",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "353": {
+    "name": "IDetailedStoreListener",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IDetailedStoreListener",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "354": {
+    "name": "CommonErrorCodes",
+    "namespace": "Unity.Services.Core",
+    "class_name": "CommonErrorCodes",
+    "assembly_name": "Unity.Services.Core"
+  },
+  "355": {
+    "name": "ProductDetailsResponseListener",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ProductDetailsResponseListener",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "356": {
+    "name": "TelemetryMetricEvent",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "TelemetryMetricEvent",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "357": {
+    "name": "JSONStore",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "JSONStore",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "358": {
+    "name": "IAPListener",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IAPListener",
+    "assembly_name": "UnityEngine.Purchasing.Codeless"
+  },
+  "359": {
+    "name": "IProductDetailsResponseConsolidator",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IProductDetailsResponseConsolidator",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "360": {
+    "name": "DependencyTree",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "DependencyTree",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "361": {
+    "name": "Toggle",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Toggle",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "362": {
+    "name": "ILoggerExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "LoggerExtensions",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "363": {
+    "name": "AssemblyNameFilter",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Filters",
+    "class_name": "AssemblyNameFilter",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "364": {
+    "name": "BaseEventData",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "BaseEventData",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "365": {
+    "name": "ExternalUserIdProperty",
+    "namespace": "Unity.Services.Core",
+    "class_name": "ExternalUserIdProperty",
+    "assembly_name": "Unity.Services.Core"
+  },
+  "366": {
+    "name": "IGraphicEnabledDisabled",
+    "namespace": "UnityEngine.UI",
+    "class_name": "IGraphicEnabledDisabled",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "367": {
+    "name": "ServicesCreationException",
+    "namespace": "Unity.Services.Core",
+    "class_name": "ServicesCreationException",
+    "assembly_name": "Unity.Services.Core"
+  },
+  "368": {
+    "name": "AdMobScript",
+    "namespace": "",
+    "class_name": "AdMobScript",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "369": {
+    "name": "GooglePurchaseBuilder",
+    "namespace": "UnityEngine.Purchasing.Utils",
+    "class_name": "GooglePurchaseBuilder",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "370": {
+    "name": "AnalyticsService",
+    "namespace": "Unity.Services.Analytics",
+    "class_name": "AnalyticsService",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "371": {
+    "name": "ProductDetailsResponseConsolidator",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ProductDetailsResponseConsolidator",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "372": {
+    "name": "ITransactionHistoryExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ITransactionHistoryExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "373": {
+    "name": "MetricizedGooglePlayStoreExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "MetricizedGooglePlayStoreExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "374": {
+    "name": "Utils",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "Utils",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "375": {
+    "name": "GooglePlayStorePurchaseService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GooglePlayStorePurchaseService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "376": {
+    "name": "JsonProductDescriptionsDeserializer",
+    "namespace": "Stores.Util",
+    "class_name": "JsonProductDescriptionsDeserializer",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "377": {
+    "name": "CustomEvent",
+    "namespace": "Unity.Services.Analytics",
+    "class_name": "CustomEvent",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "378": {
+    "name": "InvalidSignatureException",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "class_name": "InvalidSignatureException",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "379": {
+    "name": "MaskableGraphic",
+    "namespace": "UnityEngine.UI",
+    "class_name": "MaskableGraphic",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "380": {
+    "name": "AppleStoreImpl",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "AppleStoreImpl",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "381": {
+    "name": "ICatalogProvider",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "class_name": "ICatalogProvider",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "382": {
+    "name": "UnityTestAssemblyBuilder",
+    "namespace": "UnityEngine.TestTools.NUnitExtensions",
+    "class_name": "UnityTestAssemblyBuilder",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "383": {
+    "name": "SetTextFromVariable",
+    "namespace": "",
+    "class_name": "SetTextFromVariable",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "384": {
+    "name": "IWinRT",
+    "namespace": "UnityEngine.Purchasing.Default",
+    "class_name": "IWindowsIAPCallback",
+    "assembly_name": "UnityEngine.Purchasing.WinRTCore"
+  },
+  "385": {
+    "name": "LogMatch",
+    "namespace": "UnityEngine.TestTools.Logging",
+    "class_name": "LogMatch",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "386": {
+    "name": "StdGenerator",
+    "namespace": "Unity.Services.Analytics.Data",
+    "class_name": "ICommonData",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "387": {
+    "name": "SaveSystem",
+    "namespace": "",
+    "class_name": "SaveSystem",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "388": {
+    "name": "IapTelemetryException",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "IapTelemetryException",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "389": {
+    "name": "TestEnumeratorWrapper",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "class_name": "TestEnumeratorWrapper",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "390": {
+    "name": "IEnvironments",
+    "namespace": "Unity.Services.Core.Environments.Internal",
+    "class_name": "IEnvironments",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "391": {
+    "name": "KeyboardScript",
+    "namespace": "",
+    "class_name": "KeyboardScript",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "392": {
+    "name": "FakeStore",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "FakeStore",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "393": {
+    "name": "AndroidJavaObjectExtensions",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "class_name": "AndroidJavaObjectExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "394": {
+    "name": "PackageRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "PackageRegistry",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "395": {
+    "name": "IAndroidStoreSelection",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IAndroidStoreSelection",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "396": {
+    "name": "BillingClientStateListener",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "BillingClientStateListener",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "397": {
+    "name": "UnityServicesBuilder",
+    "namespace": "Unity.Services.Core",
+    "class_name": "UnityServicesBuilder",
+    "assembly_name": "Unity.Services.Core"
+  },
+  "398": {
+    "name": "IGooglePurchaseUpdatedListener",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IGooglePurchaseUpdatedListener",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "399": {
+    "name": "IComponentRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "IComponentRegistry",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "400": {
+    "name": "IGoogleBillingClient",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IGoogleBillingClient",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "401": {
+    "name": "ClipperRegistry",
+    "namespace": "UnityEngine.UI",
+    "class_name": "ClipperRegistry",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "402": {
+    "name": "HttpRequestExtensions",
+    "namespace": "Unity.Services.Core.Networking.Internal",
+    "class_name": "HttpRequestExtensions",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "403": {
+    "name": "CoreDiagnostics",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "CoreDiagnostics",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "404": {
+    "name": "GoogleQueryPurchasesService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GoogleQueryPurchasesService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "405": {
+    "name": "IMonoBehaviourTest",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "IMonoBehaviourTest",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "406": {
+    "name": "RuntimeTestRunnerFilter",
+    "namespace": "UnityEngine.TestTools.TestRunner.GUI",
+    "class_name": "RuntimeTestRunnerFilter",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "407": {
+    "name": "DeviceVolume",
+    "namespace": "Unity.Services.Analytics.Platform",
+    "class_name": "DeviceVolumeProvider",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "408": {
+    "name": "Buffer",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "class_name": "IBuffer",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "409": {
+    "name": "ServicesInitializationEvents",
+    "namespace": "Unity.Services.Core.Components",
+    "class_name": "ServicesInitializationEvents",
+    "assembly_name": "Unity.Services.Core.Components"
+  },
+  "410": {
+    "name": "IMetrics",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "class_name": "IMetrics",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "411": {
+    "name": "UnityThreadUtilsInternal",
+    "namespace": "Unity.Services.Core.Threading.Internal",
+    "class_name": "UnityThreadUtilsInternal",
+    "assembly_name": "Unity.Services.Core.Threading"
+  },
+  "412": {
+    "name": "SdkVersion",
+    "namespace": "Unity.Services.Analytics",
+    "class_name": "SdkVersion",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "413": {
+    "name": "IGooglePlayStoreFinishTransactionService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IGooglePlayStoreFinishTransactionService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "414": {
+    "name": "BowLineRend",
+    "namespace": "",
+    "class_name": "BowLineRend",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "415": {
+    "name": "ConsyaScript",
+    "namespace": "",
+    "class_name": "ConsyaScript",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "416": {
+    "name": "FakeAppleConfiguration",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "FakeAppleConfiguration",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "417": {
+    "name": "SineTest",
+    "namespace": "",
+    "class_name": "SineTest",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "418": {
+    "name": "CoreRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "CoreRegistry",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "419": {
+    "name": "HorizontalOrVerticalLayoutGroup",
+    "namespace": "UnityEngine.UI",
+    "class_name": "HorizontalOrVerticalLayoutGroup",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "420": {
+    "name": "DataPrivacyButton",
+    "namespace": "UnityEngine.Analytics",
+    "class_name": "DataPrivacyButton",
+    "assembly_name": "Unity.Analytics.DataPrivacy"
+  },
+  "421": {
+    "name": "Graphic",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Graphic",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "422": {
+    "name": "ProductDefinition",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ProductDefinition",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "423": {
+    "name": "AppleAppStore",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "AppleAppStore",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "424": {
+    "name": "TelemetryDiagnostics",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "TelemetryDiagnostics",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "425": {
+    "name": "UnhandledLogMessageException",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "class_name": "UnhandledLogMessageException",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "426": {
+    "name": "GooglePlayStoreService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GooglePlayStoreService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "427": {
+    "name": "RotateObject",
+    "namespace": "",
+    "class_name": "RotateObject",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "428": {
+    "name": "LegacyUnityAnalytics",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "LegacyUnityAnalytics",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "429": {
+    "name": "StoreListenerProxy",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "StoreListenerProxy",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "430": {
+    "name": "INativeAppleStore",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "INativeAppleStore",
+    "assembly_name": "UnityEngine.Purchasing.AppleCore"
+  },
+  "431": {
+    "name": "BaseIAPButton",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "BaseIAPButton",
+    "assembly_name": "UnityEngine.Purchasing.Codeless"
+  },
+  "432": {
+    "name": "CoreStatsHelper",
+    "namespace": "Unity.Services.Analytics",
+    "class_name": "CoreStatsHelper",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "433": {
+    "name": "INativeStoreProvider",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "INativeStoreProvider",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "434": {
+    "name": "IEnvironmentId",
+    "namespace": "Unity.Services.Authentication.Internal",
+    "class_name": "IEnvironmentId",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "435": {
+    "name": "CloudProjectId",
+    "namespace": "Unity.Services.Core.Configuration",
+    "class_name": "CloudProjectId",
+    "assembly_name": "Unity.Services.Core.Configuration"
+  },
+  "436": {
+    "name": "IPrebuildSceneSetup",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "IPrebuildSetup",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "437": {
+    "name": "TransactionCurrencyConverter",
+    "namespace": "Unity.Services.Analytics",
+    "class_name": "TransactionCurrencyConverter",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "438": {
+    "name": "CircularDependencyException",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "CircularDependencyException",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "439": {
+    "name": "AttributeHelper",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "AttributeHelper",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "440": {
+    "name": "IGooglePlayStoreExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IGooglePlayStoreExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "441": {
+    "name": "FloatEqualityComparer",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "FloatEqualityComparer",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "442": {
+    "name": "UtcTimeProvider",
+    "namespace": "Unity.Services.Core.Scheduler.Internal",
+    "class_name": "UtcTimeProvider",
+    "assembly_name": "Unity.Services.Core.Scheduler"
+  },
+  "443": {
+    "name": "DependencyTreeExtensions",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "DependencyTreeExtensions",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "444": {
+    "name": "ITelemetryDiagnosticsInstanceWrapper",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "ITelemetryDiagnosticsInstanceWrapper",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "445": {
+    "name": "IGoogleCachedQueryProductDetailsService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IGoogleCachedQueryProductDetailsService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "446": {
+    "name": "RemoteTestData",
+    "namespace": "UnityEngine.TestRunner.TestLaunchers",
+    "class_name": "RemoteTestData",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "447": {
+    "name": "AxisEventData",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "AxisEventData",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "448": {
+    "name": "IGoogleProductCallback",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IGoogleProductCallback",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "449": {
+    "name": "UDP",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "UDP",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "450": {
+    "name": "CorePackageRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "CorePackageRegistry",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "451": {
+    "name": "ConstructDelegator",
+    "namespace": "UnityEngine.TestTools.NUnitExtensions",
+    "class_name": "ConstructDelegator",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "452": {
+    "name": "UIFakeStore",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "UIFakeStore",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "453": {
+    "name": "IRetryPolicy",
+    "namespace": "UnityEngine.Purchasing.Stores.Util",
+    "class_name": "IRetryPolicy",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "454": {
+    "name": "CoroutineTestWorkItem",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "class_name": "CoroutineTestWorkItem",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "455": {
+    "name": "CodelessIAPStoreListener",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "CodelessIAPStoreListener",
+    "assembly_name": "UnityEngine.Purchasing.Codeless"
+  },
+  "456": {
+    "name": "IUtil",
+    "namespace": "Uniject",
+    "class_name": "IUtil",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "457": {
+    "name": "HashExceptions",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "HashException",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "458": {
+    "name": "SynchronousFilter",
+    "namespace": "UnityEngine.TestTools.TestRunner.GUI",
+    "class_name": "SynchronousFilter",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "459": {
+    "name": "SetPropertyUtility",
+    "namespace": "UnityEngine.UI",
+    "class_name": "SetPropertyUtility",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "460": {
+    "name": "IOuterUnityTestAction",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "IOuterUnityTestAction",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "461": {
+    "name": "ProductDetailsConverter",
+    "namespace": "UnityEngine.Purchasing.Utils",
+    "class_name": "ProductDetailsConverter",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "462": {
+    "name": "Persistence",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "class_name": "IPersistence",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "463": {
+    "name": "StandardEventServiceComponent",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "class_name": "StandardEventServiceComponent",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "464": {
+    "name": "UnifiedReceiptExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "UnifiedReceiptExtensions",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "465": {
+    "name": "AsyncOperationExtensions",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "AsyncOperationExtensions",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "466": {
+    "name": "IExternalUserId",
+    "namespace": "Unity.Services.Core.Configuration.Internal",
+    "class_name": "IExternalUserId",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "467": {
+    "name": "ProductDefinitionExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ProductDefinitionExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "468": {
+    "name": "Metrics",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "class_name": "Metrics",
+    "assembly_name": "Unity.Services.Core.Telemetry"
+  },
+  "469": {
+    "name": "DefaultControls",
+    "namespace": "UnityEngine.UI",
+    "class_name": "DefaultControls",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "470": {
+    "name": "CanvasUpdateRegistry",
+    "namespace": "UnityEngine.UI",
+    "class_name": "CanvasUpdateRegistry",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "471": {
+    "name": "DataPrivacy",
+    "namespace": "UnityEngine.Analytics",
+    "class_name": "DataPrivacy",
+    "assembly_name": "Unity.Analytics.DataPrivacy"
+  },
+  "472": {
+    "name": "GoogleConnectionRetryPolicy",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GoogleConnectionRetryPolicy",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "473": {
+    "name": "GooglePlayConfiguration",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GooglePlayConfiguration",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "474": {
+    "name": "IGooglePurchaseCallback",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IGooglePurchaseCallback",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "475": {
+    "name": "ExternalUserId",
+    "namespace": "Unity.Services.Core.Configuration",
+    "class_name": "ExternalUserId",
+    "assembly_name": "Unity.Services.Core.Configuration"
+  },
+  "476": {
+    "name": "ExtensionMethods",
+    "namespace": "",
+    "class_name": "ExtensionMethods",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "477": {
+    "name": "AsyncOperationAwaiter",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "AsyncOperationAwaiter",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "478": {
+    "name": "InstallationId",
+    "namespace": "Unity.Services.Core.Device",
+    "class_name": "InstallationId",
+    "assembly_name": "Unity.Services.Core.Device"
+  },
+  "479": {
+    "name": "IAsyncTestAssemblyBuilder",
+    "namespace": "UnityEngine.TestTools.NUnitExtensions",
+    "class_name": "IAsyncTestAssemblyBuilder",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "480": {
+    "name": "TransactionFailedEvent",
+    "namespace": "Unity.Services.Analytics",
+    "class_name": "TransactionFailedEvent",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "481": {
+    "name": "VertexHelper",
+    "namespace": "UnityEngine.UI",
+    "class_name": "VertexHelper",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "482": {
+    "name": "PhysicsRaycaster",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "PhysicsRaycaster",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "483": {
+    "name": "IProductDetailsConverter",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IProductDetailsConverter",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "484": {
+    "name": "RectangularVertexClipper",
+    "namespace": "UnityEngine.UI",
+    "class_name": "RectangularVertexClipper",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "485": {
+    "name": "PreserveDependencyAttribute",
+    "namespace": "System.Runtime.CompilerServices",
+    "class_name": "PreserveDependencyAttribute",
+    "assembly_name": "Unity.Services.Core"
+  },
+  "486": {
+    "name": "AnimationTriggers",
+    "namespace": "UnityEngine.UI",
+    "class_name": "AnimationTriggers",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "487": {
+    "name": "IAsyncOperationAwaiter",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "IAsyncOperationAwaiter",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "488": {
+    "name": "IGoogleFinishTransactionService",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IGoogleFinishTransactionService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "489": {
+    "name": "CoreServicesEnvironmentSubject",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "CoreServicesEnvironmentSubject",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "490": {
+    "name": "DefaultTestWorkItem",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "class_name": "DefaultTestWorkItem",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "491": {
+    "name": "AnalyticsClient",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "AnalyticsClient",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "492": {
+    "name": "ConditionalIgnoreAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "ConditionalIgnoreAttribute",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "493": {
+    "name": "MultiDim.cs",
+    "namespace": "",
+    "class_name": "MultiDim",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "494": {
+    "name": "UDPReflectionUtil",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "UDPReflectionUtils",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "495": {
+    "name": "IAnalyticsService",
+    "namespace": "Unity.Services.Analytics",
+    "class_name": "IAnalyticsService",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "496": {
+    "name": "LogAssert",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "LogAssert",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "497": {
+    "name": "ListExtension",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ListExtension",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "498": {
+    "name": "IGooglePlayStoreExtensionsInternal",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IGooglePlayStoreExtensionsInternal",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "499": {
+    "name": "PurchaseFailureDescription",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "class_name": "PurchaseFailureDescription",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "500": {
+    "name": "IChannelTokenProvider",
+    "namespace": "Unity.Services.Wire.Internal",
+    "class_name": "IChannelTokenProvider",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "501": {
+    "name": "IGooglePlayConfiguration",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IGooglePlayConfiguration",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "502": {
+    "name": "LayoutGroup",
+    "namespace": "UnityEngine.UI",
+    "class_name": "LayoutGroup",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "503": {
+    "name": "IAmazonConfiguration",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IAmazonConfiguration",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "504": {
+    "name": "PointerInputModule",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "PointerInputModule",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "505": {
+    "name": "UnitySetUpAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "UnitySetUpAttribute",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "506": {
+    "name": "PurchasingFactory",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "PurchasingFactory",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "507": {
+    "name": "TelemetryMetricsService",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "TelemetryMetricsService",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "508": {
+    "name": "IMask",
+    "namespace": "UnityEngine.UI",
+    "class_name": "IMask",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "509": {
+    "name": "IQosResults",
+    "namespace": "Unity.Services.Qos.Internal",
+    "class_name": "IQosResults",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "510": {
+    "name": "GoogleBillingResult",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "class_name": "GoogleBillingResult",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "511": {
+    "name": "Shadow",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Shadow",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "512": {
+    "name": "AllocatingGCMemoryConstraint",
+    "namespace": "UnityEngine.TestTools.Constraints",
+    "class_name": "AllocatingGCMemoryConstraint",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "513": {
+    "name": "EventTrigger",
+    "namespace": "UnityEngine.EventSystems",
+    "class_name": "EventTrigger",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "514": {
+    "name": "MetricsFactory",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "class_name": "MetricsFactory",
+    "assembly_name": "Unity.Services.Core.Telemetry"
+  },
+  "515": {
+    "name": "UnifiedReceiptFormatter",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "UnifiedReceiptFormatter",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "516": {
+    "name": "InputField",
+    "namespace": "UnityEngine.UI",
+    "class_name": "InputField",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "517": {
+    "name": "ITestRunnerListener",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "class_name": "ITestRunnerListener",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "518": {
+    "name": "PrebuildSceneSetupAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "PrebuildSetupAttribute",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "519": {
+    "name": "MetricizedJsonStore",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "MetricizedJsonStore",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "520": {
+    "name": "UnityTestMethodCommand",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "UnityTestMethodCommand",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "521": {
+    "name": "ProductDetailsQueryResponse",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ProductDetailsQueryResponse",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "522": {
+    "name": "IVivox",
+    "namespace": "Unity.Services.Vivox.Internal",
+    "class_name": "IVivox",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "523": {
+    "name": "TelemetryMetricDefinitions",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "TelemetryMetricDefinitions",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "524": {
+    "name": "LockedPackageRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "LockedPackageRegistry",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "525": {
+    "name": "IDebugTools",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "class_name": "IServiceDebug",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "526": {
+    "name": "AbstractPurchasingModule",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "class_name": "AbstractPurchasingModule",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "527": {
+    "name": "IAppleConfiguration",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IAppleConfiguration",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "528": {
+    "name": "ColorEqualityComparer",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "ColorEqualityComparer",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "529": {
+    "name": "IPurchasingBinder",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "class_name": "IPurchasingBinder",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "530": {
+    "name": "Diagnostics",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "class_name": "Diagnostics",
+    "assembly_name": "Unity.Services.Core.Telemetry"
+  },
+  "531": {
+    "name": "ServicesInitialization",
+    "namespace": "Unity.Services.Core.Components",
+    "class_name": "ServicesInitialization",
+    "assembly_name": "Unity.Services.Core.Components"
+  },
+  "532": {
+    "name": "IAPConfigurationHelper",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IAPConfigurationHelper",
+    "assembly_name": "UnityEngine.Purchasing.Codeless"
+  },
+  "533": {
+    "name": "ProductCatalog",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ProductCatalog",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "534": {
+    "name": "UnityWebRequestClient",
+    "namespace": "Unity.Services.Core.Networking",
+    "class_name": "UnityWebRequestClient",
+    "assembly_name": "Unity.Services.Core.Networking"
+  },
+  "535": {
+    "name": "WebRequestHelper",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "class_name": "WebRequestHelper",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "536": {
+    "name": "ITelemetryMetricsService",
+    "namespace": "UnityEngine.Purchasing.Telemetry",
+    "class_name": "ITelemetryMetricsService",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "537": {
+    "name": "GoogleConsumeResponseListener",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GoogleConsumeResponseListener",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "538": {
+    "name": "OSXStoreBindings",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "OSXStoreBindings",
+    "assembly_name": "UnityEngine.Purchasing.AppleMacosStub"
+  },
+  "539": {
+    "name": "AsyncOperationBase",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "AsyncOperationBase",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "540": {
+    "name": "IAmazonExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IAmazonExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "541": {
+    "name": "IChannel",
+    "namespace": "Unity.Services.Wire.Internal",
+    "class_name": "IChannel",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "542": {
+    "name": "IEnumerableTestMethodCommand",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "class_name": "IEnumerableTestMethodCommand",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "543": {
+    "name": "UnityProjectNotLinkedException",
+    "namespace": "Unity.Services.Core",
+    "class_name": "UnityProjectNotLinkedException",
+    "assembly_name": "Unity.Services.Core"
+  },
+  "544": {
+    "name": "GraphicRaycaster",
+    "namespace": "UnityEngine.UI",
+    "class_name": "GraphicRaycaster",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "545": {
+    "name": "EnumerableSetUpTearDownCommand",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "EnumerableSetUpTearDownCommand",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "546": {
+    "name": "GooglePlayProductCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GooglePlayProductCallback",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "547": {
+    "name": "UnityServices",
+    "namespace": "Unity.Services.Core",
+    "class_name": "UnityServices",
+    "assembly_name": "Unity.Services.Core"
+  },
+  "548": {
+    "name": "ConfigurationEntry",
+    "namespace": "Unity.Services.Core.Configuration",
+    "class_name": "ConfigurationEntry",
+    "assembly_name": "Unity.Services.Core.Configuration"
+  },
+  "549": {
+    "name": "UnityPurchasing",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "UnityPurchasing",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "550": {
+    "name": "HttpRequest",
+    "namespace": "Unity.Services.Core.Networking.Internal",
+    "class_name": "HttpRequest",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "551": {
+    "name": "TestResultRendererCallback",
+    "namespace": "UnityEngine.TestTools.TestRunner.Callbacks",
+    "class_name": "TestResultRendererCallback",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "552": {
+    "name": "SetUpTearDownCommand",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "SetUpTearDownCommand",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "553": {
+    "name": "AnalyticsTransactionReceipt",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "AnalyticsTransactionReceipt",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "554": {
+    "name": "IPurchasingModule",
+    "namespace": "UnityEngine.Purchasing.Extension",
+    "class_name": "IPurchasingModule",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "555": {
+    "name": "UnityServicesInitializationChecker",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "UnityServicesInitializationChecker",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "556": {
+    "name": "Outline",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Outline",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "557": {
+    "name": "AmazonAppStoreStoreExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "AmazonAppStoreStoreExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "558": {
+    "name": "INativeUDPStore",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "INativeUDPStore",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "559": {
+    "name": "EnumerableRepeatedTestCommand",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "EnumerableRepeatedTestCommand",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "560": {
+    "name": "FakeGooglePlayStoreConfiguration",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "FakeGooglePlayStoreConfiguration",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "561": {
+    "name": "NetworkScript",
+    "namespace": "",
+    "class_name": "NetworkScript",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "562": {
+    "name": "IMicrosoftExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IMicrosoftExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "563": {
+    "name": "ScriptingUnityCallback",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ScriptingUnityCallback",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "564": {
+    "name": "NSUserDefaults",
+    "namespace": "Unity.Services.Core.Device",
+    "class_name": "NSUserDefaults",
+    "assembly_name": "Unity.Services.Core.Device"
+  },
+  "565": {
+    "name": "ICloudProjectId",
+    "namespace": "Unity.Services.Core.Configuration.Internal",
+    "class_name": "ICloudProjectId",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "566": {
+    "name": "IGoogleFetchPurchases",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IGoogleFetchPurchases",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "567": {
+    "name": "GooglePurchase",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "class_name": "GooglePurchase",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "568": {
+    "name": "QueryProductDetailsService",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "QueryProductDetailsService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "569": {
+    "name": "GoogleBillingClient",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "class_name": "GoogleBillingClient",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "570": {
+    "name": "IService",
+    "namespace": "Unity.Services.Core",
+    "class_name": "IService",
+    "assembly_name": "Unity.Services.Core"
+  },
+  "571": {
+    "name": "ReadOnlyHttpRequest",
+    "namespace": "Unity.Services.Core.Networking.Internal",
+    "class_name": "ReadOnlyHttpRequest",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "572": {
+    "name": "CategoryFilterExtended",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Filters",
+    "class_name": "CategoryFilterExtended",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "573": {
+    "name": "Factory",
+    "namespace": "UnityEngine.Purchasing.Default",
+    "class_name": "Factory",
+    "assembly_name": "UnityEngine.Purchasing.WinRTStub"
+  },
+  "574": {
+    "name": "AmazonApps",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "AmazonApps",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "575": {
+    "name": "InitializationOptions",
+    "namespace": "Unity.Services.Core",
+    "class_name": "InitializationOptions",
+    "assembly_name": "Unity.Services.Core"
+  },
+  "576": {
+    "name": "PurchasingManager",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "PurchasingManager",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "577": {
+    "name": "IDiagnosticsFactory",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "class_name": "IDiagnosticsFactory",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "578": {
+    "name": "HttpResponse",
+    "namespace": "Unity.Services.Core.Networking.Internal",
+    "class_name": "HttpResponse",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "579": {
+    "name": "FullNameFilter",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Filters",
+    "class_name": "FullNameFilter",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "580": {
+    "name": "GetGoogleProductMetadataExtension",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "GetGoogleProductMetadataExtension",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "581": {
+    "name": "Environments",
+    "namespace": "Unity.Services.Core.Environments.Internal",
+    "class_name": "Environments",
+    "assembly_name": "Unity.Services.Core.Environments.Internal"
+  },
+  "582": {
+    "name": "FakeAmazon",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "FakeAmazonExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "583": {
+    "name": "WinRTStore",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "WinRTStore",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "584": {
+    "name": "HighScoresScript",
+    "namespace": "",
+    "class_name": "HighScoresScript",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "585": {
+    "name": "ScriptingRuntimeProxy",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "ScriptingRuntimeProxy",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "586": {
+    "name": "TestCommandBuilder",
+    "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+    "class_name": "TestCommandBuilder",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "587": {
+    "name": "ProductDescriptionQuery",
+    "namespace": "UnityEngine.Purchasing.Models",
+    "class_name": "ProductDescriptionQuery",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "588": {
+    "name": "StreamingAssetsConfigurationLoader",
+    "namespace": "Unity.Services.Core.Configuration",
+    "class_name": "StreamingAssetsConfigurationLoader",
+    "assembly_name": "Unity.Services.Core.Configuration"
+  },
+  "589": {
+    "name": "IMetricsFactory",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "class_name": "IMetricsFactory",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "590": {
+    "name": "EnSonchalok",
+    "namespace": "",
+    "class_name": "EnSonchalok",
+    "assembly_name": "Assembly-CSharp"
+  },
+  "591": {
+    "name": "PurchaseEventArgs",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "PurchaseEventArgs",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "592": {
+    "name": "IMicrosoftConfiguration",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IMicrosoftConfiguration",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "593": {
+    "name": "UnityActivity",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "UnityActivity",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "594": {
+    "name": "PayoutDefinition",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "PayoutDefinition",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "595": {
+    "name": "IDiagnostics",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "class_name": "IDiagnostics",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "596": {
+    "name": "IUDPExtensions",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "IUDPExtensions",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "597": {
+    "name": "PlayerQuitHandler",
+    "namespace": "UnityEngine.TestTools.TestRunner.Callbacks",
+    "class_name": "PlayerQuitHandler",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "598": {
+    "name": "DiagnosticsFactory",
+    "namespace": "Unity.Services.Core.Telemetry.Internal",
+    "class_name": "DiagnosticsFactory",
+    "assembly_name": "Unity.Services.Core.Telemetry"
+  },
+  "599": {
+    "name": "iOSStoreBindings",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "iOSStoreBindings",
+    "assembly_name": "UnityEngine.Purchasing.AppleStub"
+  },
+  "600": {
+    "name": "IAsyncOperation",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "IAsyncOperation",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "601": {
+    "name": "AssemblyLoadProxy",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "AssemblyLoadProxy",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "602": {
+    "name": "LegacyAnalyticsAdapter",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "LegacyAnalyticsAdapter",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "603": {
+    "name": "PackageInitializationInfo",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "PackageInitializationInfo",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "604": {
+    "name": "AnalyticsUserIdServiceComponent",
+    "namespace": "Unity.Services.Analytics.Internal",
+    "class_name": "AnalyticsUserIdServiceComponent",
+    "assembly_name": "Unity.Services.Analytics"
+  },
+  "605": {
+    "name": "StacktraceFilter",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "StackTraceFilter",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "606": {
+    "name": "ReflectionMethodsCache",
+    "namespace": "UnityEngine.UI",
+    "class_name": "ReflectionMethodsCache",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "607": {
+    "name": "IScriptingRuntimeProxy",
+    "namespace": "UnityEngine.TestTools.Utils",
+    "class_name": "IScriptingRuntimeProxy",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "608": {
+    "name": "Image",
+    "namespace": "UnityEngine.UI",
+    "class_name": "Image",
+    "assembly_name": "UnityEngine.UI"
+  },
+  "609": {
+    "name": "UnityTestAttribute",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "UnityTestAttribute",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "610": {
+    "name": "ProductCollection",
+    "namespace": "UnityEngine.Purchasing",
+    "class_name": "ProductCollection",
+    "assembly_name": "UnityEngine.Purchasing"
+  },
+  "611": {
+    "name": "IPostBuildCleanup",
+    "namespace": "UnityEngine.TestTools",
+    "class_name": "IPostBuildCleanup",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "612": {
+    "name": "UnityTestTimeoutException",
+    "namespace": "UnityEngine.TestTools.TestRunner",
+    "class_name": "UnityTestTimeoutException",
+    "assembly_name": "UnityEngine.TestRunner"
+  },
+  "613": {
+    "name": "IGooglePurchaseService",
+    "namespace": "UnityEngine.Purchasing.Interfaces",
+    "class_name": "IGooglePurchaseService",
+    "assembly_name": "UnityEngine.Purchasing.Stores"
+  },
+  "614": {
+    "name": "LockedComponentRegistry",
+    "namespace": "Unity.Services.Core.Internal",
+    "class_name": "LockedComponentRegistry",
+    "assembly_name": "Unity.Services.Core.Internal"
+  },
+  "615": {
+    "name": "AnalyticsTracker",
+    "namespace": "UnityEngine.Analytics",
+    "class_name": "AnalyticsTracker",
+    "assembly_name": "Unity.Analytics.Tracker.dll"
+  },
+  "11993": {
+    "name": "TemplateAsset",
+    "namespace": "UnityEngine.UIElements",
+    "class_name": "TemplateAsset",
+    "assembly_name": "UnityEngine"
+  },
+  "11995": {
+    "name": "VisualTreeAsset",
+    "namespace": "UnityEngine.UIElements",
+    "class_name": "VisualTreeAsset",
+    "assembly_name": "UnityEngine"
+  },
+  "11998": {
+    "name": "StyleSheet",
+    "namespace": "UnityEngine.UIElements",
+    "class_name": "StyleSheet",
+    "assembly_name": "UnityEngine"
+  },
+  "12001": {
+    "name": "GUISkin",
+    "namespace": "UnityEngine",
+    "class_name": "GUISkin",
+    "assembly_name": "UnityEngine"
+  },
+  "13312": {
+    "name": "Tile",
+    "namespace": "UnityEngine.Tilemaps",
+    "class_name": "Tile",
+    "assembly_name": "UnityEngine"
+  },
+  "13313": {
+    "name": "TileBase",
+    "namespace": "UnityEngine.Tilemaps",
+    "class_name": "TileBase",
+    "assembly_name": "UnityEngine"
+  },
+  "19000": {
+    "name": "TextSettings",
+    "namespace": "UnityEngine.TextCore.Text",
+    "class_name": "TextSettings",
+    "assembly_name": "UnityEngine"
+  },
+  "19001": {
+    "name": "FontAsset",
+    "namespace": "UnityEngine.TextCore.Text",
+    "class_name": "FontAsset",
+    "assembly_name": "UnityEngine"
+  },
+  "19002": {
+    "name": "SpriteAsset",
+    "namespace": "UnityEngine.TextCore.Text",
+    "class_name": "SpriteAsset",
+    "assembly_name": "UnityEngine"
+  },
+  "19003": {
+    "name": "TextColorGradient",
+    "namespace": "UnityEngine.TextCore.Text",
+    "class_name": "TextColorGradient",
+    "assembly_name": "UnityEngine"
+  },
+  "19004": {
+    "name": "TextStyleSheet",
+    "namespace": "UnityEngine.TextCore.Text",
+    "class_name": "TextStyleSheet",
+    "assembly_name": "UnityEngine"
+  },
+  "19100": {
+    "name": "VectorImage",
+    "namespace": "UnityEngine.UIElements",
+    "class_name": "VectorImage",
+    "assembly_name": "UnityEngine"
+  },
+  "19101": {
+    "name": "PanelSettings",
+    "namespace": "UnityEngine.UIElements",
+    "class_name": "PanelSettings",
+    "assembly_name": "UnityEngine"
+  },
+  "19102": {
+    "name": "UIDocument",
+    "namespace": "UnityEngine.UIElements",
+    "class_name": "UIDocument",
+    "assembly_name": "UnityEngine"
+  },
+  "19103": {
+    "name": "PanelTextSettings",
+    "namespace": "UnityEngine.UIElements",
+    "class_name": "PanelTextSettings",
+    "assembly_name": "UnityEngine"
+  },
+  "19202": {
+    "name": "ThemeStyleSheet",
+    "namespace": "UnityEngine.UIElements",
+    "class_name": "ThemeStyleSheet",
+    "assembly_name": "UnityEngine"
+  },
+  "1": {
+    "name": "GoogleMobileAdsSettings",
+    "namespace": "GoogleMobileAds.Editor",
+    "class_name": "GoogleMobileAdsSettings",
+    "assembly_name": "GoogleMobileAds.Editor"
+  }
+}
