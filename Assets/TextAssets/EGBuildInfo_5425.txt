@@ -1,0 +1,4 @@
+Build Date: 10 Nov 2025 - 12:43:23 PM
+Unity: 2022.3.62f3
+AdMob: 9.5.0
+IAP: 4.13.0
