@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+BuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_ConfigSources: []
+  m_BuildTarget: 13
+  m_PlatformBuildProfile: 0
+  m_StandaloneBuildSettings:
+    m_BuildSubtarget: 0
+    m_BuildWithDeepProfilingSupport: 0
+    m_UseManagedDebugger: 1
+    m_UseScriptDebugger: 0
+    m_UseEditorProfiler: 0
+    m_UseVulkan: 0
+    m_AllowHeadlessMode: 0
+  m_AndroidBuildSettings:
+    m_BuildSubtarget: 0
+    m_AndroidBuildSystem: 0
+    m_AndroidBuildSubtarget: 0
+    m_UseAPKExpansionFiles: 0
+    m_UseSplitApplicationBinary: 0
+    m_UseKeystore: 0
+    m_KeystoreName:
+    m_KeystorePassword:
+    m_KeyaliasName:
+    m_KeyaliasPassword:
+    m_AndroidCreateSymbols: 0
+    m_AndroidUseCustomMainManifest: 0
+    m_AndroidManifest:
+    m_AndroidMinifyWithR8: 0
+    m_AndroidMinifyRelease: 0
+    m_AndroidMinifyDebug: 0
+    m_AndroidCreateZipAlign: 0
+    m_AndroidUseLegacyGradleBuild: 0
+    m_AndroidUseGradleBuild: 0
+    m_AndroidUseGeneratedSymbols: 0
+    m_AndroidUseGeneratedSymbolsZips: 0
+    m_AndroidUseAssetPackDelivery: 0
+    m_AndroidMinSdkVersion: 22
+    m_AndroidTargetSdkVersion: 0
+    m_AndroidPreferredInstallLocation: 1
+    m_AndroidForceInternetPermission: 0
+    m_AndroidForceSDCardPermission: 0
+    m_AndroidCreateWallpaper: 0
+    m_AndroidBundleVersionCode: 19
+  m_IOSBuildSettings:
+    m_BuildSubtarget: 0
+    m_IOSBuildSystem: 0
+    m_IOSBuildAndRun: 0
+    m_IOSCreateSymbolsZip: 0
+    m_IOSDeveloperTeam:
+    m_IOSProvisioningProfile:
+    m_IOSProvisioningProfileType: 0
+    m_IOSUseAutomaticSigning: 0
+    m_IOSSdkVersion: 988
+    m_IOSRequireARKitSupport: 0
+    m_IOSAutomaticallyDetectAndAddCapabilities: 1
+  m_WebBuildSettings:
+    m_BuildSubtarget: 0
+    m_WebBuildWithDeepProfilingSupport: 0
+    m_WebUseManagedDebugger: 1
+    m_WebUseEditorProfiler: 0
+    m_WebEnableCompression: 1
+    m_WebCompressionFormat: 0
+    m_WebDecompressionFallback: 0
+    m_WebNameTemplate: '{0}'
+    m_WebIL2CPPCodeGeneration: 0

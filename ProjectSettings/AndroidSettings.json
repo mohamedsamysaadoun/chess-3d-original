@@ -1,0 +1,14 @@
+{
+  "templateInfo": {
+    "displayName": "3D",
+    "id": "com.unity.template.3d",
+    "version": "8.0.0"
+  },
+  "useCustomMainManifest": false,
+  "useCustomLauncherManifest": false,
+  "useCustomMainGradleTemplate": false,
+  "useCustomLauncherGradleManifest": false,
+  "useCustomBaseGradleTemplate": false,
+  "useCustomGradlePropertiesTemplate": false,
+  "useCustomProguardFile": false
+}
