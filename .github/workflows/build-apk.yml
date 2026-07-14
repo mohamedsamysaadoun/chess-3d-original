@@ -1,0 +1,104 @@
+name: Build Android APK
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build APK
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Free up disk space
+        run: |
+          echo "=== Before cleanup ==="
+          df -h /
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /opt/ghc
+          sudo rm -rf "/usr/local/share/boost"
+          sudo rm -rf /usr/local/lib/android/sdk/ndk
+          sudo rm -rf /usr/local/lib/android/sdk/emulator
+          sudo rm -rf /usr/local/lib/android/sdk/system-images
+          sudo apt-get clean
+          sudo apt-get autoremove -y
+          echo "=== After cleanup ==="
+          df -h /
+
+      - name: Cache Library
+        uses: actions/cache@v3
+        with:
+          path: |
+            Library
+            Temp
+          key: Library-2022.3.20-${{ hashFiles('Assets/**', 'Packages/**', 'ProjectSettings/**') }}
+          restore-keys: |
+            Library-2022.3.20-
+            Library-
+
+      - name: Setup Unity
+        uses: game-ci/unity-setup@v3
+        with:
+          unity-version: 2022.3.20f1
+          android: true
+          ios: false
+          webgl: false
+
+      - name: Create Android Keystore
+        run: |
+          keytool -genkey -v \
+            -keystore user.keystore \
+            -storepass android \
+            -alias debug \
+            -keypass android \
+            -keyalg RSA \
+            -keysize 2048 \
+            -validity 10000 \
+            -dname "CN=RealChess3D,O=Reconstructed,C=US"
+          ls -la user.keystore
+
+      - name: Activate Unity License
+        uses: game-ci/unity-activate@v2
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+
+      - name: Build Android APK
+        uses: game-ci/unity-builder@v4
+        env:
+          ANDROID_KEYSTORE_BASE64: ""
+        with:
+          targetPlatform: Android
+          androidKeystoreName: user.keystore
+          androidKeystorePass: android
+          androidKeyaliasName: debug
+          androidKeyaliasPass: android
+          androidTargetSdkVersion: AndroidApiLevelAuto
+          buildMethod: UnityEditor.BuildPlayerWindow:BuildPlayer
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: RealChess3D-Reconstructed
+          path: build/Android.apk
+          retention-days: 30
+          if-no-files-found: warn
+
+      - name: Upload build log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-log
+          path: |
+            build/
+            *.log
+          retention-days: 7
+          if-no-files-found: warn
